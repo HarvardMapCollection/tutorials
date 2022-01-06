@@ -22,4 +22,4 @@ Basemaps can be helpful reference points when working with spatial data.
 ![Screen recording of zooming in close on an area in New York](media/zoom.gif)
 
 ## Tips
-- To add other styles of basemap not included by default in the QGIS install, you can run a Google search about the latest QGIS plugins for basemaps. Here is a 2018 article about using basemap plugin [Quick Map Services](https://opengislab.com/blog/2018/4/15/add-basemaps-in-qgis-30) for additional basemap styles.
+- To add other styles of basemap not included by default in the QGIS install, you can run a Google search about the latest QGIS plugins for basemaps. Here is a [2018 article about using basemap plugin Quick Map Services](https://opengislab.com/blog/2018/4/15/add-basemaps-in-qgis-30) for additional basemap styles.
