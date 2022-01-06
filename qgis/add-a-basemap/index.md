@@ -11,6 +11,8 @@ Basemaps can be helpful reference points when working with spatial data.
 2. In the left-hand browser menu, locate `XYZ Tiles → OpenStreetMap`
 > OpenStreetMap base tiles are built in to QGIS.
 
+![Screenshot of the QGIS browser panel](media/2.png)
+
 3. Drag `OpenStreetMap` into the `Map Canvas`
 
 ![Screen recording of dragging the base layer into the map canvas](media/add.gif)
