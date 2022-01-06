@@ -1,4 +1,4 @@
-# Downloading QGIS
+# How to Download QGIS
 
 QGIS is a free and open source desktop GIS software used to create, edit, visualize, analyze, and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
 
