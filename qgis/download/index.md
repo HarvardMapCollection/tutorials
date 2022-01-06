@@ -4,7 +4,7 @@ QGIS is a free and open source desktop GIS software used to create, edit, visual
 
 ## How to Download
 
-1. Visit https://qgis.org/en/site/.
+1. Visit [QGIS.org](https://qgis.org/en/site/).
 
 2. Select `Download Now`.
 

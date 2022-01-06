@@ -1,7 +1,7 @@
 # Tutorials
 
 ## Census Data
-- [Prepare US Census Data for Use in ArcGIS Online Mini Series]()
+- [Census Data to ArcGIS Online Starter Pack](https://harvardmapcollection.github.io/tutorials/census/census2agol/)
 - [How to Download US Census Boundary Files](https://harvardmapcollection.github.io/tutorials/census/how-to-download-census-boundary-files/)
 
 ## OpenStreetMap
