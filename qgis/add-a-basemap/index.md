@@ -9,6 +9,7 @@ Basemaps can be helpful reference points when working with spatial data.
 ![Screenshot of the QGIS opening page with a red box highlighting the Open a New Project option](media/1.png)
 
 2. In the left-hand browser menu, locate `XYZ Tiles → OpenStreetMap`
+
 > OpenStreetMap base tiles are built in to QGIS.
 
 ![Screenshot of the QGIS browser panel](media/2.png)
