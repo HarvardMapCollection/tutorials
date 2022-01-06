@@ -5,4 +5,4 @@ This tutorial series will equip you with the skills needed to work with United S
 ## Lessons
 
 1. [How to Download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/downloading/)
-> While ArcGIS Online [AGOL] can handle many tasks, you will first need a desktop software to perform some of the data edits necessary to prepare data for use in AGOL.
+> While ArcGIS Online [AGOL] can handle many tasks, you will first need a desktop software to perform some of the data edits required to work with census data in AGOL.
