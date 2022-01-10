@@ -12,7 +12,7 @@ Social Explorer, while slightly more user-friendly, requires a license. You are 
 
 If you do not have a Social Explorer license, the same data can be accessed on [NHGIS.org](nhgis.org).
 
-Either choice yields similar results for census data that are better-suited for GIS methods than data that comes from the official census download website.
+Either choice yields similar results for census data that are more tailored for GIS methods than downloads from the US census official site.
 
 
 ## Example data
