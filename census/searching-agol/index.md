@@ -7,15 +7,15 @@ When you search for datasets in ArcGIS Online, the results come back with any da
 
 ArcGIS Online requires any user to tag data they have uploaded as `public` before being able to share a webmap. This means many users are incentivized to make datasets public, without requirements to share information about their own data practices. This makes the data hard to rely on.
 
-Even in cases where you suspect the data is probably legitimate, a lack of methodology means that it will be hard to use any data obtained this way in your own research.
+Even in cases where you suspect the data is probably legitimate, a lack of avaiblable methodology means that it can be hard to use the data in your own research project.
 
 For instance, here is a dataset made public by another Harvard researcher. When you search `Cambridge census` this dataset comes up.
 
 ![Screenshot of user-added data in ArcGIS Online](media/1.png)
 
-While this researcher most likely processed their data using reliable best practices, there is no way of knowing. A lot of the time, behind the scenes, data columns are tallied up, combined, etc. 
+While this researcher most likely processed their data using reliable best practices, there is information available on how they processed the data behind the scenes, including the way data columns were tallied up, combined, manipulated, etc. 
 
-We don't have any description for how this data was processed.
+There is no documentation for this dataset.
 ![Screenshot of lack of user-contributed metadata](media/2.png)
 
 To ensure your data is reliable for your research purposes, you should opt for obtaining data from the source, in this case the US census, and performing data cleaning practices yourself, though it is more time-consuming.
