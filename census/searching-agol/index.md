@@ -15,7 +15,9 @@ For instance, here is a dataset made public by another Harvard researcher. When 
 
 While this researcher most likely processed their data using reliable best practices, there is no information available on how they processed the data behind the scenes. This could include where the data was acquired, how data columns were manipulated, combined, analyzed, etc. 
 
-To ensure your data is reliable for your research purposes, you should opt for obtaining data from the source, in this case the US census, and performing data cleaning practices yourself, though it is more time-consuming.
+To ensure data you are using for your research project is reliable, you should opt for obtaining data from the source, in this case the US census, and performing data cleaning practices yourself, though it may be more time-consuming.
+
+### Living Atlas considerations
 
 The ESRI Living Atlas is a growing repository of data sources aggregated by ESRI, the company who owns ArcGIS Online. In this repository, they allow users to filter datasets using the `authoritative` flag. Not sure what this actually means? Here is an p[ESRI-published StoryMap](https://storymaps.arcgis.com/stories/820980061e124d71b19c7bc124390bef) which provides information on how datasets are tagged as `authoritative`. You can use this StoryMap to decide if a datasets you find is suitable for your research purposes.
 
