@@ -18,6 +18,13 @@ In this tutorial series, we will be working with `tenure` data. This variable ad
 
 The steps you will learn in this tutorial series can be applied to all US census data, regardless of the variable or geography you are working with.
 
+![Screenshot of final map, showing renter occupied units in Somerville and Cambridge](media/1.png)
+_Example of the final data, uploaded to ArcGIS Online._
+
+## Do I need data?
+
+Oftentimes
+
 ## Obtaining via Social Explorer
 
 ## Obtaining via NHGIS.org
