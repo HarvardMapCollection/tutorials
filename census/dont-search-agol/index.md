@@ -10,6 +10,7 @@ ArcGIS Online requires any user to tag data they have uploaded as `public` befor
 Even in cases where you suspect the data is probably legitimate, a lack of methodology means that it will be hard to use any data obtained this way in your own research.
 
 For instance, here is a dataset made public by another Harvard researcher. When you search `Cambridge census` this dataset comes up.
+
 ![Screenshot of user-added data in ArcGIS Online](media/1.png)
 
 While this researcher most likely processed their data using reliable best practices, there is no way of knowing. A lot of the time, behind the scenes, data columns are tallied up, combined, etc. 
