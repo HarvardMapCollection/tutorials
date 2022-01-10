@@ -13,7 +13,7 @@ For instance, here is a dataset made public by another Harvard researcher. When 
 
 ![Screenshot of user-added data in ArcGIS Online](media/1.png)
 
-While this researcher most likely processed their data using reliable best practices, there is no information available on how they processed the data behind the scenes, including the way data columns were tallied up, combined, manipulated, etc. 
+While this researcher most likely processed their data using reliable best practices, there is no information available on how they processed the data behind the scenes. This could include where the data was acquired, how data columns were manipulated, combined, analyzed, etc. 
 
 There is no documentation for this dataset.
 ![Screenshot of lack of user-contributed metadata](media/2.png)
