@@ -17,3 +17,7 @@ Either choice yields similar results for census data that are well-tailored for 
 In this tutorial series, we will be working with `tenure` data. This variable addresses the percent of units that are owner vs. renter-occupied. We will be looking at areas around the Harvard campus, in Somerville and Cambridge. 
 
 The steps you will learn in this tutorial series can be applied to all US census data, regardless of the variable or geography you are working with.
+
+## Obtaining via Social Explorer
+
+## Obtaining via NHGIS.org
