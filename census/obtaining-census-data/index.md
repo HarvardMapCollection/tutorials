@@ -12,6 +12,10 @@ Social Explorer, while slightly more user-friendly, requires a license. You are 
 
 Either choice yields similar results for census data that are well-tailored for GIS methods. We recommend using these sources, as opposed to downloading directly from [census.gov](census.gov).
 
+### Why not just search in ArcGIS Online?
+
+ArcGIS Online has 
+
 
 ## Example data
 In this tutorial series, we will be working with `tenure` data. This variable addresses the percent of units that are owner vs. renter-occupied. We will be looking at areas around the Harvard campus, in Somerville and Cambridge. 
