@@ -10,8 +10,8 @@ In this lesson, you will learn how to get both of those files from your choice o
 
 Social Explorer, while slightly more user-friendly, requires a license. You are able to [access Social Explorer with your Harvard Key](http://nrs.harvard.edu/urn-3:hul.eresource:socialex). If you do not have a Social Explorer license, the same data can be accessed on [NHGIS.org](nhgis.org).
 
-Either choice yields similar results for census data that are more tailored for GIS methods than downloads from the US census official site.
+Either choice yields similar results for census data that are well-tailored for GIS methods. We recommend using these sources, as opposed to downloading directly from [census.gov](census.gov).
 
 
 ## Example data
-For this tutorial series, we will be working with `tenure` data, which tells us for each census geography the percent renter vs. owner occupied. 
+In this tutorial series, we will be working with `tenure` data for areas around the Har
