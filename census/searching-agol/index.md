@@ -19,7 +19,7 @@ To ensure data you are using for your research project is reliable, you should o
 
 ### Living Atlas considerations
 
-The ESRI Living Atlas is a growing repository of data sources aggregated by ESRI, the company who owns ArcGIS Online. In this repository, they allow users to filter datasets using the `authoritative` flag. Not sure what this actually means? Here is an[ESRI-published StoryMap](https://storymaps.arcgis.com/stories/820980061e124d71b19c7bc124390bef) which provides information on how datasets are tagged as `authoritative`. You can use this StoryMap to decide if a datasets you find is suitable for your research purposes.
+The ESRI Living Atlas is a growing repository of data sources aggregated by ESRI, the company who owns ArcGIS Online. In this repository, they allow users to filter datasets using the `authoritative` flag. Not sure what this actually means? Here is an[ESRI-published StoryMap](https://storymaps.arcgis.com/stories/820980061e124d71b19c7bc124390bef) which provides information on how datasets are tagged as `authoritative`. You can use this StoryMap to decide if "authoritative" datasets you find are suitable for your research purposes.
 
 
 ## You are limited to what other people have uploaded
