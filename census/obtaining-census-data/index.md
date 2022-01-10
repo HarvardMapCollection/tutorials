@@ -14,7 +14,6 @@ If you do not have a Social Explorer license, the same data can be accessed on [
 
 Either choice yields similar results for census data that are better-suited for GIS methods than data that comes from the official census download website.
 
-You will learn how to use both in this tutorial.
 
 ## Example data
 For this tutorial series, we will be working with `tenure` data, which tells us for each census geography the percent renter vs. owner occupied. 
