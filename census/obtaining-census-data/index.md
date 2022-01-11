@@ -24,7 +24,7 @@ _Example of the data we will work with, uploaded to ArcGIS Online._
 ## Do I need data?
 Sometimes, you don't need to download census data in order to make use of it for your research. Many tools, like Social Explorer, allow you to visualize the demographic variable you are interested in, and even export rendered maps.
 
-To help decide if you need to go through the process of downloading data, and navigating the Social Explorer visualization functions, check out our [How to Decide What Data I Need](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/).
+To help decide if you need to go through the process of downloading data, and navigating the Social Explorer visualization functions, check out our [How to Decide If I Need Geospatial Data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/).
 
 ## Obtaining via Social Explorer
 
