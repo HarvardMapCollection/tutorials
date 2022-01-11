@@ -16,7 +16,8 @@ To download and process data requires additional time and skill-building. Knowin
 ![An example of a .PNG map export from Social Explorer showing people age 18-34 by tract in Somerville and Cambridge](media/map.png)
 
 ![An example of the map legend which is exported from social explorer from the previous map](media/legend.png)
-_Example of a rendered map exported from Social Explorer, showing percent of people aged 18-34 in Somerville and Cambridge_
+
+_Example of a rendered map materials auto-exported from Social Explorer, showing percent of people aged 18-34 in Somerville and Cambridge_
 
 ### Times when you will probably need to download and process geospatial data
 
