@@ -47,6 +47,8 @@ _Map showing ambulatory difficulty for census tracts in NYC._
 ![Social Explorer map of under age 5](media/2.png)
 _Map showing population under age 5 for census tracts in NYC._
 
+By downloading the data tables, they were able to do some math in Excel to tally up the demographic statistics into one mappable column. 
+
 #### Reason #2: Performing analysis
 
 
