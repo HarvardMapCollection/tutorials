@@ -57,7 +57,7 @@ The second reason this cartographer needed to download the data, is because they
 
 #### Reason #3: Custom styling the map
 
-Finally, this cartographer did some custom styling, which allowed them to communicate their argument, or story more effectively.
+Finally, this cartographer did some custom styling, which allowed them to communicate their argument, or story more effectively than the boilerplate exports from Social Explorer would have.
 
 You can learn how to do each of these steps by following [the tutorial for creating this map](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html) from PointsUnknown. 
 
