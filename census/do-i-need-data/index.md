@@ -9,7 +9,7 @@ To download and process data requires additional time and skill-building. Knowin
 ## Cheat sheet
 
 ### Times when explore tools will probably do the trick
-- You want to get a better sense of the data, without the time spent creating your own visualization
+- You want to get a better sense of the data, without spending time creating your own visualization
 - You want to create a simple map displaying the data with no customization, comparison with other datasets, or analysis
 - A good tool exists for the data you are studying, like in the case of [Social Explorer tool](http://nrs.harvard.edu/urn-3:hul.eresource:socialex) for US census data
 
