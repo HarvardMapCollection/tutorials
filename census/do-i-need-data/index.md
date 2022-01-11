@@ -34,7 +34,9 @@ _Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/
 
 In the map above, which makes the case for increased tranportation amenities for those with impaired mobility, the cartographer needed to download geospatial data. We will go over some of the reasons why.
 
-1. For the demographic data, which, in this map appears as the orange-red gradient, the cartographer wanted to show all people who might require specific transit infrastructure, such as elevators. This means they needed to _combine_ population statistics from two census tables: `population with abulatory difficulties` _and_ `population under age 5`, but display them on the same map.
+#### Reason #1: Editing the data tables
+
+For the demographic data, which, in this map appears as the orange-red gradient, the cartographer wanted to show all people who might require specific transit infrastructure, such as elevators. This means they needed to _combine_ population statistics from two census tables: `population with abulatory difficulties` _and_ `population under age 5`, but display them on the same map.
 
 If this cartographer had been using a tool like Social Explorer to generate their maps, rather than downloading and editing the datasets on their desktop, they would have had to export prerendered maps of each demographic separately, which would have looked like this:
 
@@ -44,9 +46,15 @@ _Map showing ambulatory difficulty for census tracts in NYC._
 ![Social Explorer map of under age 5](media/2.png)
 _Map showing population under age 5 for census tracts in NYC._
 
-2. The second reason this cartographer needed to download the data, is because they wanted to make a point about places where there were large pockets of mobility-impaired citizens over a ten-minute walking distance from a train station. This required using both datasets together with desktop GIS analysis functions to yield mappable results. 
+#### Reason #2: Performing analysis
 
-3. Finally, this cartographer did some custom styling, which allowed them to communicate their argument, or story more effectively.
+
+The second reason this cartographer needed to download the data, is because they wanted to make a point about places where there were large pockets of mobility-impaired citizens over a ten-minute walking distance from a train station. This required using both datasets together with desktop GIS analysis functions to yield mappable results. 
+
+
+#### Reason #3: Custom styling the map
+
+Finally, this cartographer did some custom styling, which allowed them to communicate their argument, or story more effectively.
 
 You can learn how to do each of these steps by following [the tutorial for creating this map](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html) from PointsUnknown. 
 
