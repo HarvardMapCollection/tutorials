@@ -10,7 +10,7 @@ In this lesson, you will learn how to get both of those files from your choice o
 
 Social Explorer, while slightly more user-friendly, requires a license. You are able to [access Social Explorer with your Harvard Key](http://nrs.harvard.edu/urn-3:hul.eresource:socialex). If you do not have a Social Explorer license, the same data can be accessed on [NHGIS.org](nhgis.org).
 
-Either choice yields similar results for census data that are well-tailored for GIS methods. We recommend using these sources, as opposed to downloading directly from [census.gov](census.gov).
+Either choice yields similar results for census data that are well-tailored for GIS methods. We recommend using these sources, as opposed to downloading directly from The U.S. Census Bureau portal.
 
 
 ## Example data
@@ -22,8 +22,9 @@ The steps you will learn in this tutorial series can be applied to all US census
 _Example of the data we will work with, uploaded to ArcGIS Online._
 
 ## Do I need data?
+Sometimes, you don't need to download census data in order to make use of it for your research. Many tools, like Social Explorer, allow you to visualize the demographic variable you are interested in, and even export rendered maps.
 
-Oftentimes
+To help decide if you need to go through the process of downloading data, and navigating the Social Explorer visualization functions, check out our [How to Decide What Data I Need](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/).
 
 ## Obtaining via Social Explorer
 
