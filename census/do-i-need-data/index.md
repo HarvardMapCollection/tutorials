@@ -30,7 +30,7 @@ _Example of a rendered map exported from Social Explorer, showing percent of peo
 ### Example 
 
 ![Nice looking map of New York City showing sophisticated analysis and styling](media/1.png)
-_Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html), a great way to get started learning how to make maps.
+_Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html), a great way to get started learning how to make maps._
 
 In the map above, which makes the case for increased tranportation amenities for those with impaired mobility, the cartographer needed to download geospatial data. We will go over some of the reasons why.
 
