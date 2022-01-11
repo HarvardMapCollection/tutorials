@@ -44,11 +44,11 @@ _Map showing ambulatory difficulty for census tracts in NYC._
 ![Social Explorer map of under age 5](media/2.png)
 _Map showing population under age 5 for census tracts in NYC._
 
-2. The second reason this cartographer needed to download the data, is because they needed to combine the population data with data about distances from train stations, in order to make the case for where more infrastructure services should be added.
+2. The second reason this cartographer needed to download the data, is because they wanted to make a point about places where there were large pockets of mobility-impaired citizens over a ten-minute walking distance from a train station. This required using both datasets together with desktop GIS analysis functions to yield mappable results. 
 
-3. Finally, this cartographer did some custom styling, to make the map appear more to their tastes, and to be able to communicate their argument, or story more effectively.
+3. Finally, this cartographer did some custom styling, which allowed them to communicate their argument, or story more effectively.
 
-You can learn how to do each of these steps by following [the tutorial for creating this map](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html). 
+You can learn how to do each of these steps by following [the tutorial for creating this map](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html) from PointsUnknown. 
 
 
 
