@@ -8,7 +8,7 @@ To download and process data requires additional time and skill-building. Knowin
 
 ## Cheat sheet
 
-### When you can rely solely on explore tools
+### Times when explore tools will probably do the trick
 - A robust data visualization explore tool exists for the data you are studying, like in the case of the useful [Social Explorer tool](http://nrs.harvard.edu/urn-3:hul.eresource:socialex) for US census data
 - You want to get a better sense of the data, without the time spent creating your own visualization
 - You want to create a simple map displaying the data with no customization, comparison with other datasets, or analysis
@@ -18,7 +18,7 @@ To download and process data requires additional time and skill-building. Knowin
 ![An example of the map legend which is exported from social explorer from the previous map](media/legend.png)
 _Example of a rendered map exported from Social Explorer, showing percent of people aged 18-34 in Somerville and Cambridge_
 
-### When you will need to download and process geospatial data
+### Times when you will probably need to download and process geospatial data
 
 - You want your visualization to be more customized than what is available in the exploration tool. Some examples include:
     - editing the dataset's geography to lend focus to a specific place
