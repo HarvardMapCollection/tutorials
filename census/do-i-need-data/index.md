@@ -23,7 +23,7 @@ _Example of a rendered map materials auto-exported from Social Explorer, showing
 
 - You want your visualization to be more customized than what is available in the exploration tool. Some examples include:
     - editing the dataset's geography to lend focus to a specific place
-    - styling the data in Adobe Illustrator to have more control over your map's look and feel 
+    - styling the data in Adobe Illustrator or [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/) to have more control over your map's look and feel 
 - You need to perform some sort of math or analysis on the data "under the hood" prior to creating the visualization. Some examples include:
     - tallying or combining multiple fields 
     - overlaying and comparing with different datasets to understand the impact of a certain factor
