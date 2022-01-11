@@ -11,7 +11,7 @@ To download and process data requires additional time and skill-building. Knowin
 ### Times when explore tools will probably do the trick
 - You want to get a better sense of the data, without spending time creating your own visualization
 - You want to create a simple map displaying the data with no customization, comparison with other datasets, or analysis
-- A good tool exists for the data you are studying, like in the case of [Social Explorer tool](http://nrs.harvard.edu/urn-3:hul.eresource:socialex) for US census data
+- A good explore tool exists for the data you are studying, like in the case of [Social Explorer tool](http://nrs.harvard.edu/urn-3:hul.eresource:socialex) for US census data
 
 ![An example of a .PNG map export from Social Explorer showing people age 18-34 by tract in Somerville and Cambridge](media/map.png)
 
