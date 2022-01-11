@@ -52,7 +52,7 @@ By downloading the data tables, they were able to do some math in Excel to tally
 #### Reason #2: Performing analysis
 
 
-The second reason this cartographer needed to download the data, is because they wanted to make a point about places where there were large pockets of mobility-impaired citizens over a ten-minute walking distance from a train station. This required using both datasets together with desktop GIS analysis functions to yield mappable results. 
+The second reason this cartographer needed to download the data, is because they wanted to make a point about places where there were large pockets of mobility-impaired citizens over a ten-minute walking distance from a train station. This required using both datasets together with analysis tools to create the distance buffers. 
 
 
 #### Reason #3: Custom styling the map
