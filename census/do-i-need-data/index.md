@@ -32,16 +32,16 @@ _Example of a rendered map exported from Social Explorer, showing percent of peo
 ![Nice looking map of New York City showing sophisticated analysis and styling](media/1.png)
 _Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html), a great way to get started learning how to make maps.
 
-In the map above, the cartographer needed to download geospatial data for many reasons.
+In the map above, which makes the case for increased tranportation amenities for those with impaired mobility, the cartographer needed to download geospatial data. We will go over some of the reasons why.
 
-1. For the orange-colored census data, they want to show all people who require specific transit infrastructure, like elevators. This means they needed to _combine_ two census datasets, `population with abulatory difficulties` _and_ `population under age 5`
+1. For the demographic data, which, in this map appears as the orange-red gradient, the cartographer wanted to show all people who might require specific transit infrastructure, such as elevators. This means they needed to _combine_ population statistics from two census tables: `population with abulatory difficulties` _and_ `population under age 5`, but display them on the same map.
 
-If they were using a tool like Social Explorer to make their maps, they would have to export maps of each dataset separately, which would look like this:
+If this cartographer had been using a tool like Social Explorer to generate their maps, rather than downloading and editing the datasets on their desktop, they would have had to export prerendered maps of each demographic separately, which would have looked like this:
 
-![Social Explorer map of ambulatory difficulty](media/2.png)
+![Social Explorer map of ambulatory difficulty](media/3.png)
 _Map showing ambulatory difficulty for census tracts in NYC._
 
-![Social Explorer map of under age 5](media/3.png)
+![Social Explorer map of under age 5](media/2.png)
 _Map showing population under age 5 for census tracts in NYC._
 
 2. The second reason this cartographer needed to download the data, is because they needed to combine the population data with data about distances from train stations, in order to make the case for where more infrastructure services should be added.
