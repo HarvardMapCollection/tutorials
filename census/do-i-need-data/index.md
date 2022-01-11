@@ -27,6 +27,8 @@ _Example of a rendered map exported from Social Explorer, showing percent of peo
     - tallying or combining multiple fields 
     - overlaying and comparing with different datasets to understand the impact of a certain factor
 
+## Example project requiring data download
+
 ![Nice looking map of New York City showing sophisticated analysis and styling](media/1.png)
 
 In the map above, the cartographer needed to download geospatial data for many reasons.
