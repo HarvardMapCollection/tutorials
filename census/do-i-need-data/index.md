@@ -8,7 +8,7 @@ To download and process data requires additional time and skill-building. Knowin
 
 ![An example of a .PNG map export from Social Explorer showing people age 18-34 by tract in Somerville and Cambridge](media/map.png)
 
-_Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), a tool that lets you interactive explore census data. This map shows percent of people aged 18-34 in Somerville and Cambridge_
+_Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), a tool that lets you interactively explore census data. This map shows percent of people aged 18-34 in Somerville and Cambridge_
 
 
 ## Cheat sheet
