@@ -4,31 +4,27 @@ Deciding whether you need to download and process geospatial data is a good firs
 
 There are many online visualization tools and streaming data services that allow you to explore popular GIS datasets, and even export rendered maps without having to download data.
 
-To download and process data requires additional time and skill-building. Knowing ahead of time whether you should budget this time and knowledge acquisition into your project is useful.
-
-## Cheat sheet
-
-### Times when explore tools will probably do the trick
-- You want to get a better sense of the data, without spending time creating your own visualization
-- You want to create a simple map displaying the data with no customization, comparison with other datasets, or analysis
-- A good explore tool exists for the data you are studying, like in the case of [Social Explorer tool](http://nrs.harvard.edu/urn-3:hul.eresource:socialex) for US census data
-
 ![An example of a .PNG map export from Social Explorer showing people age 18-34 by tract in Somerville and Cambridge](media/map.png)
 
 ![An example of the map legend which is exported from social explorer from the previous map](media/legend.png)
 
-_Example of rendered map materials auto-exported from Social Explorer, showing percent of people aged 18-34 in Somerville and Cambridge_
+_Example of rendered map materials auto-exported from [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), a great explore tool for US census data. This map shows percent of people aged 18-34 in Somerville and Cambridge_
 
-### Times when you will probably need to download and process geospatial data
 
-- You want your visualization to be more customized than what is available in the exploration tool. Some examples include:
-    - editing the dataset's geography to lend focus to a specific place
-    - styling the data in Adobe Illustrator or [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/) to have more control over your map's look and feel 
-- You need to perform some sort of math or analysis on the data "under the hood" prior to creating the visualization. Some examples include:
-    - tallying or combining multiple fields 
-    - overlaying and comparing with different datasets to understand the impact of a certain factor
+To download and process data requires additional time and skill-building. Knowing ahead of time whether you should budget this time and knowledge acquisition into your project is useful.
 
-### Example 
+## Cheat sheet
+
+| **Use explore tools**     | **Probably need data** |
+| ----------- | ----------- |
+| Good explore tools exist for my dataset  | No explore tools exist      |
+| Get a sense of the data quickly     | Want to dive deeper into the data      |
+| No analysis needed   | Need to do analysis, combine, or edit the data       |
+| No comparison with other datasets needed  | Want to compare with other datasets       |
+| No custom map design needed | Want to  have control over how the final output looks       |
+
+
+### Case study
 
 ![Nice looking map of New York City showing sophisticated analysis and styling](media/1.png)
 _Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html), a great way to get started learning how to make maps._
