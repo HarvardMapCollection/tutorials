@@ -19,7 +19,7 @@ _Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/u
 | Get a sense of the data quickly     | Want to dive deeper into the data      |
 | No analysis needed   | Need to do analysis, combine, or edit the data       |
 | No comparison with other datasets needed  | Want to compare with other datasets       |
-| No custom map design needed | Want to  have control over how the final output looks       |
+| No custom map design needed | Want tp control look of final map output   |
 
 
 ### Case study
