@@ -4,14 +4,12 @@ Deciding whether you need to download and process geospatial data is a good firs
 
 There are many online visualization tools and streaming data services that allow you to explore popular GIS datasets, and even export rendered maps without having to download data.
 
+To download and process data requires additional time and skill-building. Knowing ahead of time whether you should budget this time and knowledge acquisition into your project is useful.
+
 ![An example of a .PNG map export from Social Explorer showing people age 18-34 by tract in Somerville and Cambridge](media/map.png)
 
-![An example of the map legend which is exported from social explorer from the previous map](media/legend.png)
+_Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), a tool that lets you interactive explore census data. This map shows percent of people aged 18-34 in Somerville and Cambridge_
 
-_Example of rendered map materials auto-exported from [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), a great explore tool for US census data. This map shows percent of people aged 18-34 in Somerville and Cambridge_
-
-
-To download and process data requires additional time and skill-building. Knowing ahead of time whether you should budget this time and knowledge acquisition into your project is useful.
 
 ## Cheat sheet
 
