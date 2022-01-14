@@ -34,17 +34,19 @@ _Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/
 
 #### Data download reason #1: Editing the data tables
 
-For the demographic data, which, in this map appears as the orange-red gradient, the cartographer wanted to show all people who might require specific transit infrastructure, such as elevators. This means they needed to _combine_ population statistics from two census tables and put them on one map: `population with abulatory difficulties` _and_ `population under age 5`.
+In this map, the census variable represented, is actually a combination of _two_ census variables. This combination was accomplished by adding two fields together in a program like Excel, Google Sheets, or LibreOffice Calc.
 
-If this cartographer had been using a tool like Social Explorer to generate their maps, rather than downloading and editing the datasets on their desktop, they would have had to export prerendered maps of each demographic separately, which would have looked like this:
+The cartographer is trying to make a point about people who have difficulty getting to train stops more than ten minutes away, as well as those who require features such as elevators. Therefore, they combined two demographic factors: `population with abulatory difficulties` _and_ `population under age 5`.
+
+They probably could have used a tool like Social Explorer to get an inital sense of where the most people with ambulatory difficulties, or people under age 5 live, before they dove into their mapping project, but if they wanted to export maps from this tool, they would have had to do each variable separately.
 
 ![Social Explorer map of ambulatory difficulty](media/3.png)
-_Map showing ambulatory difficulty for census tracts in NYC._
+_Social Explorer map showing ambulatory difficulty for census tracts in NYC._
 
 ![Social Explorer map of under age 5](media/2.png)
-_Map showing population under age 5 for census tracts in NYC._
+_Social Explorer map showing population under age 5 for census tracts in NYC._
 
-By downloading the data tables, they were able to do some math in Excel to tally up the demographic statistics into one mappable column. 
+By downloading the data tables, they were able to tally up the demographic statistics into one mappable column. 
 
 #### Data download reason #2: Performing analysis
 
