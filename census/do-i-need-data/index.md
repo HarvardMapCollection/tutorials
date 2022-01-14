@@ -30,7 +30,9 @@ Now, we will look at an example of a map depicting census data, and go through s
 _Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html), a great way to get started learning how to make maps._
 
 
-#### Reason #1: Editing the data tables
+
+
+#### Data download reason #1: Editing the data tables
 
 For the demographic data, which, in this map appears as the orange-red gradient, the cartographer wanted to show all people who might require specific transit infrastructure, such as elevators. This means they needed to _combine_ population statistics from two census tables and put them on one map: `population with abulatory difficulties` _and_ `population under age 5`.
 
@@ -44,13 +46,13 @@ _Map showing population under age 5 for census tracts in NYC._
 
 By downloading the data tables, they were able to do some math in Excel to tally up the demographic statistics into one mappable column. 
 
-#### Reason #2: Performing analysis
+#### Data download reason #2: Performing analysis
 
 
 The second reason this cartographer needed to download the data, is because they wanted to make a point about places where there were large pockets of mobility-impaired citizens over a ten-minute walking distance from a train station. This required using both datasets together with analysis tools to create the distance buffers. 
 
 
-#### Reason #3: Custom styling the map
+#### Data download reason #3: Custom styling the map
 
 Finally, this cartographer did some custom styling, which allowed them to communicate their argument, or story more effectively than the boilerplate exports from Social Explorer would have.
 
