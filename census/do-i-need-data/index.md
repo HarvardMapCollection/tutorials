@@ -48,15 +48,14 @@ _Social Explorer map showing population under age 5 for census tracts in NYC._
 
 #### Data download reason #2: Performing analysis
 
-
-The second reason this cartographer needed to download the data, is because they wanted to make a point about places where there were large pockets of mobility-impaired citizens over a ten-minute walking distance from a train station. This required using both datasets together with analysis tools to create the distance buffers. 
+One of the goals for this map is to show places where large pockets of mobility-impaired citizens live further than a ten-minute walking distance from any train station. Accomplishing this required using both census datasets together with desktop mapping software analysis tools, in order to create the distance buffers. 
 
 
 #### Data download reason #3: Custom styling the map
 
-Finally, this cartographer did some custom styling, which allowed them to communicate their argument, or story more effectively than the boilerplate exports from Social Explorer would have.
+Finally, this cartographer did some custom styling, which allowed them to communicate their points, or story more effectively than they could have with boilerplate exports from a tool like Social Explorer.
 
-You can follow along [the tutorial for creating this map](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html) from PointsUnknown. 
+If you'd like to learn how to make the map in this example, you can follow [this map making tutorial](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html) from PointsUnknown. 
 
 
 
