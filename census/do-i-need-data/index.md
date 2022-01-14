@@ -6,7 +6,7 @@ There are many online visualization tools and streaming data services that allow
 
 To download and process data requires additional time and skill-building. Planning in advance whether you should budget this time and knowledge acquisition into your project will help you get more mileage out of what you can accomplish.
 
-![An example of a .PNG map export from Social Explorer showing people age 18-34 by tract in Somerville and Cambridge](media/map.png)
+![An example of a .PNG map export from Social Explorer showing people age 18-34 by tract in Somerville and Cambridge](media/map.png).
 
 _Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), a tool that lets you interactively explore census data. This map shows percent of people aged 18-34 in Somerville and Cambridge_
 
