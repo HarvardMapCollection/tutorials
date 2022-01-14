@@ -4,7 +4,7 @@ Deciding whether you need to download and process geospatial data is a good firs
 
 There are many online visualization tools and streaming data services that allow you to explore popular GIS datasets, and even export rendered maps without having to download data.
 
-To download and process data requires additional time and skill-building. Knowing ahead of time whether you should budget this time and knowledge acquisition into your project is useful.
+To download and process data requires additional time and skill-building. Planning in advance whether you should budget this time and knowledge acquisition into your project will help you get more mileage out of what you can accomplish.
 
 ![An example of a .PNG map export from Social Explorer showing people age 18-34 by tract in Somerville and Cambridge](media/map.png)
 
