@@ -27,7 +27,7 @@ _Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/u
 Now, we will look at an example of a map depicting census data, and go through some of the reasons why the cartographer needed to download and manipulate GIS census data, rather than using a tool like Social Explorer. The example map tells a story about people in New York City who have impaired mobility, and why there needs to be more robust transit infrastructure to serve them.
 
 ![Nice looking map of New York City showing sophisticated analysis and styling](media/1.png)
-_Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html), a great way to get started learning how to make maps._
+_Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/tutorial_list/), a great way to get started learning how to make maps._
 
 
 
