@@ -23,7 +23,7 @@
 
 8. Choose to add the corresponding location `From Map Canvas`.
 
-9. Find the location on the modern map
+9. Find the location on the modern map.
 
 10. Click `OK` on the Enter Map Coordinates dialog box. In the GDAL Georeferencer, the map will not automatically snap to the correct location. Preview is not available until a few points have been added.
 
