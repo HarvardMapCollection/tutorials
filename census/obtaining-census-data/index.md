@@ -6,7 +6,7 @@ Sometimes new mappers are tripped up by census data, because in order to make a 
 
 ## Sources
 
-In this lesson, you will learn how to get both of those files from your choice of two different sources, either **Social Explorer** or **NHGIS.org**.
+In this lesson, you will learn how to get these files from your choice of the following sources.
 
 ### Social Explorer
 
