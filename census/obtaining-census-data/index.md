@@ -26,7 +26,7 @@ Either choice will provide you with census data well-tailored for GIS methods. W
 - We will be exploring `tenure` data, which looks at owner vs. renter-occupied units.
 - We want census responses that have been aggregated to the **census tract** level.
 - Our area of study is near the Harvard campus, in Somerville and Cambridge. 
-- We'll be looking at the most recent [estimates](https://www.census.gov/programs-surveys/acs/guidance/estimates.html) at the time this guide was written, 2015-2019.
+- We'll be looking at the most recent [estimates](https://www.census.gov/programs-surveys/acs/guidance/estimates.html) at the time this guide was written, **2015-2019**.
 
 > **Geography tip:** Census tracts are a popular aggregation unit, as they are more granular than county or state level data, but more available and statistically-reliable than block level data. 
 
@@ -69,6 +69,14 @@ To help decide if you need to budget time for learning how to download and manip
 
 9. Check off `Census Tract`.
 ![Screenshot of checked-off census tract option on NHGIS.org](media/9.png)
+
+6. Finalize your geographic levels selection by choosing the `Submit` button.
+![Screenshot of Submit button on NHGIS.org](media/6.png)
+
+10. To indicate the time frame we are looking for, select `Years`.
+![Screenshot of Years facet on NHGIS.org](media/10.png)
+
+
 
 
 
