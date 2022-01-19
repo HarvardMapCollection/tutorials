@@ -12,12 +12,12 @@
 ## QGIS
 - [How to Download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/)
 - [How to add a basemap to a QGIS project](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/)
+- [How to Georeference in QGIS](https://harvardmapcollection.github.io/tutorials/georeferencing/qgis)
+
 
 ## StoryMaps
 - [How to Log in via Harvard Center for Geographic Analysis and Configure a StoryMap](https://canvas.harvard.edu/courses/77693/pages/storymaps)
 
-## Georeferencing
-- [How to Georeference in QGIS](https://harvardmapcollection.github.io/tutorials/georeferencing/qgis)
 
 
 
