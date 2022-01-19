@@ -27,7 +27,7 @@ Either choice will provide you with census data well-tailored for GIS methods. W
 - We want census responses that have been aggregated to the **census tract** level.
 - Our area of study is near the Harvard campus, in Somerville and Cambridge. 
 
-> **Geography tip:** Tracts are a popular aggregation unit, as they are more granular than data aggregated to the county or state level, but more statistically reliable and available than data at the block level. 
+> **Geography tip:** Census tracts are a popular aggregation unit, as they are more granular than data aggregated to the county or state level, but more statistically reliable and available than data at the block level. 
 
 The steps in this tutorial series will work for any U.S. census data, such as age, race, income, etc.
 
