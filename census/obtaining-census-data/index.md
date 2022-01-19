@@ -22,7 +22,7 @@ In this lesson, you will learn how to get these files from your choice of the fo
 Either choice will provide you with census data well-tailored for GIS methods. We recommend using one of these sources for digital mapping, as opposed to downloading directly from The U.S. Census Bureau portal.
 
 
-## Example data specifications
+## Example data 
 - We will be exploring `tenure` data, which looks at owner vs. renter-occupied units.
 - We want census responses that have been aggregated to the **census tract** level.
 - Our area of study is near the Harvard campus, in Somerville and Cambridge. 
