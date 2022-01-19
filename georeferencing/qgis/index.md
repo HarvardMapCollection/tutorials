@@ -57,7 +57,7 @@ When new points are added or changes are made, click the green Start Georeferenc
 > Saving control points ensures that your georeferencing efforts are backed up. 
 If, for some reason, they did not export correctly, it is possible to export them by navigating back into the GDAL Georeferencer window and selecting `File → Save GCP points as ... `
 
-19. The best way to check for image quality is to open the new geoTIFF in a photo editing software, preferably Photoshop. 
+19. The best way to check for image quality is to open the new geoTIFF in a photo editing software, preferably [Photoshop](https://harvard.service-now.com/ithelp?id=kb_article&sys_id=9f3244d3dba304d430ed1dca489619e0). 
 > Some source image files have bit depths that are incompatible with georeferencing, and sometimes transformation settings can cause loss. Inspecting in Photoshop is a good way to check quality.
 
 
