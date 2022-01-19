@@ -19,7 +19,7 @@ In this lesson, you will learn how to get these files from your choice of the fo
 - No license required
 - [Access NHGIS.org for free](nhgis.org)
 
-Either choice yields similar results for census data that are well-tailored for GIS methods. We recommend using these sources for digital mapping, as opposed to downloading directly from The U.S. Census Bureau portal.
+Either choice will provide you with census data well-tailored for GIS methods. We recommend using one of these sources for digital mapping, as opposed to downloading directly from The U.S. Census Bureau portal.
 
 
 ## Example data
