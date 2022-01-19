@@ -12,12 +12,12 @@ In this lesson, you will learn how to get these files from your choice of the fo
 
 - User-friendly
 - Requires a license
-- [Access via Harvard Key](http://nrs.harvard.edu/urn-3:hul.eresource:socialex)
+- [Access Social Explorer via Harvard Key](http://nrs.harvard.edu/urn-3:hul.eresource:socialex)
 
 ### NHGIS.org
 - Somewhat less intuitive
 - No license required
-- [Access for free at NHGIS.org](nhgis.org)
+- [Access NHGIS.org for free](nhgis.org)
 
 Either choice yields similar results for census data that are well-tailored for GIS methods. We recommend using these sources for digital mapping, as opposed to downloading directly from The U.S. Census Bureau portal.
 
