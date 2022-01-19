@@ -22,13 +22,16 @@ In this lesson, you will learn how to get these files from your choice of the fo
 Either choice will provide you with census data well-tailored for GIS methods. We recommend using one of these sources for digital mapping, as opposed to downloading directly from The U.S. Census Bureau portal.
 
 
-## Example data
-In this tutorial series, we will be working with `tenure` data. This variable addresses the percent of units that are owner vs. renter-occupied. We will be looking at areas around the Harvard campus, in Somerville and Cambridge. 
+## Example data specifications
+- We will be exploring `tenure` data, which looks at owner vs. renter-occupied units.
+- We want census responses that have been aggregated to the **census tract** level.
+- Our area of study is near the Harvard campus, in Somerville and Cambridge. 
+> **Geography note:** Tracts are a popular aggregation unit, as they are more granular than data aggregated to the county or state level, but more statistically reliable and available than data at the block level. 
 
-You can apply what you learn in this tutorial series to any U.S. demographic factor, such as age, race, income, etc.
+The steps in this tutorial series will work for any U.S. census data, such as age, race, income, etc.
 
 ![Screenshot of final map, showing renter occupied units in Somerville and Cambridge](media/1.png)
-_Example of the data we will work with, uploaded to ArcGIS Online._
+_Example of the tenure data we will work with, uploaded to ArcGIS Online._
 
 ## Do I need data?
 Sometimes, you don't need to download census data in order to make use of it for your research. Many tools, like [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), allow you to visualize the data directly in the browser, and even export rendered maps.
@@ -58,6 +61,8 @@ To help decide if you need to go through the process of downloading data, and na
 
 7. Under `Source Tables`, check off the **Tenure** data table. This add the table to our shopping cart.
 ![Screenshot of checked-off tenure table on NHGIS.org](media/7.png)
+
+8. 
 
 
 
