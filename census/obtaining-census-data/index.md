@@ -56,4 +56,8 @@ To help decide if you need to go through the process of downloading data, and na
 6. Finalize your topics selection by choosing the `Submit` button.
 ![Screenshot of Submit button on NHGIS.org](media/6.png)
 
+7. Under `Source Tables`, check off the **Tenure** data table. This add the table to our shopping cart.
+![Screenshot of checked-off tenure table on NHGIS.org](media/7.png)
+
+
 
