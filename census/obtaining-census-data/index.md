@@ -45,4 +45,7 @@ To help decide if you need to go through the process of downloading data, and na
 ![Screenshot of Get Data button on NHGIS.org](media/2.png)
 
 3. Select `Topics`. 
-![Screenshot of Topics button on NHGIS.org](media/3.png)
+![Screenshot of Topics facet on NHGIS.org](media/3.png)
+
+4. Select `Housing`.
+![Screenshot of Housing topic facet on NHGIS.org](media/4.png)
