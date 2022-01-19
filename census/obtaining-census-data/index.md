@@ -37,7 +37,7 @@ _Example of the tenure data we will work with, uploaded to ArcGIS Online._
 ## Do I need data?
 Sometimes, you don't need to download census data in order to make use of it for your research. Many tools, like [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), allow you to visualize the data directly in the browser, and even export rendered maps.
 
-To help decide if you need to go through the process of downloading data, and navigating the Social Explorer visualization functions, check out our [How to Decide If I Need Geospatial Data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/).
+To help decide if learning how to download and manipulate geospatial data is appropriate for your research, check out our [How to Decide If I Need Geospatial Data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/).
 
 ## Obtaining via Social Explorer
 
