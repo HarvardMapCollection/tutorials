@@ -89,6 +89,12 @@ To help decide if you need to budget time for learning how to download and manip
 15. Checkout by selecting `Continue` from the data cart in the upper-right hand corner of the screen.
 ![Screenshot of data cart on NHGIS.org](media/14.png)
 
+16. Accept all of the download defaults.
+
+17. Select `Submit`.
+> You will need to create a free login in order to checkout. You can create one in a new tab if you don't want to lose your data selection.
+
+
 
 
 
