@@ -8,7 +8,16 @@ Sometimes new mappers are tripped up by census data, because in order to make a 
 
 In this lesson, you will learn how to get both of those files from your choice of two different sources, either **Social Explorer** or **NHGIS.org**.
 
-Social Explorer, while slightly more user-friendly, requires a license. You are able to [access Social Explorer with your Harvard Key](http://nrs.harvard.edu/urn-3:hul.eresource:socialex). If you do not have a Social Explorer license, the same data can be accessed on [NHGIS.org](nhgis.org).
+### Social Explorer
+
+- User-friendly
+- Requires a license
+- [Access via Harvard Key](http://nrs.harvard.edu/urn-3:hul.eresource:socialex)
+
+### NHGIS.org
+- Somewhat less intuitive
+- No license required
+- [Access for free](nhgis.org)
 
 Either choice yields similar results for census data that are well-tailored for GIS methods. We recommend using these sources, as opposed to downloading directly from The U.S. Census Bureau portal.
 
