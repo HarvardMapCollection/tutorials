@@ -61,26 +61,29 @@ To help decide if you need to budget time for learning how to download and manip
 6. Finalize your topics selection by choosing the `Submit` button.
 ![Screenshot of Submit button on NHGIS.org](media/6.png)
 
-7. Under `Source Tables`, check off the **Tenure** data table. This add the table to our shopping cart.
-![Screenshot of checked-off tenure table on NHGIS.org](media/7.png)
-
-8. To find the census tract files, select `Geographic Levels`.
+7. To specify we want to work with census tracts, select `Geographic Levels`.
 ![Screenshot of Geographic Levels facet on NHGIS.org](media/8.png)
 
-9. Check off `Census Tract`.
+8. Check off `Census Tract`.
 ![Screenshot of checked-off census tract option on NHGIS.org](media/9.png)
 
-10. Finalize your geographic levels selection by choosing the `Submit` button.
+9. Finalize your geographic levels selection by choosing the `Submit` button.
 ![Screenshot of Submit button on NHGIS.org](media/6.png)
 
-11. To indicate our time frame of 2015-2019, select `Years`.
+10. To indicate our time frame of 2015-2019, select `Years`.
 ![Screenshot of Years facet on NHGIS.org](media/10.png)
 
-12. Check off `2015-2019`.
+11. Check off `2015-2019`.
 ![Screenshot of checked-off 2015-2019 option on NHGIS.org](media/11.png)
 
-
-13. Finalize your years selection by choosing the `Submit` button.
+12. Finalize your years selection by choosing the `Submit` button.
 ![Screenshot of Submit button on NHGIS.org](media/6.png)
+
+13. Under `Source Tables`, check off the **Tenure** data table. This will add the census statistical table to our shopping cart.
+![Screenshot of checked-off tenure table on NHGIS.org](media/7.png)
+
+14. To change the view from tables that meet our criteria to GIS boundary files, select `GIS Files`.
+![Screenshot of GIS files tab on NHGIS.org](media/12.png)
+
 
 
