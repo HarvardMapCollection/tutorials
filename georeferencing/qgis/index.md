@@ -12,20 +12,16 @@
 >The Georeferencing plugin comes automatically installed with recent versions of QGIS. If you do not see it, it is because it has not been enabled. To enable: navigate to `Plugins → Manage & Install Plugins → Installed` and make sure the box next to Georeferencer GDAL is checked.
 
 5. Open the image you wish to georeference in the georeferencer, by clicking the blue checkered `Open Raster` icon in the menu banner.
-
 ![Screenshot of open raster icon](media/2.png)
 
 
 6. After you have added an image to the GDAL Georeferencer, click the `Add Point` button in the menu banner.
-
 ![Screenshot of add point icon](media/3.png)
 
 
 7. Choose a spot on the historical map for which you think you can find a corresponding modern location. Street intersections are a good place to start, if they still exist!
 
 8. Choose to add the corresponding location `From Map Canvas`.
-
-![Screenshot of from map canvas button](media/4.png)
 
 9. Find the location on the modern map
 
@@ -34,7 +30,6 @@
 11. Add two more control points, so that there are three total, attempting to spread the gcps on opposite corners of the map.
 
 12. When there are three points, click the green `Start Georeferencing` button.
-
 ![Screenshot of start georeferencing icon](media/5.png)
 
 
