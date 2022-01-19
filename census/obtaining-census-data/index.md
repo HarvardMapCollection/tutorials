@@ -80,10 +80,16 @@ To help decide if you need to budget time for learning how to download and manip
 ![Screenshot of Submit button on NHGIS.org](media/6.png)
 
 13. Under `Source Tables`, check off the **Tenure** data table. This will add the census statistical table to our shopping cart.
-![Screenshot of checked-off tenure table on NHGIS.org](media/7.png)
+![Screenshot of checked-off tenure table on NHGIS.org](media/13.png)
 
-14. To change the view from tables that meet our criteria to GIS boundary files, select `GIS Files`.
+14. To change the results that match our criteria from **tables** to **GIS boundary files**, select `GIS Files`.
+>Remember, we need both!
 ![Screenshot of GIS files tab on NHGIS.org](media/12.png)
+
+15. Checkout by selecting `Continue` from the data cart in the upper-right hand corner of the screen.
+![Screenshot of data cart on NHGIS.org](media/14.png)
+
+
 
 
 
