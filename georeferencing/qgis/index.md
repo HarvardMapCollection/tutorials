@@ -2,7 +2,7 @@
 
 1. [Download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/), if you haven't already.
 
-2. Add a basemap Browser → XYZ Tiles → Open Street Map.
+2. [Add a basemap](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/) `Browser → XYZ Tiles → Open Street Map`.
 
 3. Set the project projection to WGS 84. At all times in the bottom right of the QGIS document, EPSG should read 4326.
 > You can use another projection that fits with your project data, but selecting 4326 will ensure the maps are compatible with any webmapping project, especially those using Leaflet.
