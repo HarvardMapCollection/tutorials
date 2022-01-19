@@ -25,7 +25,7 @@ Either choice will provide you with census data well-tailored for GIS methods. W
 ## Example data
 In this tutorial series, we will be working with `tenure` data. This variable addresses the percent of units that are owner vs. renter-occupied. We will be looking at areas around the Harvard campus, in Somerville and Cambridge. 
 
-You can apply what you learn in this tutorial series to any demographic factor, like age, race, income, etc.
+You can apply what you learn in this tutorial series to any U.S. demographic factor, such as age, race, income, etc.
 
 ![Screenshot of final map, showing renter occupied units in Somerville and Cambridge](media/1.png)
 _Example of the data we will work with, uploaded to ArcGIS Online._
