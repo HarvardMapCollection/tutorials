@@ -49,3 +49,7 @@ To help decide if you need to go through the process of downloading data, and na
 
 4. Select `Housing`.
 ![Screenshot of Housing topic facet on NHGIS.org](media/4.png)
+
+5. Check off `Tenure and Mortgage Status`.
+![Screenshot of Tenure and Mortgage Status topic checked off on NHGIS.org](media/5.png)
+
