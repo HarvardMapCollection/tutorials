@@ -63,7 +63,9 @@ To help decide if you need to budget time for learning how to download and manip
 7. Under `Source Tables`, check off the **Tenure** data table. This add the table to our shopping cart.
 ![Screenshot of checked-off tenure table on NHGIS.org](media/7.png)
 
-8. 
+8. To find the census tract files, select `Geographic Levels`.
+![Screenshot of Geographic Levels facet on NHGIS.org](media/8.png)
+
 
 
 
