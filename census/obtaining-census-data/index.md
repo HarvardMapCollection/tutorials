@@ -66,6 +66,8 @@ To help decide if you need to budget time for learning how to download and manip
 8. To find the census tract files, select `Geographic Levels`.
 ![Screenshot of Geographic Levels facet on NHGIS.org](media/8.png)
 
+9. Check off `Census Tract`.
+![Screenshot of checked-off census tract option on NHGIS.org](media/9.png)
 
 
 
