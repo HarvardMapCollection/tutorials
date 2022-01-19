@@ -53,3 +53,7 @@ To help decide if you need to go through the process of downloading data, and na
 5. Check off `Tenure and Mortgage Status`.
 ![Screenshot of Tenure and Mortgage Status topic checked off on NHGIS.org](media/5.png)
 
+6. Finalize your topics selection by choosing the `Submit` button.
+![Screenshot of Submit button on NHGIS.org](media/6.png)
+
+
