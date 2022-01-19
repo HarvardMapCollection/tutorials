@@ -70,13 +70,17 @@ To help decide if you need to budget time for learning how to download and manip
 9. Check off `Census Tract`.
 ![Screenshot of checked-off census tract option on NHGIS.org](media/9.png)
 
-6. Finalize your geographic levels selection by choosing the `Submit` button.
+10. Finalize your geographic levels selection by choosing the `Submit` button.
 ![Screenshot of Submit button on NHGIS.org](media/6.png)
 
-10. To indicate our time frame of 2015-2019, select `Years`.
+11. To indicate our time frame of 2015-2019, select `Years`.
 ![Screenshot of Years facet on NHGIS.org](media/10.png)
 
+12. Check off `2015-2019`.
+![Screenshot of checked-off 2015-2019 option on NHGIS.org](media/11.png)
 
 
+13. Finalize your years selection by choosing the `Submit` button.
+![Screenshot of Submit button on NHGIS.org](media/6.png)
 
 
