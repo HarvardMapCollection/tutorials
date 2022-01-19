@@ -38,3 +38,8 @@ To help decide if you need to go through the process of downloading data, and na
 ## Obtaining via Social Explorer
 
 ## Obtaining via NHGIS.org
+
+1. Visit NHGIS.org.
+
+2. Select `Get Data`.
+![Screenshot of Get Data button on NHGIS.org](media/2.png)
