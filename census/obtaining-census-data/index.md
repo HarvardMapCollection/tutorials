@@ -94,6 +94,14 @@ To help decide if you need to budget time for learning how to download and manip
 17. Select `Submit`.
 > You will need to create a free login in order to checkout. You can create one in a new tab if you don't want to lose your data selection.
 
+### Tips
+
+- It takes a few minutes to prepare your extract. You can either wait and refresh the page, or you will receive an email when the data is ready.
+- Extracts come with any accompanying codebook.
+![Screenshot of codebook file from  NHGIS.org download](media/15.png)
+- Use this codebook to make sense of the table's field names.
+![Screenshot of codebook from  NHGIS.org download](media/16.png)
+
 
 
 
