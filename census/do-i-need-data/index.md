@@ -44,7 +44,9 @@ The point of the map is that people need increased train services, such as addit
 
 To show that people live outside of train service areas, the cartographer used a GIS function called a **buffer**. Buffers measure distance outwards from a location. In the example map, a buffer is applied around the train stop locations measuring walking distance outward, so the cartographer can accentuate populated places where people need services. 
 ![Graphic demonstrating buffer concept](media/4.png)
+
 _From [ArcGIS docs about buffers](https://desktop.arcgis.com/en/arcmap/10.3/tools/analysis-toolbox/buffer.htm)._ 
+
 
 Buffers are created using desktop GIS programs like ArcGIS Pro or QGIS. These programs have robust geospatial analysis capabilites. After generating the buffer layer, the cartographer draped it over the census data by arranging the datasets as layers.
 ![Screenshot explaining concept of layers](media/5.png)
