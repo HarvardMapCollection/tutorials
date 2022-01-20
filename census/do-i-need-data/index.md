@@ -42,7 +42,7 @@ The point of the map is that people need increased train services, such as addit
 
 #### Data download reason #2: Performing analysis
 
-To show that people live outside of train service areas, the cartographer used a GIS function called a **buffer**. Buffers measure distance outwards from a location. In this map, a ten-minute walking distance buffer is applied around all of the train stop locations, so the cartographer can accentuate populated areas where people need services. 
+To show that people live outside of train service areas, the cartographer used a GIS function called a **buffer**. Buffers measure distance outwards from a location. In the example map, a ten-minute walking distance buffer is applied around all of the train stop locations, so the cartographer can accentuate populated areas where people need services. 
 ![Graphic demonstrating buffer concept](media/4.png)
 _From [ArcGIS docs about buffers](https://desktop.arcgis.com/en/arcmap/10.3/tools/analysis-toolbox/buffer.htm)._ 
 
