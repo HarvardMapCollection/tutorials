@@ -50,7 +50,7 @@ _From [ArcGIS docs about buffers](https://desktop.arcgis.com/en/arcmap/10.3/tool
 
 Buffers are created using desktop GIS programs like ArcGIS Pro or QGIS. These programs have robust geospatial analysis capabilites. After generating the buffer layer, the cartographer draped it over the census data by arranging the datasets as layers.
 ![Screenshot explaining concept of layers](media/5.png)
-_Layering concept explained by [NISL GIS](https://planet.uwc.ac.za/nisl/gis/tutorial/page_04.htm)_
+_Layering concept explained by [NISL GIS](https://planet.uwc.ac.za/nisl/gis/tutorial/page_04.htm)._
 
 #### Data download reason #3: Custom styling the map
 
