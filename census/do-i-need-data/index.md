@@ -11,7 +11,7 @@ To download and process data requires additional time and skill-building. Planni
 _Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), a tool that lets you interactively explore census data. This map shows percent of people aged 18-34 in Somerville and Cambridge_
 
 
-## Cheat sheet
+## Do I need data checklist
 
 | **Use explore tools**     | **Probably need data** |
 | ----------- | ----------- |
@@ -24,36 +24,35 @@ _Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/u
 
 ### Case study
 
-Now, we will look at an example of a map depicting census data, and go through some of the reasons why the cartographer needed to download and manipulate GIS census data, rather than using a tool like Social Explorer. The example map tells a story about people in New York City who have impaired mobility, and why there needs to be more robust transit infrastructure to serve them.
+Let's look at an example map using census data. Why did the cartographer need to download copies of the data to their computer in order to make this map?
+
+#### Quick facts
+- The map is about people in NYC who have impaired mobility
+- It argues that there should be more robust transit infrastructure to serve them
+- It uses a combination of _two_ census variables as well as transit data to make that argument
+
 
 ![Nice looking map of New York City showing sophisticated analysis and styling](media/1.png)
 _Map created from the [PointsUnknown tutorial series](https://pointsunknown.nyc/tutorial_list/), a great way to get started learning how to make maps._
 
 
-
-
 #### Data download reason #1: Editing the data tables
 
-In this map, the census variable represented, is actually a combination of _two_ census variables. This combination was accomplished by adding two fields together in a program like Excel, Google Sheets, or LibreOffice Calc.
-
-The cartographer is trying to make a point about people who have difficulty getting to train stops more than ten minutes away, as well as those who require features such as elevators. Therefore, they combined two demographic factors: `population with abulatory difficulties` _and_ `population under age 5`.
-
-They probably could have used a tool like Social Explorer to get an inital sense of where the most people with ambulatory difficulties, or people under age 5 live, before they dove into their mapping project, but if they wanted to export maps from this tool, they would have had to do each variable separately.
-
-![Social Explorer map of ambulatory difficulty](media/3.png)
-_Social Explorer map showing ambulatory difficulty for census tracts in NYC._
-
-![Social Explorer map of under age 5](media/2.png)
-_Social Explorer map showing population under age 5 for census tracts in NYC._
+The point of the map is that people need increased train services, such as additional stops and elevators within stations. To make that point, the cartographer wanted to show _who_ those people are, and where they live. The problem is, everyone who might have trouble walking to a train or need an elevator doesn't fit into one neat census category. To make this point, the cartographer needed to download _two_ census variables, `population with abulatory difficulties` _and_ `population under age 5`, and combine that data together using a program like Excel or Google Sheets. It is this new, combined column we see visualized as the orange-red gradient in the example map.
 
 #### Data download reason #2: Performing analysis
 
-One of the goals for this map is to show places where large pockets of mobility-impaired citizens live further than a ten-minute walking distance from any train station. Accomplishing this required using both census datasets together with desktop mapping software analysis tools, in order to create the distance buffers. 
+To show that people live outside of train service areas, the cartographer used a GIS function called a **buffer**. Buffers measure distance outwards from a location. In this map, a ten-minute walking distance buffer is applied around all of the train stop locations, so the cartographer can accentuate populated areas where people need services. 
+![Graphic demonstrating buffer concept](media/4.png)
+_From [ArcGIS docs about buffers](https://desktop.arcgis.com/en/arcmap/10.3/tools/analysis-toolbox/buffer.htm)._ 
 
+Buffers are created using desktop GIS programs like ArcGIS Pro or QGIS. These programs have robust geospatial analysis capabilites. After generating the buffer layer, the cartographer draped it over the census data by arranging the datasets as layers.
+![Screenshot explaining concept of layers](media/5.png)
+_Layering concept explained by [NISL GIS](https://planet.uwc.ac.za/nisl/gis/tutorial/page_04.htm)_
 
 #### Data download reason #3: Custom styling the map
 
-Finally, this cartographer did some custom styling, which allowed them to communicate their points, or story more effectively than they could have with boilerplate exports from a tool like Social Explorer.
+All maps communicate something, whether the map maker is trying to, or not! [Being deliberate about styling choices](https://www.axismaps.com/guide) is how cartographers elevate what they hope are the main arguments of the map. In the example, the cartographer makes many custom styling decisions. Cartographers apply styling to the data using programs such as ArcGIS or QGIS, or for more sophisticated cartography, Adobe Illustrator. 
 
 If you'd like to learn how to make the map in this example, you can follow [this map making tutorial](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html) from PointsUnknown. 
 
