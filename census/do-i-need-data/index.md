@@ -54,7 +54,7 @@ _Layering concept explained by [NISL GIS](https://planet.uwc.ac.za/nisl/gis/tuto
 
 #### Data download reason #3: Custom styling the map
 
-All maps communicate something, whether the map maker is trying to, or not! [Being deliberate about styling choices](https://www.axismaps.com/guide) is how cartographers elevate what they hope are the main arguments of the map. In the example, the cartographer makes many custom styling decisions. Cartographers apply styling to the data using programs such as ArcGIS or QGIS, or for more sophisticated cartography, Adobe Illustrator. 
+All maps communicate something, whether the map maker is trying to, or not! [Being deliberate about styling choices](https://www.axismaps.com/guide) is how cartographers elevate the main arguments of the map. In the example, the cartographer makes many custom styling decisions. Cartographers apply styling to the data using programs such as ArcGIS or QGIS, or for more sophisticated cartography, Adobe Illustrator. 
 
 If you'd like to learn how to make the map in this example, you can follow [this map making tutorial](https://pointsunknown.nyc/qgis/2021/04/16/04A_Spatial_Analysis.html) from PointsUnknown. 
 
