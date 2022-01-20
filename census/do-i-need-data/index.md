@@ -27,9 +27,9 @@ _Example of a map you can export from [Social Explorer](http://nrs.harvard.edu/u
 Let's look at an example map using census data. Why did the cartographer need to download copies of the data to their computer in order to make this map?
 
 #### Quick facts
-- The map is about people in NYC who have impaired mobility
-- It argues that there should be more robust transit infrastructure to serve them
-- It uses a combination of _two_ census variables as well as transit data to make that argument
+- The map is about people in NYC who have impaired mobility.
+- It argues that there should be more robust transit infrastructure to serve them.
+- It uses a combination of _two_ census variables as well as transit data to make that argument.
 
 
 ![Nice looking map of New York City showing sophisticated analysis and styling](media/1.png)
