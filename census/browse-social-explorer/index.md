@@ -21,6 +21,11 @@ In this tutorial, you will learn:
 
 2. If you don't already have an account, make one. Otherwise, log in. 
 
+## Changing demographic variables
+
+1. Choose `Change data`.
+![Screenshot of change data button on Social Explorer](media/1.png)
+
 ## Adding or uploading datasets
 
 ## Exporting the data as a map image
