@@ -23,14 +23,19 @@ In this tutorial, you will learn:
 
 ## Changing demographic variables
 
-1. Choose `Change data`.
+1. Select `Change data`.
 ![Screenshot of change data button on Social Explorer](media/1.png)
 
-2. Choose `Housing`.
+2. Select `Housing`.
 ![Screenshot of housing data button on Social Explorer](media/2.png)
 
 2. Select `Owner Occupied` under `ACS 2019 (5-Year Estimates) → Tenure → Occupied Housing Units`.
 ![Screenshot of housing data button on Social Explorer](media/3.png)
+
+4. Select the **close button** at the top of the data selector menu.
+![Screenshot of the data menu close button on Social Explorer](media/4.png)
+
+
 
 ## Adding or uploading datasets
 
