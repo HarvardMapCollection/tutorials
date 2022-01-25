@@ -42,6 +42,12 @@ To help decide if you need to budget time for learning how to download and manip
 
 ## Obtaining via Social Explorer
 
+1. Visit your institution's [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex).
+
+2. Set up an account or log in.
+
+3. 
+
 ## Obtaining via NHGIS.org
 
 1. Visit NHGIS.org.
