@@ -6,7 +6,7 @@ In this tutorial, you will learn:
 - How to add or upload datasets
 - How to export the data as a rendered .png format map
 
-[Censusreporter.org](https://censusreporter.org/) is a tool for learning which census variables are available, and how they are collected.
+>**Tip:** [Censusreporter.org](https://censusreporter.org/) is a tool for learning which census variables are available, and how they are collected.
 
 ## Example use case 
 - We will be exploring `tenure` data, which looks at owner vs. renter-occupied units.
