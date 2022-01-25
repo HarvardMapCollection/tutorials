@@ -32,6 +32,8 @@ Either choice will provide you with census data well-tailored for GIS methods. W
 
 The steps in this tutorial series will work for any U.S. census data, such as age, race, income, etc.
 
+[Censusreporter.org](https://censusreporter.org/) is a tool for learning which census variables are available, and how they are collected.
+
 ![Screenshot of final map, showing renter occupied units in Somerville and Cambridge](media/1.png)
 _Example of the tenure data we will work with, uploaded to ArcGIS Online._
 
