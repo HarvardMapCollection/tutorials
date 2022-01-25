@@ -1,10 +1,10 @@
 # How to Preview Census Data Using Social Explorer
 
 In this tutorial, you will learn:
-- how to preview U.S. census data using [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex)
-- how to filter all census data by a demographic variable of interest
-- how to add or upload datasets
-- how to export the data as a rendered .png format map
+- How to preview U.S. census data using [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex)
+- How to filter all census data by a demographic variable of interest
+- How to add or upload datasets
+- How to export the data as a rendered .png format map
 
 [Censusreporter.org](https://censusreporter.org/) is a tool for learning which census variables are available, and how they are collected.
 
