@@ -42,9 +42,9 @@ To help decide if you need to budget time for learning how to download and manip
 
 ## Obtaining via Social Explorer
 
-1. Visit your institution's [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex).
+1. Visit your institution's Social Explorer. Here is the [link for Harvard's Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex).
 
-2. Set up an account or log in.
+2. If you don't already have an account, make one. Otherwise, log in. 
 
 3. 
 
