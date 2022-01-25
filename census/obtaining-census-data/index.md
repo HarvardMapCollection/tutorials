@@ -44,9 +44,52 @@ To help decide if you need to budget time for learning how to download and manip
 
 1. Visit your institution's Social Explorer. Here is the [link for Harvard's Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex).
 
-2. If you don't already have an account, make one. Otherwise, log in. 
+2. If you have an account, log in. Otherwise, you'll have to make one.
 
-3. 
+3. On the Social Explorer landing page, select `Tables` from the left-hand menu.
+![Screenshot of Tables button on Social Explorer](media/17.png)
+
+4. Since the housing variable is not collected in the full count every ten years, we need to refer the the more detailed surveys collected of _sample_ populations on a rolling basis, called the **American Community Survey (ACS)**. Select `American Community Surveys (5-Year Estimates)`.
+
+5. Click `Begin Report` next to the 2015-2019 estimates.
+
+6. Under **Select a Geographic Type** choose `Census Tract` from the dropdown menu.
+
+7. Under **Select a State** choose `Massachusetts` from the dropdown menu.
+
+8. Under **Select one or more geographic areas and click 'add'** select `All census tracts in Massachusetts`.
+
+9. Select `Add`.
+![Screenshot of Add button on Social Explorer](media/18.png)
+
+10. Select `Proceed to Tables`.
+
+11. Under **Select one or more tables and click 'add'** scroll down and select `A10060: Tenure`.
+
+12. Select `Add`.
+![Screenshot of Add button on Social Explorer](media/19.png)
+
+13. Select `Show Results`.
+
+14. Navigate to the `Data Download` tab.
+![Screenshot of report tabs on Social Explorer](media/20.png)
+
+15. Under **Download data by geography type** select `Census Tract data (CSV)` and the tabular statistical data will download to your computer.
+
+16. Under **Download programs to import and label data** select `Data dictionary (text file)` in order to interpret the dataset.
+
+17. Close out of the report screen by clicking the `X` in the upper-left corner next to **Create Report**.
+![Screenshot of close button on Social Explorer](media/21.png)
+
+18. Now from the main menu, select `Geodata`.
+
+19. Scroll down and select `U.S. Tract 1910-2019`.
+
+20. Under **TRACT 2019 US SL140 Coast Clipped** select the button that reads `Shapefile` to download the GIS data you will need for mapping.
+
+You are now ready to move on to the next skill, [How to Join Data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join).
+
+
 
 ## Obtaining via NHGIS.org
 
@@ -99,6 +142,8 @@ To help decide if you need to budget time for learning how to download and manip
 
 17. Select `Submit`.
 > You will need to create a free login in order to checkout. You can create one in a new tab if you don't want to lose your data selection.
+
+You are now ready to move on to the next skill, [How to Join Data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join).
 
 ### Tips
 

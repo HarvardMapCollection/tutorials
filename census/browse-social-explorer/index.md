@@ -19,7 +19,7 @@ In this tutorial, you will learn:
 
 1. Visit your institution's Social Explorer. Here is the [link for Harvard's Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex).
 
-2. If you don't already have an account, make one. Otherwise, log in. 
+2. If you have an account, log in. Otherwise, you'll have to make one.
 
 ## Changing demographic variables
 
