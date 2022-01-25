@@ -30,9 +30,7 @@ Either choice will provide you with census data well-tailored for GIS methods. W
 
 > **Geography tip:** Census tracts are a popular aggregation unit, as they are more granular than county or state level data, but more available and statistically-reliable than block level data. 
 
-The steps in this tutorial series will work for any U.S. census data, such as age, race, income, etc.
-
-[Censusreporter.org](https://censusreporter.org/) is a tool for learning which census variables are available, and how they are collected.
+The steps in this tutorial series will work for any U.S. census data, such as age, race, income, etc. If you're not sure which variables are available, you can use [censusreporter.org](https://censusreporter.org/) to find out.
 
 ![Screenshot of final map, showing renter occupied units in Somerville and Cambridge](media/1.png)
 _Example of the tenure data we will work with, uploaded to ArcGIS Online._
