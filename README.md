@@ -2,7 +2,7 @@
 
 ## Census Data
 - [Census Data to ArcGIS Online Starter Pack](https://harvardmapcollection.github.io/tutorials/census/census2agol/)
-- [How to Preview Census Data Using Social Explorer](https://harvardmapcollection.github.io/tutorials/census/browse-social-explorer/)
+- [How to Explore Data with Social Explorer](https://harvardmapcollection.github.io/tutorials/census/browse-social-explorer/)
 - [How to Obtain Census Data for GIS Mapping](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
 - [How to Download US Census Boundary Files](https://harvardmapcollection.github.io/tutorials/census/how-to-download-census-boundary-files/)
 - [How to Decide If I Need Geospatial Data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)

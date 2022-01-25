@@ -1,4 +1,4 @@
-# How to Preview Census Data Using Social Explorer
+# How to Explore Data with Social Explorer
 
 In this tutorial, you will learn:
 - How to preview U.S. census data using [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex)
@@ -35,8 +35,37 @@ In this tutorial, you will learn:
 4. Select the **close button** at the top of the data selector menu.
 ![Screenshot of the data menu close button on Social Explorer](media/4.png)
 
+5. Select the `by State ` to open the Geography selector.
+![Screenshot of the by State button on Social Explorer](media/5.png)
 
+6. Select `Census Tract`.
+![Screenshot of the Census Tract button on Social Explorer](media/6.png)
+
+7. In the search bar, search for Cambridge, MA.
+![Screenshot of the Social Explorer map search bar filled out with Cambridge, MA](media/7.png)
+
+8. Zoom in and out of the map to explore in more detail.
 
 ## Adding or uploading datasets
 
+1. Select the `menu` icon to see options for adding other datasets.
+![Screenshot of menu icon on Social Explorer](media/8.png)
+
+2. Select `Map Layers`.
+
+3. Choose between browsing the `Layer library` for prepared datasets, or select `Upload data` to import your own .CSV file of addresses.
+![Screenshot of the Layer library in Social Explorer](media/9.png)
+**OR**
+![Screenshot of the Upload data button in Social Explorer](media/10.png)
+_Social Explorer has guides and [documentation on how to upload your data layer](https://www.socialexplorer.com/help/using-maps/working-with-your-data/upload-your-data)._
+
+
 ## Exporting the data as a map image
+
+1. Select the `Export as Image` button.
+![Screenshot of the Export as Image button in Social Explorer](media/11.png)
+
+2. Define the extent by zooming and panning.
+
+3. Select `Export` and the image file will download to your computer.
+![Screenshot of the Social Explorer exported map](media/map.png)
