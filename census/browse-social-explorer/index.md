@@ -69,3 +69,4 @@ _Social Explorer has guides and [documentation on how to upload your data layer]
 
 3. Select `Export` and the image file will download to your computer.
 ![Screenshot of the Social Explorer exported map](media/map.png)
+_Example Social Explorer map export._
