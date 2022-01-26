@@ -56,7 +56,7 @@ This tutorial will practice exploring data based on the following parameters:
 
 ## Exporting the data as a map image
 
-1. Select the `Export as Image` button.
+1. Select the `Export as Image` button from the top-right menu banner.
 
 2. Define the extent by zooming and panning.
 
