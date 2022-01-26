@@ -47,7 +47,7 @@ Before we dive in to step-by-step instructions, however, let's go over the basic
 
 To perform a join, you must have a column in each dataset which contains the same values.
 
-For instance, when we joined the COVID spreadsheet to the Massachusetts municipalities shapefile, we joined on the common column of `town name`.
+For instance, when we joined the COVID spreadsheet to the Massachusetts municipalities shapefile, we used a column common to both datasets: `town name`.
 
 ### Sandtrap!
 
