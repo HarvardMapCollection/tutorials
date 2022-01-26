@@ -32,7 +32,7 @@ Here, we can see that there is some basic facts about the towns, like the town I
 Most of the time, however, the information we *want* to map, in this case, COVID rates, are not made available as shapefiles. They are created and distributed as spreadsheets, and in order to map them, we must join the spreadsheet together with GIS shapefile data using a GIS software like [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
 
-![Screenshot of ](media/3.png)
+![Screenshot of ](media/4.png)
 _Map of weekly Massachusetts COVID data spreadsheet from January 26, 2022, after being joined to a [Massachusetts municipalities shapefile](https://www.mass.gov/info-details/massgis-data-municipalities) from MassGIS._
 
 ## How do joins work?
@@ -53,7 +53,7 @@ For instance, when we first tried to perfom the COVID data and town shapefile jo
 
 Why did our join fail? Check out how the town names were formatted in each table's town column.
 
-![Screenshot of ](media/4.png)
+![Screenshot of ](media/3.png)
 
 In the spreadsheet, towns are entered with camel case, whereas in the Massachusetts municipality data, the town name values are uppercase. In order to get this join to stick, we needed to clean up one of the datasets to make the two columns match identically.
 
