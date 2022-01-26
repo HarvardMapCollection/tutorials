@@ -8,10 +8,12 @@ This tutorial will walk through the following [Social Explorer](http://nrs.harva
 >**Tip:** [Censusreporter.org](https://censusreporter.org/) is a tool for learning which census variables are available, and how they are collected.
 
 ## Example use case 
-- We will be exploring `tenure` data, which looks at owner vs. renter-occupied units.
-- We want to preview census responses that have been aggregated to the **census tract** level.
-- Our area of study is near the Harvard campus, in Somerville and Cambridge. 
-- We'll be looking at the most recent [estimates](https://www.census.gov/programs-surveys/acs/guidance/estimates.html) at the time this guide was written, 2015-2019.
+
+This tutorial will practice exploring data based on the following parameters:
+- **Topic:** The `tenure` variable, which looks at owner vs. renter-occupied units.
+- **Geographic Level:** Census responses that have been aggregated to the **census tract** level.
+- **Location:** Near the Harvard campus, in Somerville and Cambridge. 
+- **Year:** The most recent [estimates](https://www.census.gov/programs-surveys/acs/guidance/estimates.html) at the time this guide was written, 2015-2019.
 
 
 ## Getting started with Social Explorer
