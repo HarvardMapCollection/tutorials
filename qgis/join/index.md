@@ -63,7 +63,7 @@ In the spreadsheet, towns are entered with camel case, whereas in the Massachuse
 
 ## Tutorial with census data
 
->If you don't already have the data materials, you can either:
+>If you don't already have the tutorial data, you can either:
 1. Follow the [Census Data to ArcGIS Online Starter Pack Series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to obtain them.
 2. Download them here.
 
