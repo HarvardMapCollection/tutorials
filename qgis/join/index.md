@@ -43,7 +43,7 @@ _Map of weekly Massachusetts COVID data spreadsheet from January 26, 2022, after
 
 In this tutorial, we will walk step-by-step through performing a join in QGIS. This tutorial is part of a series called the [Census Data to ArcGIS Online Starter Pack](https://harvardmapcollection.github.io/tutorials/census/census2agol/), but you can also use this guide separately to learn about joins.
 
-Before we dive in to step-by-step instructions, however, let's go over the basic concept of how joins work.
+Before we dive in to step-by-step instructions, however, let's go over the basic concept of **how joins work**.
 
 To perform a join, you must have a column in each dataset you want to join that contains the same values.
 
