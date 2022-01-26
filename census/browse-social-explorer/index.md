@@ -23,22 +23,18 @@ This tutorial will walk through the following [Social Explorer](http://nrs.harva
 ## Changing demographic variables
 
 1. Select `Change data`.
-![Screenshot of change data button on Social Explorer](media/1.png)
 
 2. Select `Housing`.
 ![Screenshot of housing data button on Social Explorer](media/2.png)
 
 2. Select `Owner Occupied` under `ACS 2019 (5-Year Estimates) → Tenure → Occupied Housing Units`.
-![Screenshot of housing data button on Social Explorer](media/3.png)
 
 4. Select the **close button** at the top of the data selector menu.
-![Screenshot of the data menu close button on Social Explorer](media/4.png)
 
 5. Select the `by State ` to open the Geography selector.
 ![Screenshot of the by State button on Social Explorer](media/5.png)
 
 6. Select `Census Tract`.
-![Screenshot of the Census Tract button on Social Explorer](media/6.png)
 
 7. In the search bar, search for Cambridge, MA.
 ![Screenshot of the Social Explorer map search bar filled out with Cambridge, MA](media/7.png)
@@ -53,8 +49,6 @@ This tutorial will walk through the following [Social Explorer](http://nrs.harva
 2. Select `Map Layers`.
 
 3. Choose between browsing the `Layer library` for prepared datasets, or select `Upload data` to import your own .CSV file of addresses.
-![Screenshot of the Layer library in Social Explorer](media/9.png)
-**OR**
 ![Screenshot of the Upload data button in Social Explorer](media/10.png)
 _Social Explorer has guides and [documentation on how to upload your data layer](https://www.socialexplorer.com/help/using-maps/working-with-your-data/upload-your-data)._
 
@@ -67,5 +61,4 @@ _Social Explorer has guides and [documentation on how to upload your data layer]
 2. Define the extent by zooming and panning.
 
 3. Select `Export` and the image file will download to your computer.
-![Screenshot of the Social Explorer exported map](media/map.png)
-_Example Social Explorer map export._
+
