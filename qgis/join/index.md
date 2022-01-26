@@ -15,7 +15,7 @@ Take, for instance, [this spreadsheet](https://www.mass.gov/info-details/archive
 
 ![Screenshot of ](media/2.png)
 
-Despite the obvious role of geography in this data (the data is arranged by town), if we were to bring this spreadsheet into a GIS program, the program would not know, by itself, which column refers to the geography. The formats `.csv` or `.xlsx` are not `spatial data formats`. 
+Despite the obvious role of geography in this data (the data is arranged by town), if we were to bring this spreadsheet into a GIS program, the program would not know (without being told by us) which column to interpret as the "geography". The formats `.csv` or `.xlsx` are not `spatial data formats`. 
 
 On the other hand, take this Massachusetts municipalities dataset, which is downloadable from the state government's open data portal as a `shapefile`, an inherently geospatial format.
 
