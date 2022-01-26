@@ -29,11 +29,11 @@ The image above shows how mapping software *displays* GIS data, but what does th
 
 Here, we can see that for each row, which represents one town, there are some basic facts (each column) about the town. This includes town name, town ID, a population count, etc.
 
-Besides this basic information, and the geographic **shapes**, this dataset is not entirely useful for mapping anything meaningful. 
+Besides this basic information, as well as the geospatial **shapes** included in the shapefile, this dataset is not entirely useful for mapping meaningful observances or phenomena. 
 
  
 
-Most of the time, however, the information we *want* to map, in this case, COVID rates, are not made available as shapefiles. They are created and distributed as spreadsheets, and in order to map them, we must join the spreadsheet together with GIS shapefile data using a GIS software like [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
+Most of the time, the information we *want* to map, such as our example COVID rates, are not made available as shapefiles. They are created and distributed as spreadsheets, and in order to map them, we must join the spreadsheet together with GIS shapefile data using a GIS software like [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
 
 ![Screenshot of ](media/4.png)
