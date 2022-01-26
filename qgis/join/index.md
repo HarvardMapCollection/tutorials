@@ -27,7 +27,7 @@ The image above shows how mapping software *displays* GIS data, but what does th
 
 ![Screenshot of ](media/5.png)
 
-Here, we can see that for each row, which represents one town, there are some basic facts (each column) about the town. This includes town ID, a population count, etc.
+Here, we can see that for each row, which represents one town, there are some basic facts (each column) about the town. This includes town name, town ID, a population count, etc.
 
 Besides this basic information, and the geographic **shapes**, this dataset is not entirely useful for mapping anything meaningful. 
 
