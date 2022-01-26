@@ -45,7 +45,7 @@ In this tutorial, we will walk step-by-step through performing a join in QGIS. T
 
 Before we dive in to step-by-step instructions, however, let's go over the basic concept of **how joins work**.
 
-To perform a join, you must have a column in each dataset you want to join that contains the same values.
+To perform a join, you must have a column in each dataset which contains the same values.
 
 For instance, when we joined the COVID spreadsheet to the Massachusetts municipalities shapefile, we joined on the common column of `town name`.
 
