@@ -45,7 +45,7 @@ This tutorial will practice exploring data based on the following parameters:
 
 ## Adding or uploading datasets
 
-1. Select the ☰ icon to see options for adding other datasets.
+1. Select the ☰ icon from the **change data** menu to see options for adding other datasets.
 
 2. Select `Map Layers`.
 
