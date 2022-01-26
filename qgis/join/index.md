@@ -10,6 +10,13 @@ In this tutorial you will learn how to **join** tables to **GIS shapefiles** to 
 ## Background on joins
 
 Why do we join?
+![Screenshot of ](media/1.png)
+![Screenshot of ](media/2.png)
+![Screenshot of ](media/3.png)
+![Screenshot of ](media/4.png)
+
+
+
 - Without statistical data, GIS shapefiles are "empty" -- GIS software knows how to display them visually on a map, but there is no statistical substance to them.
 ![Screenshot of the table behind a census tracts shapefile](media/1.png)
 _Pictured above is the data table of a census tracts shapefile. There are fields for the name of the tract, size in area, but for this data to become **meaningful** and **mappable** we must connect it to some demographic data from the census._
