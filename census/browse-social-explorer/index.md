@@ -45,8 +45,7 @@ This tutorial will practice exploring data based on the following parameters:
 
 ## Adding or uploading datasets
 
-1. Select the `menu` icon to see options for adding other datasets.
-![Screenshot of menu icon on Social Explorer](media/8.png)
+1. Select the ☰ icon to see options for adding other datasets.
 
 2. Select `Map Layers`.
 
