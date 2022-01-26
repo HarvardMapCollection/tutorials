@@ -57,7 +57,6 @@ This tutorial will practice exploring data based on the following parameters:
 ## Exporting the data as a map image
 
 1. Select the `Export as Image` button.
-![Screenshot of the Export as Image button in Social Explorer](media/11.png)
 
 2. Define the extent by zooming and panning.
 
