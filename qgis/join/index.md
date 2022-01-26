@@ -27,7 +27,7 @@ The image above shows how mapping software *displays* GIS data, but what does th
 
 ![Screenshot of ](media/5.png)
 
-Here, we can see that for each row, which represents a single GIS `feature` (in this case, the polygon outline of a town), included are some basic facts (the columns) about that town. Here, those attributes (columns) include town name, town ID,population count, etc.
+Here, we can see that for each row, which represents a single GIS `feature` (in this case, a town), there are some basic facts (each column) about that town. Included here are town name, town ID, population count, etc.
 
 Besides this basic information and the GIS feature shapes, this dataset is not entirely useful for mapping any meaningful statistics. 
 
