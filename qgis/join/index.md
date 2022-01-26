@@ -5,7 +5,7 @@ Under development! Coming soon!
 It is common for mappers to find information with a spatial component available in formats that are not yet optimized to work with mapping software. One such occurrence is working with spreadsheet data. 
 
 
-In this tutorial you will learn how to **join** tables to **GIS shapefiles** to create a new, mappable dataset with both geographic boundaries *and* statistical information.
+In this tutorial you will learn how to join **tables** to **GIS shapefiles** to create a new, mappable dataset with both geographic boundaries *and* statistical information.
 
 ## Why do we join?
 
