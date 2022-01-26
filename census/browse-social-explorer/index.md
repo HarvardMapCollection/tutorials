@@ -50,8 +50,8 @@ This tutorial will practice exploring data based on the following parameters:
 2. Select `Map Layers`.
 
 3. Choose between browsing the `Layer library` for prepared datasets, or select `Upload data` to import your own .CSV file of addresses.
-![Screenshot of the Upload data button in Social Explorer](media/10.png)
-_Social Explorer has guides and [documentation on how to upload your data layer](https://www.socialexplorer.com/help/using-maps/working-with-your-data/upload-your-data)._
+
+> Social Explorer has guides and [documentation on how to upload your data layer](https://www.socialexplorer.com/help/using-maps/working-with-your-data/upload-your-data).
 
 
 ## Exporting the data as a map image
