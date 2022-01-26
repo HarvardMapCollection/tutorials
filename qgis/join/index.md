@@ -23,11 +23,15 @@ On the other hand, take this Massachusetts municipalities dataset we downloaded 
 
 Because this data is spatial, GIS software can recognize it, and automatically make a map out of it. 
 
-Despite showing where the towns are, this dataset is not very useful for mapping anything very meaningful. Let's check out the shapefile's underlying `attribute table`.
+The image above shows how mapping software *displays* GIS data, but what does the "data" actually look like? Let's look at the data's underlying `attribute table`.
 
 ![Screenshot of ](media/5.png)
 
-Here, we can see that there is some basic facts about the towns, like the town ID, population counts, and whether the town is an island or not. 
+Here, we can see that for each row, which represents one town, there are some basic facts (each column) about the town. This includes town ID, a population count, whether or not the town is an island, etc.
+
+Besides this basic information, and the geographic **shapes**, this dataset is not entirely useful for mapping anything meaningful. 
+
+ 
 
 Most of the time, however, the information we *want* to map, in this case, COVID rates, are not made available as shapefiles. They are created and distributed as spreadsheets, and in order to map them, we must join the spreadsheet together with GIS shapefile data using a GIS software like [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
