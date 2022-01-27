@@ -45,6 +45,15 @@ There are two ways you can add vector data to a project in QGIS.
 ![Screen recording of dragging the file into the QGIS program](media/1.gif)
  
 
-
-
 ### Menu add
+If the quick add approach is not cooperating, you can add data through the menu add.
+
+1. In the menu, select `Layer → Add Layer → Add Vector Layer`.
+
+2. Under `Source → Vector Dataset(s)` click the browse ellipses.
+
+3. Navigate to the file you want to add and select the file with the `.shp` extension.
+
+4. Select `Open`.
+
+5. Select `Close`.
