@@ -11,7 +11,7 @@ Vector data consists of:
 
 Since the advent of geospatial technology, **shapefiles** have been the most common format for storing vector information. Today, other file formats exist for storing vector information, such as the **geopackage (.gpkg)**, or **geoJSON (.geoJSON)**, but shapefiles are still widely used, and many of the datasets you will encounter will come in this format.
 
-## Steps
+## Interpreting shapefiles
 
 > To download example data, follow the steps in [How to search for local boundary files](https://harvardmapcollection.github.io/tutorials/data/local-boundaries).
 The following steps, however, can be applied to any shapefile. 
@@ -23,6 +23,14 @@ The following steps, however, can be applied to any shapefile.
 2. The MassGIS towns download comes with many different shapefiles. To make sense of which one you should use for mapping town outlines, consult the [MassGIS metadata](https://www.mass.gov/info-details/massgis-data-municipalities).
 ![Screenshot of MassGIS metadata](media/2.png)
 
-3. Open QGIS. If you haven't downloaded it yet, you can [do so here](https://harvardmapcollection.github.io/tutorials/qgis/download/).
+## Opening a mapping workspace
 
-4. 
+1. Open QGIS. If you haven't downloaded it yet, you can [do so here](https://harvardmapcollection.github.io/tutorials/qgis/download/).
+
+2. In QGIS, open a `New empty project`.
+
+## Opening a shapefile in QGIS
+
+### Quick way
+
+### 
