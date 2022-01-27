@@ -17,7 +17,7 @@ Sometimes, however, you need more granular, place-specific cartographic data. In
 1. In a search engine, type in "Massachusetts + GIS + data".
 > A great way to start searching for data is to find open government GIS portals.
 
-2. Your results should bring you to [MassGIS (Bureau of Geographic Information) | Mass.gov](https://www.mass.gov/orgs/massgis-bureau-of-geographic-information). Visit this site.
+2. Your results should bring you to [MassGIS (Bureau of Geographic Information)](https://www.mass.gov/orgs/massgis-bureau-of-geographic-information). Visit this site.
 
 3. Click `Download MassGIS Data`.
 ![Screenshot of MassGIS landing page](media/1.png)
