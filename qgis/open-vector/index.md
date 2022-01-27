@@ -13,7 +13,7 @@ Since the advent of geospatial technology, **shapefiles** have been the most com
 
 ## Adding vector data to QGIS
 
-1. Open QGIS. If you haven't downloaded it yet, you can [do so here](https://harvardmapcollection.github.io/tutorials/qgis/download/).
+1. Open QGIS. You can [download the free program here](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
 2. In QGIS, open a `New empty project`.
 
