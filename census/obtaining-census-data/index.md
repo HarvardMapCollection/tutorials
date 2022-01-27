@@ -38,7 +38,7 @@ _Example of the tenure data we will work with, uploaded to ArcGIS Online._
 ## Do I need data?
 Sometimes, you don't need to download census data in order to make use of it for your research. Many tools, like [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), allow you to visualize the data directly in the browser, and even export rendered maps.
 
-To help decide if you need to budget time for learning how to download and manipulate geospatial data, check out our [How to Decide If I Need Geospatial Data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/) guide.
+To help decide if you need to budget time for learning how to download and manipulate geospatial data, check out our [How to decide if I need geospatial data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/) guide.
 
 ## Obtaining via Social Explorer
 
@@ -87,7 +87,7 @@ To help decide if you need to budget time for learning how to download and manip
 
 20. Under **TRACT 2019 US SL140 Coast Clipped** select the button that reads `Shapefile` to download the GIS data you will need for mapping.
 
-You are now ready to move on to the next skill, [How to Join Data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join).
+You are now ready to move on to the next skill, [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join).
 
 
 
@@ -143,7 +143,7 @@ You are now ready to move on to the next skill, [How to Join Data in QGIS](https
 17. Select `Submit`.
 > You will need to create a free login in order to checkout. You can create one in a new tab if you don't want to lose your data selection.
 
-You are now ready to move on to the next skill, [How to Join Data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join).
+You are now ready to move on to the next skill, [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join).
 
 ### Tips
 

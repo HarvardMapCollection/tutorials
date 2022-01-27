@@ -41,7 +41,7 @@ _Map of weekly Massachusetts COVID data spreadsheet from January 26, 2022, after
 
 ## How do joins work?
 
-In this tutorial, we will walk step-by-step through performing a join in QGIS. This tutorial is part of a series called the [Census Data to ArcGIS Online Starter Pack](https://harvardmapcollection.github.io/tutorials/census/census2agol/), but you can also use this guide separately to learn about joins.
+In this tutorial, we will walk step-by-step through performing a join in QGIS. This tutorial is part of a series called the [census data to ArcGIS Online starter pack](https://harvardmapcollection.github.io/tutorials/census/census2agol/), but you can also use this guide separately to learn about joins.
 
 Before we dive in to step-by-step instructions, however, let's go over the basic concept of **how joins work**.
 
@@ -52,6 +52,6 @@ For instance, when we joined the COVID spreadsheet to the Massachusetts municipa
 ## Tutorial with census data
 
 >If you don't already have the tutorial data, you can either:
-1. Follow the [Census Data to ArcGIS Online Starter Pack Series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to obtain them.
+1. Follow the [census data to ArcGIS Online starter pack series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to obtain them.
 2. Download them here.
 

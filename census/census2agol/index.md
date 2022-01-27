@@ -4,14 +4,14 @@ This tutorial series will equip you with the skills needed to work with United S
 
 ## Lessons
 
-1. [How to Download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/)
+1. [How to download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/)
 > While ArcGIS Online [AGOL] can handle many tasks, you will first need a desktop software like QGIS to perform some of the data edits required to work with census data in AGOL.
 
 2. [How to add a basemap to a QGIS project](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/)
 > Basemaps can be helpful reference points while working with spatial data.
 
-3. [How to Obtain Census Data for GIS Mapping](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
+3. [How to obtain census data for GIS mapping](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
 > To get usable files for mapping, you must download a table with statistics _and_ a GIS boundary file. These files can be obtained from a few different sources.
 
-4. [How to Join Data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join)
+4. [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join)
 > Joining statistical files to GIS shapefiles using desktop GIS software is an essential skill for map making.
