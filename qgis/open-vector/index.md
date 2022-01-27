@@ -22,10 +22,7 @@ The following steps, however, can be applied to any shapefile.
 
 2. Another potentially confusing factor is that the MassGIS towns download comes with many different shapefiles. To make sense of which one you should use for mapping town outlines, consult the [MassGIS metadata](https://www.mass.gov/info-details/massgis-data-municipalities).
 ![Screenshot of MassGIS metadata](media/2.png)
-_MassGIS metadata_
-
-3. Decide which file you would use for mapping.
-> Based on the description, the file titled **TOWNSSURVEY_POLYM** seems like a good bet. 
+*MassGIS metadata. Based on the description, the file titled **TOWNSURVEY_POLYM** seems like it would be a good bet* 
 
 ## Opening a mapping workspace
 
