@@ -14,9 +14,9 @@ Since the advent of geospatial technology, **shapefiles** have been the most com
 ## Steps
 
 > To download example data, follow the steps in [How to search for local boundary files](https://harvardmapcollection.github.io/tutorials/data/local-boundaries).
-These steps, however, can be applied to any shapefile. 
+The following steps, however, can be applied to any shapefile. 
 
-1. Inspect the data you have downloaded. The example Massachusetts towns data downloaded from MassGIS comes with a few different shapefiles.
+1. Inspect the data you have downloaded. In the example Massachusetts town data, there are multiple shapefiles included in the download.
 ![Screenshot of data download in a Mac finder browser](media/1.png)
 
 2. To make sense of which file you should use for town boundaries, consult the **metadata** from [the MassGIS site](https://www.mass.gov/info-details/massgis-data-municipalities).
