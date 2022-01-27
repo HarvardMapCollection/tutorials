@@ -20,8 +20,11 @@ The following steps, however, can be applied to any shapefile.
 > Shapefiles can be confusing because they contain multiple different files, each with a [different file extension](https://desktop.arcgis.com/en/arcmap/10.3/manage-data/shapefiles/shapefile-file-extensions.htm). All of these files with a common root filename are interpreted by GIS software as **one shapefile**.
 ![Screenshot of data download in a Mac finder browser](media/1.png)
 
-2. The MassGIS towns download comes with many different shapefiles. To make sense of which one you should use for mapping town outlines, consult the [MassGIS metadata](https://www.mass.gov/info-details/massgis-data-municipalities).
+2. Another potentially confusing factor is that the MassGIS towns download comes with many different shapefiles. To make sense of which one you should use for mapping town outlines, consult the [MassGIS metadata](https://www.mass.gov/info-details/massgis-data-municipalities).
 ![Screenshot of MassGIS metadata](media/2.png)
+
+3. Decide which file you would use for mapping.
+> Based on the description, the file titled **TOWNSSURVEY_POLYM** seems like a good bet. 
 
 ## Opening a mapping workspace
 
@@ -31,6 +34,14 @@ The following steps, however, can be applied to any shapefile.
 
 ## Opening a shapefile in QGIS
 
-### Quick way
+There are two ways you can add vector data to a project in QGIS.
 
-### 
+### Quick drag add
+
+
+1. From your computer file directory, click the file with the `.shp` extension and drag the file into the QGIS map document. 
+![Screen recording of dragging the file into the QGIS program](media/1.gif)
+
+
+
+### Menu add
