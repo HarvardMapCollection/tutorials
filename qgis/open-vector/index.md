@@ -40,7 +40,9 @@ There are two ways you can add vector data to a project in QGIS.
 
 
 1. From your computer file directory, click the file with the `.shp` extension and drag the file into the QGIS map document. 
+> You can click through the warning message, which is telling us about our data's projection information.
 ![Screen recording of dragging the file into the QGIS program](media/1.gif)
+ 
 
 
 
