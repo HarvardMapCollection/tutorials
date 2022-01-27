@@ -18,8 +18,8 @@ Since the advent of geospatial technology, **shapefiles** have been the most com
 2. In QGIS, open a `New empty project`.
 
 
-3. From your computer file directory,  drag the file into the map browser. If you are working with shapefiles, choose the file that ends in the `.shp` extension. 
-> If you get a warning message about the data projection, you can click through that..
+3. From your computer file directory,  drag the vector data file (shapefile, geojson, geopackage) into the map browser. If your data is in shapefile format, drag the file that ends in the `.shp` extension. 
+> You can click through any warning messages about the data projection at this point.
 ![Screen recording of dragging the file into the QGIS program](media/1.gif)
  
 
