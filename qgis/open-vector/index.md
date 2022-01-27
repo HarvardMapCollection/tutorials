@@ -11,34 +11,15 @@ Vector data consists of:
 
 Since the advent of geospatial technology, **shapefiles** have been the most common format for storing vector information. Today, other file formats exist for storing vector information, such as the **geopackage (.gpkg)**, or **geoJSON (.geoJSON)**, but shapefiles are still widely used, and many of the datasets you will encounter will come in this format.
 
-## Interpreting shapefiles
-
-> To download example data, follow the steps in [How to search for local boundary files](https://harvardmapcollection.github.io/tutorials/data/local-boundaries).
-The following steps, however, can be applied to any shapefile. 
-
-1. Inspect the data you have downloaded. 
-> Shapefiles can be confusing because they contain multiple different files, each with a [different file extension](https://desktop.arcgis.com/en/arcmap/10.3/manage-data/shapefiles/shapefile-file-extensions.htm). All of these files with a common root filename are interpreted by GIS software as **one shapefile**.
-![Screenshot of data download in a Mac finder browser](media/1.png)
-
-2. Another potentially confusing factor is that the MassGIS towns download comes with many different shapefiles. To make sense of which one you should use for mapping town outlines, consult the [MassGIS metadata](https://www.mass.gov/info-details/massgis-data-municipalities).
-![Screenshot of MassGIS metadata](media/2.png)
-*MassGIS metadata. Based on the description, the file titled **TOWNSURVEY_POLYM** seems like it would be a good bet* 
-
-## Opening a mapping workspace
+## Adding vector data to QGIS
 
 1. Open QGIS. If you haven't downloaded it yet, you can [do so here](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
 2. In QGIS, open a `New empty project`.
 
-## Opening a shapefile in QGIS
 
-There are two ways you can add vector data to a project in QGIS.
-
-### Quick drag add
-
-
-1. From your computer file directory, click the file with the `.shp` extension and drag the file into the QGIS map document. 
-> You can click through the warning message, which is telling us about our data's projection information.
+3. From your computer file directory,  drag the file into the map browser. If you are working with shapefiles, choose the file that ends in the `.shp` extension. 
+> If you get a warning message about the data projection, you can click through that..
 ![Screen recording of dragging the file into the QGIS program](media/1.gif)
  
 
@@ -49,7 +30,7 @@ If the quick add approach is not cooperating, you can add data through the menu 
 
 2. Under `Source → Vector Dataset(s)` click the browse ellipses.
 
-3. Navigate to the file you want to add and select the file with the `.shp` extension.
+3. Navigate to the file you want to add. If it is a shapefile, select the file with the `.shp` extension.
 
 4. Select `Open`.
 
