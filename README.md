@@ -1,17 +1,16 @@
 # Tutorials
 
-## Finding Data
+## Finding data
 - [How to search for local boundary files](https://harvardmapcollection.github.io/tutorials/data/local-boundaries)
+- [How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
 
-## Census Data
+## Census data
 - [Census data to ArcGIS Online starter pack](https://harvardmapcollection.github.io/tutorials/census/census2agol/)
 - [How to explore data with Social Explorer](https://harvardmapcollection.github.io/tutorials/census/browse-social-explorer/)
 - [How to obtain census data for GIS mapping](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
 - [How to download U.S. census boundary files](https://harvardmapcollection.github.io/tutorials/census/how-to-download-census-boundary-files/)
 - [How to decide if I need geospatial data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
 
-## OpenStreetMap
-- [How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
 
 ## QGIS
 - [How to download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/)
