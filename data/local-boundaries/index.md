@@ -29,4 +29,4 @@ Sometimes, however, you need more granular, place-specific cartographic data. In
 
 6. Under downloads select `Download Shapefile`.
 
-7. To learn how to open this file visit [How to Open Vector Data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector).
+7. Learn how to open shapefiles in GIS software using the tutorial, [How to Open Vector Data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector).
