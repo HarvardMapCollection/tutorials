@@ -1,4 +1,4 @@
-# How to Open Vector Data in QGIS
+# How to add vector data to QGIS
 
 A predominant spatial data format is the **shapefile**. This is a format created for storing vector data.
 

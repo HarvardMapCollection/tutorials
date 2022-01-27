@@ -15,7 +15,7 @@
 ## QGIS
 - [How to download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/)
 - [How to add a basemap to a QGIS project](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/)
-- [How to open vector data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector)
+- [How to add vector data to QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector)
 - [How to georeference in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
 - [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join)
 - [How to export selected features in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/export-selected)
