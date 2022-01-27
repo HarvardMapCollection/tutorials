@@ -49,18 +49,6 @@ To perform a join, you must have a column in each dataset which contains the sam
 
 For instance, when we joined the COVID spreadsheet to the Massachusetts municipalities shapefile, we used a column common to both datasets: `town name`.
 
-### Sandtrap!
-
-An incredibly important tip to know about joins is that in order for the join to stick, values must match literally.
-
-For instance, when we first tried to perfom the COVID data and town shapefile join, our join failed. 
-
-Why did our join fail? Check out how the town names were formatted in each table's town column.
-
-![Screenshot of name column in each data table showing discrepancies in the way the data is formatted.](media/3.png)
-
-In the spreadsheet, towns are entered with camel case, whereas in the Massachusetts municipality data, the town name values are uppercase. In order to get this join to stick, we needed to clean up one of the datasets to make the two columns match identically.
-
 ## Tutorial with census data
 
 >If you don't already have the tutorial data, you can either:
