@@ -12,7 +12,7 @@ Some sites like [Natural Earth](https://www.naturalearthdata.com/) provide a gre
 
 Sometimes, however, you need more granular, place-specific cartographic data. In this tutorial we will conduct a search for the outlines or boundaries of towns in the state of Massachusetts.
 
-## Searching for the data
+## Searching for data example
 
 1. In a search engine, type in "Massachusetts + GIS + data".
 > A great way to start searching for data is to find open government GIS portals.
