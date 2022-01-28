@@ -12,9 +12,11 @@ A coordinate reference system (CRS) then defines how the two-dimensional, projec
 
 ## Why projections are important
 
-Every mapmaker at one point or another has been frustrated by their various datasets not lining up, or map data appearing in the middle of the ocean instead of where it is supposed to be. This can almost always be chalked up to data being in the wrong CRS.
+Every mapmaker at one point or another has been frustrated by their data layers not lining up on the map, or map data appearing in the middle of the ocean instead of where it is supposed to be. This can almost always be chalked up to data being in the wrong CRS.
 
-In this tutorial, you will learn the easiest practical way to make sure all datasets are in the same CRS and playing nicely with one another.
+In this tutorial, you will learn the easiest practical way to make sure all datasets are in the same CRS so you can work with them together.
+
+## How to change a dataset's CRS
 
 1. Note the project's current CRS by checking the bottom right of the map document interface.
 ![Screenshot highlighting the project CRS in the bottom right of the map document in QGIS](media/1.png)
