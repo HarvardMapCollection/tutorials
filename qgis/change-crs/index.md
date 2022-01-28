@@ -34,3 +34,11 @@ The example data was obtained from MassGIS, the open data portal for Massachuset
 > You'll notice the look of your data may change when you change the project CRS. If cartography is your primary concern, you should pick a reference system that matches the location you are mapping. If you aren't sure, or want to ensure your data will work with all web mapping applications, you can default to `WGS 84 EPSG: 4326`.
 
 
+5. We just changed the CRS for the project. That is different than changing the CRS of the *data layer*. Each GIS dataset has its own CRS. To find out the dataset's CRS, right-click on the data layer in the layer-list, and select `Properties`.
+
+6. From the menu, select `Source`.
+![Screenshot of the layer's source properties in QGIS](media/3.png)
+
+7. Even though we changed the project CRS, the data layer's source CRS is still `EPSG: 26986 NAD83 / Massachusetts Mainlaind`. To change it, under `Set source coordinate reference system` you can use the dropdown to recent choices, or click the globe icon to bring up the CRS search interface. Pick `WGS 84 EPSG: 4326`.
+
+8. Select `OK`.

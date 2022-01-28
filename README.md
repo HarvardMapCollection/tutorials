@@ -20,6 +20,7 @@
 - [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join)
 - [How to export selected features in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/export-selected)
 - [How to change a dataset's CRS in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/change-crs)
+- [How to zoom to layer in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer)
 
 
 
