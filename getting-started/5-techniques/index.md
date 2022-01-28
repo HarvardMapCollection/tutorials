@@ -4,6 +4,8 @@ When you're first getting started learning map making, most of the materials you
 
 The HMC-published guides have been written for the free GIS software QGIS, which you can [learn how to download here](https://harvardmapcollection.github.io/tutorials/qgis/download/). The techniques are also applicable in ArcGIS Pro, and official ArcGIS Pro documentation has been included for each tecnhnique. Happy mapping!
 
+![GIF of zooming in on a basemap in QGIS](media/zoom.gif)
+
 1. Add a vector dataset to a map
     - [In QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector)
     - [In ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/help/data/shapefiles/working-with-shapefiles-in-arcgis-pro.htm)
