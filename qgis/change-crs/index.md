@@ -24,7 +24,7 @@ In this tutorial, you will learn a straightforward, practical way to make sure a
 1. Note the project's current CRS by checking the bottom right of the map document interface.
 ![Screenshot highlighting the project CRS in the bottom right of the map document in QGIS](media/1.png)
 
-In the example data, the data layer was obtained from MassGIS, the open data portal for Massachusetts. The creators used CRS `NAD83 | Massachusetts Mainland`. The code for this CRS is `EPSG: 26986`. QGIS defaults the project CRS to that of the first dataset added to the map document.
+The example data was obtained from MassGIS, the open data portal for Massachusetts. The creators used CRS `NAD83 | Massachusetts Mainland`. The code for this CRS is `EPSG: 26986`. QGIS defaults the project CRS to that of the first dataset added to the map document.
 
 2. In the bottom-right of the QGIS window, click the button that says `EPSG: some numerical code`.
 
