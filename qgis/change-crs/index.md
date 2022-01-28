@@ -27,3 +27,7 @@ In this tutorial, you will learn a straightforward, practical way to make sure a
 > When we brought this shapefile into QGIS, following the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/), the QGIS project frame defaulted to the CRS the data was created in. This data was obtained from MassGIS, the open data portal for Massachusetts. The data creators used CRS `NAD83 | Massachusetts Mainland`. The code for this CRS is `EPSG: 26986`.
 
 2. In the bottom-right of the QGIS window, click the button that says `EPSG: some code`.
+
+3. An interface will pop up prompting us to select the CRS for the whole project. Let's change the project CRS to `WGS 84`. Select `WGS 84 EPSG: 4326`. If you can't find it in the menu, you can search for it next to the `Filter` box.
+
+4. 
