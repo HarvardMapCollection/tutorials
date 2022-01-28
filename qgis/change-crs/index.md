@@ -31,6 +31,6 @@ The example data was obtained from MassGIS, the open data portal for Massachuset
 3. An interface will pop up prompting us to select the CRS for the whole project. Select `WGS 84 EPSG: 4326`. If you can't find it in the menu, you can search for it next to the `Filter` box.
 
 4. Select `OK`.
-> You'll notice the look of your data may change when you change the project CRS. If cartography is your primary concern, you should pick a projection that matches the location you are mapping. If you aren't sure, or want to ensure your data will work with all web mapping applications, you can default to `WGS 84 EPSG: 4326`.
+> You'll notice the look of your data may change when you change the project CRS. If cartography is your primary concern, you should pick a reference system that matches the location you are mapping. If you aren't sure, or want to ensure your data will work with all web mapping applications, you can default to `WGS 84 EPSG: 4326`.
 
 
