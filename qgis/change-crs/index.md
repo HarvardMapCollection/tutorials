@@ -26,7 +26,7 @@ In this tutorial, you will learn a straightforward, practical way to make sure a
 
 In the example data, the data layer was obtained from MassGIS, the open data portal for Massachusetts. The creators used CRS `NAD83 | Massachusetts Mainland`. The code for this CRS is `EPSG: 26986`. QGIS defaults the project CRS to that of the first dataset added to the map document.
 
-2. In the bottom-right of the QGIS window, click the button that says `EPSG: some code`.
+2. In the bottom-right of the QGIS window, click the button that says `EPSG: some numerical code`.
 
 3. An interface will pop up prompting us to select the CRS for the whole project. Let's change the project CRS to `WGS 84`. Select `WGS 84 EPSG: 4326`. If you can't find it in the menu, you can search for it next to the `Filter` box.
 
