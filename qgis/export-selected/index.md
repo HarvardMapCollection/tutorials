@@ -11,7 +11,6 @@ In this tutorial, we will start with a dataset of all 351 towns in Massachusetts
 2. Add the downloaded .geojson to a new QGIS project by following the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/).
 
 3. Open the dataset's underlying **attribute table** by right-clicking on the data layer in the layer list, and selecting `Open Attribute Table`.
-![Screenshot of layer options in QGIS](media/2.png)
 
 Here you see a table where each row corresponds to one polygon feature on the map. Each row represents a town. There is a column with town name. We can run a filter to only return records with a specific value. 
 
