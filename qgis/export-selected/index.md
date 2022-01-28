@@ -1,7 +1,5 @@
 ## How to export selected features in QGIS
 
-Under development! Coming soon!
-
 One helpful technique in GIS software is the ability to quickly create filtered subsets of a GIS dataset. You may want a new dataset that only contains features of a certain type (e.g. only water bodies of a certain depth, or only school locations serving K-12 populations). Alternatively, you may want to select features based on their location.
 
 In this tutorial, we will start with a dataset of all 351 towns in Massachusetts, and create a new dataset that only shows the boundary of Cambridge, MA. 
