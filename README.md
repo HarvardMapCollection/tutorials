@@ -20,7 +20,7 @@
 - [How to add a basemap](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/)
 - [How to add vector data](https://harvardmapcollection.github.io/tutorials/qgis/open-vector)
 - [How to georeference](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
-- [How to join data](https://harvardmapcollection.github.io/tutorials/qgis/join)
+- [How to join data tables](https://harvardmapcollection.github.io/tutorials/qgis/join)
 - [How to export selected features](https://harvardmapcollection.github.io/tutorials/qgis/export-selected)
 - [How to change a dataset's CRS](https://harvardmapcollection.github.io/tutorials/qgis/change-crs)
 - [How to zoom to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer)

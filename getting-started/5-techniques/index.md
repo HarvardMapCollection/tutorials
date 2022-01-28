@@ -1,10 +1,8 @@
 # 5 underrated techniques for map making
 
-When you're first getting started learning map making, most of the materials you will find are about how to run powerful analyses, or create stunning visualizations.
+When you're first getting started learning map making, most of the materials you will find are about how to run powerful analyses, or create stunning visualizations. This guide is all about our favorite need-to-know GIS techniques.
 
-In this guide you will find our favorite underrated GIS tricks we wish we knew when we were first getting started.
-
-The HMC-published guides have been written for the free GIS software QGIS, which you can [learn how to download here](https://harvardmapcollection.github.io/tutorials/qgis/download/). The techniques are also applicable in ArcGIS Pro, and official ArcGIS Pro documentation has been supplemented below.
+The HMC-published guides have been written for the free GIS software QGIS, which you can [learn how to download here](https://harvardmapcollection.github.io/tutorials/qgis/download/). The techniques are also applicable in ArcGIS Pro, and official ArcGIS Pro documentation has been included for each tecnhnique. Happy mapping!
 
 1. Add a vector dataset to a map
     - [In QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector)
