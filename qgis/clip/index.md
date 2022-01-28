@@ -6,7 +6,7 @@ Oftentimes, datasets you find in online data portals represent areas of a much l
 
 One way of narrowing down the data is to [create a subset](https://harvardmapcollection.github.io/tutorials/qgis/export-selected/) by filtering the dataset's tabular attributes.
 
-In this tutorial we will learn how to clip datasets *by geography*. 
+Alternatively, you can clip the data to your desired extent *by geography*. 
 
 ## Tutorial data
 
