@@ -10,11 +10,14 @@ In order to use multiple datasets together for visualization and analysis, it is
 
 A coordinate reference system (CRS) then defines how the two-dimensional, projected map in your GIS relates to real places on the earth. The decision of which map projection and CRS to use depends on the regional extent of the area you want to work in, on the analysis you want to do, and often on the availability of data." - *[QGIS documentation](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/coordinate_reference_systems.html)*
 
+
 ## Importance
 
 Every mapmaker at one point or another has been frustrated by their data layers not lining up on the map, or map data appearing in the middle of the ocean instead of where it is supposed to be. This can almost always be chalked up to data being in the wrong CRS.
 
-In this tutorial, you will learn the easiest practical way to make sure all datasets are in the same CRS so you can work with them together.
+There are many resources available on [how to choose a map projection](http://www.geo.hunter.cuny.edu/~jochen/gtech201/lectures/lec6concepts/map%20coordinate%20systems/how%20to%20choose%20a%20projection.htm#:~:text=When%20you%20choose%20a%20projection,area%E2%80%94to%20achieve%20that%20purpose.).
+
+In this tutorial, you will learn the easiest practical way to make sure all datasets are in the same CRS so you can get started mapping.
 
 ## How to change a dataset's CRS
 
