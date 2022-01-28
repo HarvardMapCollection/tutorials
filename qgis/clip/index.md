@@ -19,4 +19,4 @@ Data to clip: United States census tracts
 
 Data to clip *by*: Boundary of Cambridge, MA
     - Learn how to obtain with [this tutorial]()
-    - Skip ahead by downloading at this link]()
+    - Skip ahead by downloading at this link](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson). (Right-click anywhere on the screen and select `Save As`.)
