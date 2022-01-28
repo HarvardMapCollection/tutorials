@@ -39,4 +39,4 @@ Here you see a table where each row corresponds to one polygon feature on the ma
 
 ## More resources
 
-Extensive [documentation for working in the QGIS attribute table](https://docs.qgis.org/3.4/en/docs/user_manual/working_with_vector/attribute_table.html) exists for doing things like editing the data, creating new subset data, and constructing useful filters and expressions. 
+Extensive [documentation for working in the QGIS attribute table](https://docs.qgis.org/3.4/en/docs/user_manual/working_with_vector/attribute_table.html) exists for techniques such as editing the data, creating new subset data, and constructing useful filters and expressions. 
