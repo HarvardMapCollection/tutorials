@@ -19,6 +19,7 @@
 - [How to georeference in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
 - [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join)
 - [How to export selected features in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/export-selected)
+- [How to change a datasets CRS in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/change-crs)
 
 
 
