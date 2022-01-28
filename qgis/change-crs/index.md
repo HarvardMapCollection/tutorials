@@ -42,3 +42,11 @@ The example data was obtained from MassGIS, the open data portal for Massachuset
 7. Even though we changed the project CRS, the data layer's source CRS is still `EPSG: 26986 NAD83 / Massachusetts Mainlaind`. To change it, under `Set source coordinate reference system` you can use the dropdown to recent choices, or click the globe icon to bring up the CRS search interface. Pick `WGS 84 EPSG: 4326`.
 
 8. Select `OK`.
+
+9. It is likely that when you changed the data source CRS, the location of the data in context to your project frame shifted out of view. To center your data on the map again, you can [zoom to layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer).
+
+10. A good rule of thumb when making changes to data inside of a GIS desktop software is to assume that the changes are ephemeral until you export the data as a new dataset. To save this dataset's new source CRS, right-click the data layer in the layer list, and select `Export → Save Features As`. 
+
+11. Make sure you are saving with the correct CRS, as well as saving to a folder you will remember. Select `OK`. 
+
+12. If you had been experiencing problems perfoming analysis, getting errors you suspect could be related to inconsistent CRS across layers, try running the tools again with the newly exported dataset. 
