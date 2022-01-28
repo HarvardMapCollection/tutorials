@@ -17,13 +17,13 @@
 
 ## QGIS
 - [How to download QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/)
-- [How to add a basemap to a QGIS project](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/)
-- [How to add vector data to QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector)
-- [How to georeference in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
-- [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join)
-- [How to export selected features in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/export-selected)
-- [How to change a dataset's CRS in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/change-crs)
-- [How to zoom to layer in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer)
+- [How to add a basemap](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/)
+- [How to add vector data](https://harvardmapcollection.github.io/tutorials/qgis/open-vector)
+- [How to georeference](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
+- [How to join data](https://harvardmapcollection.github.io/tutorials/qgis/join)
+- [How to export selected features](https://harvardmapcollection.github.io/tutorials/qgis/export-selected)
+- [How to change a dataset's CRS](https://harvardmapcollection.github.io/tutorials/qgis/change-crs)
+- [How to zoom to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer)
 
 
 
