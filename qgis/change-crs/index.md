@@ -17,7 +17,7 @@ Every mapmaker at one point or another has been frustrated by their data layers 
 
 There are many resources available on [how to choose a map projection](http://www.geo.hunter.cuny.edu/~jochen/gtech201/lectures/lec6concepts/map%20coordinate%20systems/how%20to%20choose%20a%20projection.htm#:~:text=When%20you%20choose%20a%20projection,area%E2%80%94to%20achieve%20that%20purpose.).
 
-In this tutorial, you will learn the easiest practical way to make sure all datasets are in the same CRS so you can get started mapping.
+In this tutorial, you will learn a straightforward, practical way to make sure all datasets are in the same CRS so you can get started mapping.
 
 ## How to change a dataset's CRS
 
