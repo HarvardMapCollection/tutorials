@@ -30,4 +30,7 @@ In this tutorial, you will learn a straightforward, practical way to make sure a
 
 3. An interface will pop up prompting us to select the CRS for the whole project. Let's change the project CRS to `WGS 84`. Select `WGS 84 EPSG: 4326`. If you can't find it in the menu, you can search for it next to the `Filter` box.
 
-4. 
+4. Select `OK`.
+> You'll notice your data may shape when you change the project CRS. If cartography is your primary concern, you should pick a projection that matches the location you are mapping. If you aren't sure, or want to ensure your data will work with all web mapping applications, you can default to `WGS 84 EPSG: 4326`.
+
+
