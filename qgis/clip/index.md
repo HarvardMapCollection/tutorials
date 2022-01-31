@@ -8,6 +8,9 @@ One way of narrowing down map data is to [create a subset](https://harvardmapcol
 
 Alternatively, you can clip the data to your desired extent *by geography*. 
 
+![Image of input, clip, and output data, illustrating a clip](media/1.png)
+> From [ESRI documentation on clipping](https://desktop.arcgis.com/en/arcmap/10.3/tools/coverage-toolbox/clip.htm). 
+
 ## Tutorial data
 
 We are going to clip a shapefile of all census tracts in the United States to create a new shapefile of *only* census tracts in Cambridge, Massachusetts.
