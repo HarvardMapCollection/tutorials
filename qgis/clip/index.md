@@ -5,9 +5,10 @@ Clipping is a way of cropping GIS data to a certain extent.
 ![Image of input, clip, and output data, illustrating a clip](media/1.png)
 > From [ESRI documentation on clipping](https://desktop.arcgis.com/en/arcmap/10.3/tools/coverage-toolbox/clip.htm). 
 
-There are two main reasons you might want to clip:
-1. Larger datasets are more unwieldy and difficult to work with.
-2. You can create more effective visualizations if your data is focused.
+
+## Why do we clip?
+- Larger datasets are more unwieldy and difficult to work with.
+- You can create more effective visualizations if your data is focused.
 
 ## Tutorial data
 
