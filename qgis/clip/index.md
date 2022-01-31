@@ -15,14 +15,14 @@ We are going to clip a shapefile of all census tracts in the United States to cr
 
 ### Download the example data
 
-### Data that needs to be clipped
-United States census tracts
+### United States Census tracts
+This is the large dataset that needs to be *clipped*. 
 - [Learn how to get](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/).
 - [Download](https://geodata.socialexplorer.com/collection/90937129-3414-434e-a880-e358308654b4). 
     - **Tip:** Select the 2019 option
 
-### Clipping data
-Boundary of Cambridge, MA
+### Boundary of Cambridge, MA
+This is the the desired extent dataset used to *clip with*.
 - [Learn how to get](https://harvardmapcollection.github.io/tutorials/qgis/export-selected/).
 - [Download](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson). 
     - **Tip:** Right-click anywhere on the screen and select `Save As`
