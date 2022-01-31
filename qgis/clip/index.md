@@ -1,6 +1,6 @@
 # How to clip GIS data
 
-Sometimes datasets represent areas larger in extent than that of your study area. Clipping is a way of narrowing the data to an area of focus.
+Clipping is a way of cropping GIS data to a certain extent. 
 
 ![Image of input, clip, and output data, illustrating a clip](media/1.png)
 > From [ESRI documentation on clipping](https://desktop.arcgis.com/en/arcmap/10.3/tools/coverage-toolbox/clip.htm). 
