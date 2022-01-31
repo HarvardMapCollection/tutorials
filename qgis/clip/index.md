@@ -1,10 +1,10 @@
 # How to clip by geography
 
-Oftentimes, datasets you find in online data portals represent areas of a much larger extent than the area you would like to focus on in your map. There are two reasons this is not ideal:
+Sometimes datasets represent areas larger in extent than that of your study area. There are two reasons this is not ideal:
 1. Larger datasets are more unwieldy and difficult to work with.
-2. You often only need data for a particular area to make an effective visualization. 
+2. To make effective visualizations, it can be helpful to limit what is represented to the area of focus.
 
-One way of narrowing down the data is to [create a subset](https://harvardmapcollection.github.io/tutorials/qgis/export-selected/) by filtering the dataset's tabular attributes.
+One way of narrowing down map data is to [create a subset](https://harvardmapcollection.github.io/tutorials/qgis/export-selected/) by filtering the dataset's tabular attributes.
 
 Alternatively, you can clip the data to your desired extent *by geography*. 
 
