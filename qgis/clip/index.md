@@ -16,9 +16,9 @@ We are going to clip a shapefile of all census tracts in the United States to cr
 ### Download the example data
 
 Data to clip: **United States census tracts**
-- Learn how to obtain with [this tutorial](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/).
-- Skip ahead by downloading at [this link](https://geodata.socialexplorer.com/collection/90937129-3414-434e-a880-e358308654b4). (Choose 2019).
+- Learn how to obtain the data with [this tutorial](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/).
+- Skip ahead by downloading the data at [this link](https://geodata.socialexplorer.com/collection/90937129-3414-434e-a880-e358308654b4). (Choose 2019).
 
 Data to clip *by*: **Boundary of Cambridge, MA**
-- Learn how to obtain with [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/export-selected/).
-- Skip ahead by downloading at [this link](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson). (Right-click anywhere on the screen and select `Save As`.)
+- Learn how to obtain the data with [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/export-selected/).
+- Skip ahead by downloading the data at [this link](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson). (Right-click anywhere on the screen and select `Save As`.)
