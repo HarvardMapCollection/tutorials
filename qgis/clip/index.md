@@ -1,15 +1,13 @@
-# How to clip by geography
+# How to clip GIS data
 
-Sometimes datasets represent areas larger in extent than that of your study area. There are two reasons this is not ideal:
-1. Larger datasets are more unwieldy and difficult to work with.
-2. To make effective visualizations, it can be helpful to limit what is represented to the area of focus.
-
-One way of narrowing down map data is to [create a subset](https://harvardmapcollection.github.io/tutorials/qgis/export-selected/) by filtering the dataset's tabular attributes.
-
-Alternatively, you can clip the data to your desired extent *by geography*. 
+Sometimes datasets represent areas larger in extent than that of your study area. Clipping is a way of narrowing the data to an area of focus.
 
 ![Image of input, clip, and output data, illustrating a clip](media/1.png)
 > From [ESRI documentation on clipping](https://desktop.arcgis.com/en/arcmap/10.3/tools/coverage-toolbox/clip.htm). 
+
+There are two main reasons you might want to clip:
+1. Larger datasets are more unwieldy and difficult to work with.
+2. You can create more effective visualizations if your data is focused.
 
 ## Tutorial data
 
