@@ -24,7 +24,7 @@
 - [How to export selected features](https://harvardmapcollection.github.io/tutorials/qgis/export-selected)
 - [How to change a dataset's CRS](https://harvardmapcollection.github.io/tutorials/qgis/change-crs)
 - [How to zoom to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer)
-- [How to clip by geography](https://harvardmapcollection.github.io/tutorials/qgis/clip)
+- [How to clip GIS data](https://harvardmapcollection.github.io/tutorials/qgis/clip)
 
 
 
