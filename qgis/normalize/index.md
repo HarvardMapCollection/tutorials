@@ -21,7 +21,7 @@ Download the sample data, [tenure by census tract in Cambridge, MA](https://raw.
 
 5. Under `Output field name`, name the field `OwnerPct`.
 
-6. Under `Output field type`, select `Decimal number (real).
+6. Under `Output field type`, select `Decimal number (real)`.
 
 7. In the expression box type `("tenure-2019_SE_A10060_002" / "tenure-2019_SE_A10060_001") * 100`.
 > You will know your expression is valid if under the expression box there is an `Output preview` with a value that looks like a valid percentage.
