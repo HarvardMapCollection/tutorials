@@ -73,7 +73,7 @@ Before we clip by geography, let's first extract only census tracts in the state
 
 We are now ready to clip. There are a few ways to "clip". The first way you can think of as quick and crude. It chops off the data exactly at the boundaries defined by the clipping layer (in this case, Cambridge's boundary). This is OK if you want to run the process quickly, and don't care if features are cut off. 
 
-Sometimes, you need to do some creative problem solving. In addition to the quick clip, we will show how to tend to some of the nuances of the data to get a nice looking clipping layer. 
+Sometimes, depending on the nuances of your datasets, you may need to do some creative problem solving to get a clip that works for your needs. In addition to the quick clip, this tutorial will show how we might tend to some of these problems.
 
 ## Quick clip
 
