@@ -49,7 +49,7 @@ To perform a join, you must have a column in each dataset which contains the sam
 
 For instance, when we joined the COVID spreadsheet to the Massachusetts municipalities shapefile, we used a column common to both datasets: `town name`.
 
-## Tutorial with census data
+## Tutorial data
 
 >If you don't already have the tutorial data, you can either:
 1. Follow the [census data to ArcGIS Online starter pack series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to obtain them.
@@ -59,8 +59,9 @@ For instance, when we joined the COVID spreadsheet to the Massachusetts municipa
 - [Tenure statistics .CSV](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/tenure-2019.csv)
 Refer to the tenure[codebook](https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/tenure-2019-codebook.txt) to make sense of the statistical files' structure.
 
-1. Add both the tracts `geoJSON` and the statistical `.csv` to the map.
-> 
-- [How to add vector data to QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/)
-- [How to add delimited text data to QGIS](https://harvardmapcollection.github.io/tutorials/qgis/add-csv/)
+## Tutorial steps
+
+1. Add the census tract shapes data to the QGIS document by following [these steps](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/)
+
+2. Add the statistical tenure data to the map by following [these steps](https://harvardmapcollection.github.io/tutorials/qgis/add-csv/)
 
