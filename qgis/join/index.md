@@ -60,6 +60,7 @@ For instance, when we joined the COVID spreadsheet to the Massachusetts municipa
 Refer to the tenure[codebook](https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/tenure-2019-codebook.txt) to make sense of the statistical files' structure.
 
 1. Add both the tracts `geoJSON` and the statistical `.csv` to the map.
-- [How to add vector data to QGIS]()
-- [How to add delimited text data to QGIS]()
+> 
+- [How to add vector data to QGIS](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/)
+- [How to add delimited text data to QGIS](https://harvardmapcollection.github.io/tutorials/qgis/add-csv/)
 
