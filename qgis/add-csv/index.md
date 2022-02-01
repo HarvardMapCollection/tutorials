@@ -7,6 +7,7 @@ This tutorial will cover how to add tabular data to a QGIS project.
 1. Open [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/).
 
 2. In the main QGIS menu (banner across the top of the computer screen), select `Layer → Add Layer → Add delimited text layer`.
+![Screenshot of the add delimited text wizard in QGIS](media/1.png)
 
 3. Under `File name` select the ellipses dots icon to navigate to the `.csv` you wish to import.
 
@@ -14,4 +15,6 @@ This tutorial will cover how to add tabular data to a QGIS project.
 
 5. 
 - If your data does not have point coordinates (latitude and longitude) and you plan on making this data spatial by [performing a join](https://harvardmapcollection.github.io/tutorials/qgis/join/), under `Geometry definition` select `No Geometry (attribute only table)`. 
-- If your data *does* have point coordinates, 
+- If your data *does* have point coordinates, select `Point coordinates` and define which field in the spreadsheet is `X` (longitude), and which is `Y` (latitude).
+
+6. Select `Add`.
