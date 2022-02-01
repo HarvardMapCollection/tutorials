@@ -13,5 +13,8 @@ This tutorial series will equip you with the skills needed to work with United S
 3. [How to obtain census data for GIS mapping](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
 > To get usable files for mapping, you must download a table with statistics _and_ a GIS boundary file. These files can be obtained from a few different sources.
 
-4. [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join)
+4. [How to clip GIS data to an area of interest](https://harvardmapcollection.github.io/tutorials/qgis/clip)
+> To control the size and look of mapping files, you need to know how to clip them to contained areas of interest.
+
+5. [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join)
 > Joining statistical files to GIS shapefiles using desktop GIS software is an essential skill for map making.
