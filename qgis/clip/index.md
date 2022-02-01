@@ -92,11 +92,11 @@ Before we clip by geography, let's first extract only census tracts in the state
 ## Troubleshooting clipping
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
-When we closely inspect the data that results from our clipping function, we notice there are strange slivers of polygons around the edges of our dataset. This is because our two original data files were created by different institutions, and therefore the tract boundaries and the city extent don't line up exactly perfectly. Therefore, when we ran the clipping tool, we were left with messy edges. When we go to create a graduated color choropleth map with this census data, these extraneous edge polygons will make our map look less clean. The rest of this tutorial addresses how you might troubleshoot an issue like this.
+When we closely inspect the data that results from our clipping function, we notice there are strange slivers of polygons around the edges of our dataset. This is because our two original data files were created by different institutions, and therefore the tract boundaries and the city extent don't line up exactly perfectly. Therefore, when we ran the clipping tool, we were left with messy edges. When we go to create a graduated color choropleth map with this census data, these extraneous edge polygons will make our map look less clean. The rest of this tutorial addresses how you might go about troubleshooting an issue like this.
 
 ### Create a buffer
 
-First we will create a buffer around the City of Cambridge extent data. If we create a slightly larger clipping layer, it will be easier to extract the tract features without risking the two datasets' boundaries overlapping.
+First we will create a buffer around the City of Cambridge extent data. 
 
 1. Export `Cambridge.geoJSON` (the city extent) with the CRS `EPSG: 26986` following the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/change-crs/).
 > To create an effective buffer, we need a coordinate system that can support calculating in meters or feet. 
