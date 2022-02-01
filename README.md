@@ -25,6 +25,7 @@
 - [How to change a dataset's CRS](https://harvardmapcollection.github.io/tutorials/qgis/change-crs)
 - [How to zoom to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer)
 - [How to clip GIS data](https://harvardmapcollection.github.io/tutorials/qgis/clip)
+- [How to adjust opacity](https://harvardmapcollection.github.io/tutorials/qgis/adjust-opacity)
 
 
 

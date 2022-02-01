@@ -57,3 +57,17 @@ Before we clip by geography, let's first extract only census tracts in the state
 11. Select Okay.
 
 12. Your new dataset will be automatically added to the map. You can free up space by removing the original nation-wide tracts dataset. Do this by right-clicking the U.S. Tracts layer and selecting `Remove layer`.
+
+
+## Clip by geography
+
+1. Set up your QGIS project so that the only layers in the layer list are:
+- Only census tracts in the state of Massachusetts
+- The boundary of the municipality of Cambridge
+> If you have been skimming these guides and need the data files you can download MA tracts [here](https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/ma-tracts-2019.geojson), and Cambridge's boundary [here](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson). Right-click anywhere on the screen and select `Save As`.
+![Screenshot of data to download in Github](media/2.png)
+
+2. Check to make sure your project looks something like this:
+![QGIS document showing map of census tracts. On top of the census tracts is a polygon for the boundary of Cambridge, MA. These are the only two layers in the layer list.](media/3.png)
+
+3. 
