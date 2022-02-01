@@ -100,17 +100,27 @@ Sometimes, you need to do some creative problem solving. In addition to the quic
 Sometimes, depending on the data, you need to take some additional steps while clipping. 
 
 If we look super closely at the data, we can see that the boundaries of the municipal extent of Cambridge don't always perfectly line up with the boundaries of the census tracts.
-![Screenshot of data borders slightly overlapping one another](media/5.png)
+![Screenshot of data borders slightly overlapping one another](media/6.png)
 
 Though the census tracts are conceptually "drawn" to line up with the municipal bounds (not always the case), the datasets were created from two different sources, and so there are minor discrepencies between the two. 
 
 If we were to run a GIS process to extract all of the census tracts that `Fall within` the city boundary, that process would **fail** because there are so many almost inperceivably overlapping borders.
-![Screenshot of failed results of a extract all features within process in QGIS](media/6.png)
+![Screenshot of failed results of a extract all features within process in QGIS](media/5.png)
 _Failed results of an `Extract all features within` GIS function in QGIS._
 
 The following steps are how we would troubleshoot this problem.
 
+### Create a buffer 
 
+To solve the problem of the randomly overlapping borderlines on the two datasets, we could adjust these manually. That, however, would take a really long time, and we might not even be sure we found all the errors.
+
+Another approach is to create a small buffer around the clipping datasets (the city of Cambridge boundary) to make it a little bit bigger than the extent of the Cambridge tracts. That way, if we run a function to extract all census features from within the city boundary, we will know all of the features will truly fall within that boundary.
+
+1. 
+
+### Extract all features
+
+Instead of performing a crude clip, we want to extract all of the features within, to make sure none of the data around the edges is getting cut off. 
 
 1. In the main QGIS menu (banner across the top of the computer screen), select `Processing → Toolbox`. 
 
