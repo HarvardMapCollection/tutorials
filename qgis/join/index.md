@@ -59,9 +59,9 @@ Refer to the tenure[codebook](https://github.com/HarvardMapCollection/tutorials/
 
 ## Tutorial steps
 
-1. Add the census tract shapes data to the QGIS document by following [these steps](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/)
+1. Add the census tract shapes data to the QGIS document by following [these steps](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/).
 
-2. Add the statistical tenure data to the map by following [these steps](https://harvardmapcollection.github.io/tutorials/qgis/add-csv/)
+2. Add the statistical tenure data to the map by following [these steps](https://harvardmapcollection.github.io/tutorials/qgis/add-csv/).
 
 3. Right-click the tracts layer in the layer list and select `Properties`.
 
@@ -70,6 +70,24 @@ Refer to the tenure[codebook](https://github.com/HarvardMapCollection/tutorials/
 5. In the bottom of the wizard interface, select the green plus sign `Add new join` icon.
 ![Screenshot of add a new join button in QGIS](media/6.png)
 
-6. 
+6. Set the parameters as follows:
+> 
+- **Join layer:** tenure-2019
+- **Join field:** GEOFIPS
+- **Target field:** GEOID
 
+7. Select the checkbox next to `Joined Fields`.
 
+8. Scroll all the way to the bottom and check off only: `SE_A10060_001`, `SE_A10060_002`, and `SE_A10060_003`.
+
+9. Select `OK`.
+
+10. Select `Apply`.
+
+11. Select `OK`.
+
+12. Right-click the Cambridge tracts layer in the layer list and select `Open Attribute Table`.
+
+13. Confirm the join worked by scrolling to the far-right of the attribute table and checking that fields `SE_A10060_001`, `SE_A10060_002`, and `SE_A10060_003` are populated with numerical data.
+
+14. **IMPORTANT!** Joins in the QGIS document are ephemeral and will not save unless exported. Right-click the census tracts layer, select `Export → Save Features As` and save the new joined dataset to preserve the join.
