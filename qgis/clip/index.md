@@ -75,8 +75,9 @@ Before we clip by geography, let's first extract only census tracts in the state
 4. In the main QGIS menu (banner across the top of the computer screen), select `Vector → Geoprocessing Tools → Clip`. 
 
 5. Input layer is MA tracts. Overlay layer is Cambridge.
-> **Input:** Data you want to clip
-**Output:** Clipping boundary (new extent you want to clip *by*)
+> 
+- **Input:** Data you want to clip
+- **Output:** Clipping boundary (new extent you want to clip *by*)
 
 6. Under `Clipped` select the ellipes three dots icon, pick `Save to file`, and save the new clipped layer somewhere you will remember. You can title the file `Cambridge-tracts`, and save it as either a `shapefile` or `geoJSON`. 
 >**Tip:** We prefer [GeoJSON](https://geojson.org/) because it is an open standard, and is only one file instead of six. 
@@ -107,7 +108,9 @@ First we will create a buffer around the City of Cambridge extent data.
 
 6. Change the distance to 100 feet.
 
-7. Run the process (you don't have to save the output file, we are only going to use the output temporarily)
+7. Run the process (you don't have to save the output file, we are only going to use the output temporarily).
+![Screenshot of transparent buffer layer showing tracts underneath in QGIS](media/9.png)
+_Adding a distance buffer means the tract features fully fall within the clipping extent._
 
 
 ### Extract all features
@@ -123,7 +126,8 @@ Instead of performing a crude clip, we want to extract all of the features withi
 4. Double-click `Extract by location`. 
 
 5. Populate the function settings.
-> `Extract features from`: the layer you wish to clip (in our case, Massachusetts tracts)`Where the features (geometric predicate)`:  Uncheck `intersect` and select `are within`
-`By comparing to features from`: the clipping extent, or layer you wish to clip by (in our case, Cambridge's boundary)
+> 
+- `Extract features from`: the layer you wish to clip (in our case, Massachusetts tracts)  
+- `Where the features (geometric predicate)`:  Uncheck `intersect` and select `are within`
+- `By comparing to features from`: the clipping extent, or layer you wish to clip by (in our case, Cambridge's boundary)
 6. Under `Extracted (location)` select the ellipes three dots icon, pick `Save to file`, and save the new clipped layer somewhere you will remember. You can title the file `Cambridge-tracts`, and save it as either a `shapefile` or `geoJSON`. 
->**Tip:** We prefer [GeoJSON][https://geojson.org/] because it is an open standard, and is only one file instead of six. 
