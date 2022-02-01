@@ -1,5 +1,3 @@
-Under development! Coming soon!
-
 # How to Join Data in QGIS
 
 It is common for mappers to find information with a spatial component available in formats that are not yet optimized to work with mapping software. One such occurrence is working with spreadsheet data. 
@@ -64,4 +62,14 @@ Refer to the tenure[codebook](https://github.com/HarvardMapCollection/tutorials/
 1. Add the census tract shapes data to the QGIS document by following [these steps](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/)
 
 2. Add the statistical tenure data to the map by following [these steps](https://harvardmapcollection.github.io/tutorials/qgis/add-csv/)
+
+3. Right-click the tracts layer in the layer list and select `Properties`.
+
+4. In the menu, select `Joins`.
+
+5. In the bottom of the wizard interface, select the green plus sign `Add new join` icon.
+![Screenshot of add a new join button in QGIS](media/6.png)
+
+6. 
+
 
