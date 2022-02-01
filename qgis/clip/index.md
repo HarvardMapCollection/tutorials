@@ -104,7 +104,7 @@ If we look super closely at the data, we can see that the boundaries of the muni
 
 Though the census tracts are conceptually "drawn" to line up with the municipal bounds (not always the case), the datasets were created from two different sources, and so there are minor discrepencies between the two. 
 
-If we were to run a GIS process to extract all of the census tracts that `Fall within` the city boundary, that process would **fail** because there are so many almost inperceivably overlapping borders.
+If we were to run a GIS process to extract all of the census tracts that `Fall within` the city boundary, that process would **fail** because there are so many almost inperceivably overlapping extents.
 ![Screenshot of failed results of a extract all features within process in QGIS](media/5.png)
 _Failed results of an `Extract all features within` GIS function in QGIS._
 
