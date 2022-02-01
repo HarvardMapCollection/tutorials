@@ -70,3 +70,26 @@ Before we clip by geography, let's first extract only census tracts in the state
 ![QGIS document showing map of census tracts. On top of the census tracts is a polygon for the boundary of Cambridge, MA. These are the only two layers in the layer list.](media/3.png)
 
 3. Add an opacity slider to the Cambridge boundary layer by following the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/adjust-opacity/). Use this to "peer under" the Cambridge boundary data and inspect the tracts we will be isolating via the geographic clip.
+
+We are now ready to clip. There are two ways to clip. The first way you can think of as quick and crude. It chops off the data exactly at the boundaries defined by the clipping layer (in this case, Cambridge's boundary). This is OK if you want to run the process quickly, and don't care if features are cut off. The second method extracts all features within the extent of the clipping boundary, but preserves the features in their entirety, regardless of if they fall somewhat outside the bounds of the clipping extent. We will go over both methods.
+
+## Quick clip
+
+1. In the main QGIS menu (banner across the top of the computer screen), select `Vector → Geoprocessing Tools → Clip`. 
+
+2. Input layer is MA tracts. Overlay layer is Cambridge.
+> **Input:** Data you want to clip
+**Output:** Clipping boundary (new extent you want to clip *by*)
+
+3. Under `Clipped` select the ellipes three dots icon, pick `Save to file`, and save the new clipped layer somewhere you will remember. You can title the file `Cambridge-tracts`, and save it as either a `shapefile` or `geoJSON`. 
+>Tip: We prefer [GeoJSON][https://geojson.org/] because it is an open standard, and is only one file instead of six. 
+
+4. Select `Save`.
+
+5. Select `Run`.
+
+6. The new dataset is automatically added to the map. You can toggle off the original two layers in the layer list to make sure your new dataset looks correct.
+![Screenshot of new, clipped layer in QGIS only showing census tracts in Cambridge](media/4.png)
+
+
+## Extract features within
