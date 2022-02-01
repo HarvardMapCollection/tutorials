@@ -92,5 +92,38 @@ Before we clip by geography, let's first extract only census tracts in the state
 ## Troubleshooting clipping
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
-When we closely inspect the data that results from our clipping function, we notice there are strange slivers of polygons around the edges of our dataset. This is because our two original data files were created by different agents, and therefore the tract boundaries and the city extent didn't line up exactly perfectly. Therefore, when we ran the clipping tool, we were left with messy edges. When we go to create a graduated color choropleth map with this census data, these extraneous edge polygons will make our map look less clean. The rest of this tutorial addresses how you might troubleshoot an issue like this.
+When we closely inspect the data that results from our clipping function, we notice there are strange slivers of polygons around the edges of our dataset. This is because our two original data files were created by different institutions, and therefore the tract boundaries and the city extent don't line up exactly perfectly. Therefore, when we ran the clipping tool, we were left with messy edges. When we go to create a graduated color choropleth map with this census data, these extraneous edge polygons will make our map look less clean. The rest of this tutorial addresses how you might troubleshoot an issue like this.
 
+### Create a buffer
+
+First we will create a buffer around the City of Cambridge extent data. If we create a slightly larger clipping layer, it will be easier to extract the tract features without risking the two datasets' boundaries overlapping.
+
+1. Export `Cambridge.geoJSON` (the city extent) with the CRS `EPSG: 26986` following the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/change-crs/).
+> To create an effective buffer, we need a coordinate system that can support calculating in meters or feet. 
+
+4. In the main QGIS menu (banner across the top of the computer screen), select `Vector → Geoprocessing Tools → Buffer`. 
+
+5. Set the input layer to the new **EPSG 26968** version of the Cambridge boundary.
+
+6. Change the distance to 100 feet.
+
+7. Run the process (you don't have to save the output file, we are only going to use the output temporarily)
+
+
+### Extract all features
+
+Instead of performing a crude clip, we want to extract all of the features within, to make sure none of the data around the edges is getting cut off. 
+
+1. In the main QGIS menu (banner across the top of the computer screen), select `Processing → Toolbox`. 
+
+2. Toggle open some of the toolbox options and marvel at all the amazing things you can do with desktop GIS software.
+
+3. Toggle open `Vector selection`. 
+
+4. Double-click `Extract by location`. 
+
+5. Populate the function settings.
+> `Extract features from`: the layer you wish to clip (in our case, Massachusetts tracts)`Where the features (geometric predicate)`:  Uncheck `intersect` and select `are within`
+`By comparing to features from`: the clipping extent, or layer you wish to clip by (in our case, Cambridge's boundary)
+6. Under `Extracted (location)` select the ellipes three dots icon, pick `Save to file`, and save the new clipped layer somewhere you will remember. You can title the file `Cambridge-tracts`, and save it as either a `shapefile` or `geoJSON`. 
+>**Tip:** We prefer [GeoJSON][https://geojson.org/] because it is an open standard, and is only one file instead of six. 
