@@ -101,6 +101,7 @@ Sometimes, depending on the data, you need to take some additional steps while c
 
 If we look super closely at the data, we can see that the boundaries of the municipal extent of Cambridge don't always perfectly line up with the boundaries of the census tracts.
 ![Screenshot of data borders slightly overlapping one another](media/6.png)
+![Screenshot of data borders slightly overlapping one another, even more zoomed in](media/7.png)
 
 Though the census tracts are conceptually "drawn" to line up with the municipal bounds (not always the case), the datasets were created from two different sources, and so there are minor discrepencies between the two. 
 
