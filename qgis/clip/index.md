@@ -61,8 +61,8 @@ Before we clip by geography, let's first extract only census tracts in the state
 
 ## Clip by geography
 
-1. Set up your QGIS project so that the only layers in the layer list are:
-- Only census tracts in the state of Massachusetts
+1. Set up your QGIS project so that the layer list contains:
+- Census tracts in the state of Massachusetts
 - The boundary of the municipality of Cambridge
 > If you have been skimming these guides and need the data files you can download MA tracts [here](https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/ma-tracts-2019.geojson), and Cambridge's boundary [here](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson). Right-click anywhere on the screen and select `Save As`.
 
