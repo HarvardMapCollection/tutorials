@@ -73,6 +73,8 @@ Before we clip by geography, let's first extract only census tracts in the state
 
 We are now ready to clip. There are a few ways to "clip". The first way you can think of as quick and crude. It chops off the data exactly at the boundaries defined by the clipping layer (in this case, Cambridge's boundary). This is OK if you want to run the process quickly, and don't care if features are cut off. 
 
+Sometimes, you need to do some creative problem solving. In addition to the quick clip, we will show how to tend to some of the nuances of the data to get a nice looking clipping layer. 
+
 ## Quick clip
 
 1. In the main QGIS menu (banner across the top of the computer screen), select `Vector → Geoprocessing Tools → Clip`. 
@@ -93,9 +95,22 @@ We are now ready to clip. There are a few ways to "clip". The first way you can 
 >**Tip:** Any geoprocessing functions can fail if data layers are set in different coordinate reference systems. If you suspect this might be a problem, you can follow the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/change-crs/). 
 
 
-## Extract features within
+## Fancy clip
 
-It is the case with our tutorial data that the boundaries of the U.S. census tracts line up nicely with the municipal extent of the City of Cambridge. This is not always the case, and you may want to clip to an extent where features spill somewhat over the edges of the clipping boundary. In order to preserve those features, follow these steps.
+Sometimes, depending on the data, you need to take some additional steps while clipping. 
+
+If we look super closely at the data, we can see that the boundaries of the municipal extent of Cambridge don't always perfectly line up with the boundaries of the census tracts.
+![Screenshot of data borders slightly overlapping one another](media/5.png)
+
+Though the census tracts are conceptually "drawn" to line up with the municipal bounds (not always the case), the datasets were created from two different sources, and so there are minor discrepencies between the two. 
+
+If we were to run a GIS process to extract all of the census tracts that `Fall within` the city boundary, that process would **fail** because there are so many almost inperceivably overlapping borders.
+![Screenshot of failed results of a extract all features within process in QGIS](media/6.png)
+_Failed results of an `Extract all features within` GIS function in QGIS._
+
+The following steps are how we would troubleshoot this problem.
+
+
 
 1. In the main QGIS menu (banner across the top of the computer screen), select `Processing → Toolbox`. 
 
