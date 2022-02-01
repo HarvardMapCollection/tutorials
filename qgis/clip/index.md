@@ -92,4 +92,5 @@ Before we clip by geography, let's first extract only census tracts in the state
 ## Troubleshooting clipping
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
-When we closely inspect the data that results from our clipping function, we notice there are strange slivers of polygons around the edges of our dataset. This is because our two original data files were created by different agents, and therefore the tract boundaries and the city extent didn't line up exactly perfectly. Therefore, when we ran the clipping tool, we were left with messy edges. Included in this section of the tutorial is just one way you could troubleshoot an issue like this.
+When we closely inspect the data that results from our clipping function, we notice there are strange slivers of polygons around the edges of our dataset. This is because our two original data files were created by different agents, and therefore the tract boundaries and the city extent didn't line up exactly perfectly. Therefore, when we ran the clipping tool, we were left with messy edges. When we go to create a graduated color choropleth map with this census data, these extraneous edge polygons will make our map look less clean. The rest of this tutorial addresses how you might troubleshoot an issue like this.
+
