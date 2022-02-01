@@ -27,6 +27,7 @@
 - [How to zoom to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer)
 - [How to clip GIS data](https://harvardmapcollection.github.io/tutorials/qgis/clip)
 - [How to adjust opacity](https://harvardmapcollection.github.io/tutorials/qgis/adjust-opacity)
+- [How to normalize data](https://harvardmapcollection.github.io/tutorials/qgis/normalize)
 
 
 
