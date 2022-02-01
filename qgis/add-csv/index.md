@@ -18,3 +18,5 @@ This tutorial will cover how to add tabular data to a QGIS project.
 - If your data *does* have point coordinates, select `Point coordinates` and define which field in the spreadsheet is `X` (longitude), and which is `Y` (latitude).
 
 6. Select `Add`.
+
+7. Select `Close`.
