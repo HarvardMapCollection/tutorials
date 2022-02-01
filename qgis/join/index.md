@@ -52,7 +52,8 @@ For instance, when we joined the COVID spreadsheet to the Massachusetts municipa
 >If you don't already have the tutorial data, you can either:
 1. Follow the [census data to ArcGIS Online starter pack series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to obtain them.
 2. Download them here
-> **Tip:** Right-click anywhere on the screen and select `Save As`:
+> 
+**Tip:** Right-click anywhere on the screen and select `Save As`:
 - [Census tracts in Cambridge, MA](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge-tracts.geojson).
 - [Tenure statistics .CSV](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/tenure-2019.csv)
 Refer to the tenure[codebook](https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/tenure-2019-codebook.txt) to make sense of the statistical files' structure.
