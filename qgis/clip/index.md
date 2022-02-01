@@ -89,3 +89,7 @@ Before we clip by geography, let's first extract only census tracts in the state
 ![Screenshot of new, clipped layer in QGIS only showing census tracts in Cambridge](media/4.png)
 >**Tip:** Any geoprocessing functions can fail if data layers are set in different coordinate reference systems. If you suspect this might be a problem, you can follow the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/change-crs/). 
 
+## Troubleshooting clipping
+
+![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
+When we closely inspect the data that results from our clipping function, we notice there are strange slivers of polygons around the edges of our dataset. This is because our two original data files were created by different agents, and therefore the tract boundaries and the city extent didn't line up exactly perfectly. Therefore, when we ran the clipping tool, we were left with messy edges. Included in this section of the tutorial is just one way you could troubleshoot an issue like this.
