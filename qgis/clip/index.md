@@ -112,9 +112,9 @@ The following steps are how we would troubleshoot this problem.
 
 ### Create a buffer 
 
-To solve the problem of the randomly overlapping borderlines on the two datasets, we could adjust the extents of one of the layers manually. That, however, would take a really long time, and we might not even be sure we found all the errors.
+To solve the problem of the randomly overlapping borderlines on the two datasets, we could adjust the extents of one of the layers manually. That, however, would take a really long time, and we might not even be sure we found all of the overlaps causing the errors.
 
-Another approach is to create a small buffer around the clipping datasets (the city of Cambridge boundary) to make it a little bit bigger than the extent of the Cambridge tracts. That way, if we run a function to extract all census features from within the city boundary, we will know all of the features will truly fall within that boundary.
+Another approach is to create a small buffer around the clipping dataset (the city of Cambridge boundary). That way, by puffing the clipping boundary out a little bit, if we run a function to extract all census tracts from within the city boundary, we will know all of the features will truly fall within that boundary.
 
 1. 
 
