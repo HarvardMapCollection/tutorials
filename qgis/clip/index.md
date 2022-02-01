@@ -38,7 +38,6 @@ Before we clip by geography, let's first extract only census tracts in the state
 3. Open the dataset's attribute table by right-clicking the tracts layer in the layer list, and selecting `Open Attribute Table`.
 
 > Filter the table to only show records that have a [state FIPS code](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696) of 25, the Massachusetts state FIPS code. 
-
 4. In the bottom-right hand corner click `Show All Features`. 
 
 5. Select `Field Filter → STATEFP`.
