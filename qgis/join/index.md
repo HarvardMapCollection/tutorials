@@ -54,6 +54,7 @@ For instance, when we joined the COVID spreadsheet to the Massachusetts municipa
 >If you don't already have the tutorial data, you can either:
 1. Follow the [census data to ArcGIS Online starter pack series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to obtain them.
 2. Download them here:
-    - Census tracts in Cambridge, MA
+    - [Census tracts in Cambridge, MA](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge-tracts.geojson).
+        - Tip: Right-click anywhere on the screen and select `Save As`.
     - 
 
