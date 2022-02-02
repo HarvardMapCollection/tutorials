@@ -115,7 +115,7 @@ _Adding a distance buffer means the tract features fully fall within the clippin
 
 ### Extract all features
 
-Instead of performing a simple, let's extract all of the features within, to make sure none of the edge data is cut off. 
+Instead of performing a simple clip, let's extract all of the features within, to make sure none of the edge data is cut off. 
 
 1. In the main QGIS menu (banner across the top of the computer screen), select `Processing → Toolbox`. 
 
