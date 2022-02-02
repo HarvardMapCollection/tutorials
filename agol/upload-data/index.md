@@ -19,13 +19,12 @@ Download `cambridge-tenure.geoJSON` [here](https://raw.githubusercontent.com/Har
 
 5. Choose to `Add and create a hosted feature layer`.
 
-6. Choose which fields to upload. This will make working with the dataset more managable. Deselect all fields except `tenure-2019_SE_A10060_001`, `OwnerPct`, and `RenterPct`.
 
-7. Follow any prompts. Be sure to populate at least `Title` and `Tags`, as they are necessary to publish the map in any future web or story maps.
+6. Follow any prompts. Be sure to populate at least `Title` and `Tags`, as they are necessary to publish the map in any future web or story maps.
 
-10. Select `Save` to publish the service. 
+7. Select `Save` to publish the service. 
 
-11. This dataset can now be used in a web map. To open the dataset in a web map, select `Open in Map Viewer` (you may have to engage the drop down next to `Open in Map Viewer Classic` to find this option for the more modern map viewer, which this guide is written for).
+8. This dataset can now be used in a web map. To open the dataset in a web map, select `Open in Map Viewer` (you may have to engage the drop down next to `Open in Map Viewer Classic` to find this option for the more modern map viewer, which this guide is written for).
 ![Screenshot of dataset added to the ArcGIS Online Map viewer](media/1.png)
 _Dataset after it has been added to the ArcGIS Online Map Viewer_.
 
