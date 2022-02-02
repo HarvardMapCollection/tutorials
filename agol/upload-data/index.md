@@ -44,7 +44,7 @@ Now that the data has been added, you can begin configuring the map (see tutoria
 
 ## Next steps
 
-- To follow along the [census mapping tutorial](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to learn how to symbolize the map in a graduate color ramp, proceed to [How to style the map in ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth).
+- The next step in the [census mapping tutorial](https://harvardmapcollection.github.io/tutorials/census/census2agol/) is learning [How to style the map in ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth).
 - To learn your way around the ArcGIS Online Map Viewer, visit the [official documentation](https://doc.arcgis.com/en/arcgis-online/get-started/get-started-with-mv.htm).
 
 
