@@ -27,5 +27,5 @@ This tutorial series will equip you with the skills needed to work with United S
 
 
 8. [How to style the map in ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth)
-> Census data is often represented with graduated symbology, such as a choropleth or proportional symbol map.
+> Learn how to style the map with graduated symbology.
 
