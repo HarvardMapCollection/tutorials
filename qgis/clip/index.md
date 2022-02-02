@@ -93,7 +93,7 @@ Before we clip by geography, let's first extract only census tracts in the state
 ## Optional: Troubleshooting clipping
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
-The resulting data from the clipping function contains strange slivers of polygons around the edges. The source datasets each have a different authoring institution. The way the lines were drawn didn't match each other perfectly. When we run the clipping tool, we are left with errors along the edges. To later create a graduated color ramp map with this data, these extraneous edge polygons will distract from the visual impact of our map. The rest of this tutorial addresses troubleshooting issues like this.
+There are problems with the clip output due to the way each dataset was created. Messy lines around the edges of the data will result in a distracting final map. The rest of the tutorial goes through how you might troubleshoot this issue.
 
 ### Create a buffer
 
