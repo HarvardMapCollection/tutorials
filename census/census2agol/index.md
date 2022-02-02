@@ -29,3 +29,6 @@ This tutorial series will equip you with the skills needed to work with United S
 8. [How to style the map in ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth)
 > Learn how to style the map with graduated symbology.
 
+## More help
+If you have any questions about this content or other confusing aspects of finding data or map making, don't hestitate to contact us at **maps@harvard.edu**.
+
