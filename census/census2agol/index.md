@@ -21,3 +21,8 @@ This tutorial series will equip you with the skills needed to work with United S
 
 6. [How to normalize data](https://harvardmapcollection.github.io/tutorials/qgis/normalize)
 > Ensure your data is formatted in a way that can support the creation of meaningful data visualizations.
+
+7. [How to upload data to ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/upload-data)
+> 
+
+8. [How to style a choropleth map in ArcGIS Online]()
