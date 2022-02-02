@@ -90,7 +90,7 @@ Before we clip by geography, let's first extract only census tracts in the state
 ![Screenshot of new, clipped layer in QGIS only showing census tracts in Cambridge](media/4.png)
 >**Tip:** Any geoprocessing functions can fail if data layers are set in different coordinate reference systems. If you suspect this might be a problem, you can follow the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/change-crs/). 
 
-## Troubleshooting clipping
+## Optional: Troubleshooting clipping
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
 The resulting data from the clipping function contains strange slivers of polygons around the edges. The source datasets each have a different authoring institution. The way the lines were drawn didn't match each other perfectly. When we run the clipping tool, we are left with errors along the edges. To later create a graduated color ramp map with this data, these extraneous edge polygons will distract from the visual impact of our map. The rest of this tutorial addresses troubleshooting issues like this.
