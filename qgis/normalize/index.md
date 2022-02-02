@@ -28,4 +28,6 @@ Download the sample data, [tenure by census tract in Cambridge, MA](https://raw.
 
 8. Select `OK` and scroll to the right of the attribute table to ensure your new field has populated.
 
-9. Repeat steps 3-8 for the renter occupied variable. You can now use these variables to create [choropleth maps](https://www.axismaps.com/guide/choropleth)!
+9. Repeat steps 3-8 for the renter occupied variable. 
+
+10. **IMPORTANT!** Make sure to save your newly created columns by toggling the editing mode pencil icon in the attribute table menu.
