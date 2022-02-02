@@ -45,7 +45,7 @@ Before we clip by geography, let's first isolate only census tracts in the state
 
 10. You can accept all defaults, but you need to save the dataset somewhere you will remember by clicking the ellipses (…) button next to file name and naming the file. After you enter a file name, your path should look something like this ...Downloads/Massachusetts-tracts.geojson.
 
-11. Select Okay.
+11. Select `OK`.
 
 12. Your new dataset will be automatically added to the map. You can free up space by removing the original nation-wide tracts dataset. Do this by right-clicking the U.S. Tracts layer and selecting `Remove layer`.
 
