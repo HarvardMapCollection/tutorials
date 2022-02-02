@@ -1,4 +1,4 @@
-# Census Data to ArcGIS Online Starter Pack
+# Preparing census data for ArcGIS Online
 
 This tutorial series will equip you with the skills needed to work with United States census data in ArcGIS Online. 
 
