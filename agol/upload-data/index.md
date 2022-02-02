@@ -2,8 +2,31 @@
 
 We do not recommend finding mapping data in ArcGIS Online. Once you have found data from [reliable sources](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/), use this tutorial to bring your data into a shareable browser map.
 
+## Tutorial data
+Download `cambridge-tenure.geoJSON` [here](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge-tenure.geojson). 
+- **Tip:** Right-click anywhere on the screen and select `Save As`.
+
 1. Log in to your ArcGIS Online account.
     - [Create a public account](https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm#ESRI_SECTION1_D91DD2A709AE4FB68A9CC095F1688E05)
     - [Create an account with your Harvard key](https://gis.harvard.edu/arcgis-online)
 
-2. 
+2. In the main menu, select `Content`.
+
+3. Select `New item`.
+
+4. Upload a file from `Your device`.
+> You can upload .geoJSON files as is. Shapefiles must be compressed into a .zip file first.
+
+5. Choose to `Add and create a hosted feature layer`.
+
+6. Choose which fields to upload. This will make working with the dataset more managable. Deselect all fields except `tenure-2019_SE_A10060_001`, `OwnerPct`, and `RenterPct`.
+
+7. Follow any prompts. Be sure to populate at least `Title` and `Tags`, as they are necessary to publish the map in any future web or story maps.
+
+10. Select `Save` to publish the service. 
+
+11. This dataset can now be used in a web map. To open the dataset in a web map, select `Open in Map Viewer` (you may have to engage the drop down next to `Open in Map Viewer Classic` to find this option for the more modern map viewer, which this guide is written for).
+![Screenshot of dataset added to the ArcGIS Online Map viewer](media/1.png)
+_Dataset after it has been added to the ArcGIS Online Map Viewer_.
+
+12. 
