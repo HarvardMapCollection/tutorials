@@ -30,5 +30,5 @@ This tutorial series will equip you with the skills needed to work with United S
 > Learn how to style the map with graduated symbology.
 
 ## More help
-If any questions come up about using this guide, finding data, or making maps, don't hestitate to be in touch at **maps@harvard.edu**.
+If any questions arise about using this guide, finding data, or making maps, don't hestitate to contact us at **maps@harvard.edu**.
 
