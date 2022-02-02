@@ -113,7 +113,7 @@ First we will create a buffer around the City of Cambridge extent data.
 
 ### Extract all features
 
-Instead of performing a simple clip, let's extract all of the features within, to make sure none of the edge data is cut off. 
+Instead of performing a simple clip, let's extract all of the features within, to make sure nothing along the edges is cut off.
 
 1. In the main QGIS menu (banner across the top of the computer screen), select `Processing → Toolbox`. 
 
