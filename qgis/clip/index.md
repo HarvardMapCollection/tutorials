@@ -15,7 +15,7 @@ Clipping is a way of cropping GIS data to a certain extent.
 In this tutorial you will clip a shapefile of all census tracts in the United States to create a new shapefile of *only* census tracts in Cambridge, Massachusetts. If you have been following the [tutorial series](https://harvardmapcollection.github.io/tutorials/census/census2agol/), you should already have the necessary data, otherwise you can download copies here. You will need:
 - U.S. census tracts, 2019 [Download](https://geodata.socialexplorer.com/collection/90937129-3414-434e-a880-e358308654b4) 
 - City of Cambridge, MA boundary [Download](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson)
-    - **Tip:** Right-click anywhere on the screen and select `Save As`.
+    - Tip: Right-click anywhere on the screen and select `Save As`.
 
 
 ## Clip by attribute
