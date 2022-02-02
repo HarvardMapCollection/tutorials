@@ -93,7 +93,7 @@ Before we clip by geography, let's first extract only census tracts in the state
 ## Troubleshooting clipping
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
-When we closely inspect the data that results from our clipping function, we notice there are strange slivers of polygons around the edges of our dataset. This is because our two original data files were created by different institutions, and therefore the tract boundaries and the city extent don't line up exactly perfectly. Therefore, when we ran the clipping tool, we were left with messy edges. When we go to create a graduated color choropleth map with this census data, these extraneous edge polygons will make our map look less clean. The rest of this tutorial addresses how you might go about troubleshooting an issue like this.
+The resulting data from the clipping function contains strange slivers of polygons around the edges. The source datasets each have a different authoring institution. The way the lines were drawn didn't match each other perfectly. When we run the clipping tool, we are left with errors along the edges. To later create a graduated color ramp map with this data, these extraneous edge polygons will distract from the visual impact of our map. The rest of this tutorial addresses troubleshooting issues like this.
 
 ### Create a buffer
 
@@ -115,7 +115,7 @@ _Adding a distance buffer means the tract features fully fall within the clippin
 
 ### Extract all features
 
-Instead of performing a crude clip, we want to extract all of the features within, to make sure none of the data around the edges is getting cut off. 
+Instead of performing a simple, let's extract all of the features within, to make sure none of the edge data is cut off. 
 
 1. In the main QGIS menu (banner across the top of the computer screen), select `Processing → Toolbox`. 
 
