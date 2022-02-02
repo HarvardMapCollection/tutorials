@@ -29,4 +29,23 @@ Download `cambridge-tenure.geoJSON` [here](https://raw.githubusercontent.com/Har
 ![Screenshot of dataset added to the ArcGIS Online Map viewer](media/1.png)
 _Dataset after it has been added to the ArcGIS Online Map Viewer_.
 
-12. 
+## Save the map
+Now that the data has been added, you can begin configuring the map (see tutorial section **Next steps**). After you are finished configuring your map, **make sure** you save the map. If you do not save your map, any StoryMaps you make using this data layer **will not be shareable**. 
+
+1. Click the `Save and open` button in the left-hand menu.
+
+2. Populate the `Title` and `Tags`. If you do not add tags, you can't share this maps or any future maps made with this map.
+
+## Making sense of data in ArcGIS Online
+
+1. Navigate back to your `Content` pane by clicking the `☰` menu icon in the upper-left hand corner of the page, and selecting `Content`.
+
+2. Make note of the ways ArcGIS classifies the different resources we have created. 
+> We have added the `GeoJSON`, a `Feature Layer`, and a `Web Map`. If you want to edit any of these items in the future, navigate to the `Content` pane. If you were to create a StoryMap based on this map, a fourth resource would be added titled `Web Mapping Application`. 
+
+## Next steps
+
+- To follow along the [census mapping tutorial](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to learn how to symbolize the map in a graduate color ramp, proceed to [How to style the map in ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth).
+- To learn your way around the ArcGIS Online Map Viewer, visit the [official documentation](https://doc.arcgis.com/en/arcgis-online/get-started/get-started-with-mv.htm).
+
+
