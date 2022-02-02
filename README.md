@@ -31,8 +31,10 @@
 
 
 
-## StoryMaps
-- [How to log in via Harvard Center for Geographic Analysis and configure a StoryMap](https://canvas.harvard.edu/courses/77693/pages/storymaps)
+## ArcGIS Online
+- [How to configure a StoryMap](https://canvas.harvard.edu/courses/77693/pages/storymaps)
+- [How to upload data](https://harvardmapcollection.github.io/tutorials/agol/upload-data)
+- [How to style a choropleth map](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth)
 
 
 
