@@ -8,11 +8,10 @@
 - [How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
 
 ## Census data
-- [Census data to ArcGIS Online starter pack](https://harvardmapcollection.github.io/tutorials/census/census2agol/)
-- [How to explore data with Social Explorer](https://harvardmapcollection.github.io/tutorials/census/browse-social-explorer/)
+- [Getting started with mapping census data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
+- [Basics of Social Explorer](https://harvardmapcollection.github.io/tutorials/census/browse-social-explorer/)
+- [Preparing census data for ArcGIS Online](https://harvardmapcollection.github.io/tutorials/census/census2agol/)
 - [How to obtain census data for GIS mapping](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
-- [How to download U.S. census boundary files](https://harvardmapcollection.github.io/tutorials/census/how-to-download-census-boundary-files/)
-- [How to decide if I need geospatial data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
 
 
 ## QGIS
@@ -28,7 +27,6 @@
 - [How to clip GIS data](https://harvardmapcollection.github.io/tutorials/qgis/clip)
 - [How to adjust opacity](https://harvardmapcollection.github.io/tutorials/qgis/adjust-opacity)
 - [How to normalize data](https://harvardmapcollection.github.io/tutorials/qgis/normalize)
-
 
 
 ## ArcGIS Online
