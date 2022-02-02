@@ -83,7 +83,7 @@ Before we clip by geography, let's first isolate only census tracts in the state
 ## Optional: Troubleshooting clipping
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
-There are minor problems with the clip output due to discrepancies between the two original source datasets. Messy lines around the edges of the output will result in a distracting final map. The rest of the tutorial covers how you might troubleshoot this issue.
+There are minor problems with the clip output due to discrepancies between the two original source datasets. Messy lines around the edges of the output could result in a distracting final map. The rest of the tutorial covers how you might troubleshoot this issue.
 
 ### Create a buffer
 
