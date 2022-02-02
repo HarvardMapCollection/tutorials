@@ -12,24 +12,15 @@ Clipping is a way of cropping GIS data to a certain extent.
 
 ## Tutorial data
 
-In this tutorial you will clip a shapefile of all census tracts in the United States to create a new shapefile of *only* census tracts in Cambridge, Massachusetts. 
-
-#### United States Census tracts
-This is the large dataset that needs to be *clipped*. 
-- [Learn how to get](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
-- [Download](https://geodata.socialexplorer.com/collection/90937129-3414-434e-a880-e358308654b4) 
-    - **Tip:** Select the 2019 option.
-
-#### Boundary of Cambridge, MA
-This is the the desired extent dataset used to *clip with*.
-- [Learn how to get](https://harvardmapcollection.github.io/tutorials/qgis/export-selected/)
-- [Download](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson)
+In this tutorial you will clip a shapefile of all census tracts in the United States to create a new shapefile of *only* census tracts in Cambridge, Massachusetts. If you have been following the [tutorial series](https://harvardmapcollection.github.io/tutorials/census/census2agol/), you should already have the necessary data, otherwise you can download copies here. You will need:
+- U.S. census tracts, 2019 [Download](https://geodata.socialexplorer.com/collection/90937129-3414-434e-a880-e358308654b4) 
+- City of Cambridge, MA boundary [Download](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson)
     - **Tip:** Right-click anywhere on the screen and select `Save As`.
 
 
 ## Clip by attribute
 
-Before we clip by geography, let's first extract only census tracts in the state of Massachsuetts. This will make our data much easier to work with, and will make the clipping processes run faster.
+Before we clip by geography, let's first isolate only census tracts in the state of Massachsuetts. This will make our data much easier to work with, and will make the clipping processes run faster.
 
 1. Open [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/). 
 
