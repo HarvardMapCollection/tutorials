@@ -35,7 +35,7 @@
 - [How to upload local datasets](https://harvardmapcollection.github.io/tutorials/agol/upload-data)
 - [How to style a choropleth map](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth)
 - [How to configure public sharing](https://harvardmapcollection.github.io/tutorials/agol/share)
-- [How to add layers to a StoryMap](https://harvardmapcollection.github.io/tutorials/agol/storymaps)
+- [How to configure a StoryMap](https://canvas.harvard.edu/courses/77693/pages/storymaps)
 
 
 

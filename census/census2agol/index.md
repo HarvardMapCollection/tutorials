@@ -23,9 +23,9 @@ This tutorial series will equip you with the skills needed to work with United S
 > Ensure your data is formatted in a way that can support the creation of meaningful data visualizations.
 
 7. [How to upload data to ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/upload-data)
+> Now that you have reliable, usable map data, you can upload it to ArcGIS Online.
 
 
 8. [How to style the map in ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth)
+> Census data is often represented with graduated symbology, such as a choropleth or proportional symbol map.
 
-
-9. [How to add the map to a StoryMap](https://harvardmapcollection.github.io/tutorials/agol/storymaps)
