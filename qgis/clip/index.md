@@ -109,8 +109,6 @@ First we will create a buffer around the City of Cambridge extent data.
 6. Change the distance to 100 feet.
 
 7. Run the process (you don't have to save the output file, we are only going to use the output temporarily).
-![Screenshot of transparent buffer layer showing tracts underneath in QGIS](media/9.png)
-_Adding a distance buffer means the tract features fully fall within the clipping extent._
 
 
 ### Extract all features
