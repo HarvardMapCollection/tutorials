@@ -27,4 +27,5 @@ This tutorial series will equip you with the skills needed to work with United S
 
 8. [How to style the map in ArcGIS Online](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth)
 
-9. [How to configure an ArcGIS Online map for sharing](https://harvardmapcollection.github.io/tutorials/agol/share)
+9. [How to configure the map for sharing](https://harvardmapcollection.github.io/tutorials/agol/share)
+
