@@ -29,6 +29,11 @@ This tutorial series will equip you with the skills needed to work with United S
 8. [How to style the browser map](https://harvardmapcollection.github.io/tutorials/agol/style-choropleth)
 > Learn how to style the map with graduated symbology.
 
+## Additional resources
+- [Create maps and apps in ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/create-maps/create-maps-and-apps.htm)
+- [Make static maps in QGIS](https://docs.qgis.org/3.4/en/docs/training_manual/map_composer/map_composer.html)
+- [Beautiful cartography tutorials for beginners](https://pointsunknown.nyc/tutorial_list/)
+
 ## More help
 If any questions arise about using these guides, finding data, or making maps, don't hestitate to contact us at **maps@harvard.edu**.
 
