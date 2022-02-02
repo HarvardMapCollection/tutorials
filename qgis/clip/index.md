@@ -27,8 +27,8 @@ Before we clip by geography, let's first isolate only census tracts in the state
 2. Add the tracts file to QGIS. To learn how to add vector files to a desktop GIS program, follow [these steps](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/). 
 
 3. Open the dataset's attribute table by right-clicking the tracts layer in the layer list, and selecting `Open Attribute Table`.
-
 > Filter the table to only show records that have a [state FIPS code](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696) of 25, the Massachusetts state FIPS code. 
+
 4. In the bottom-right hand corner click `Show All Features`. 
 
 5. Select `Field Filter → STATEFP`.
