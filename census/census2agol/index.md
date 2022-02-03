@@ -14,7 +14,7 @@ This tutorial series will equip you with the skills needed to work with United S
 > To control the size and look of mapping files, it's helpful to know how to clip them to focused areas of interest.
 
 4. [How to join the data](https://harvardmapcollection.github.io/tutorials/qgis/join)
-> To create usable mapping files, you will need to join mapping shape data to statistical files.
+> To create usable mapping files, you will need to know how to join mapping shape data to statistical files.
 
 5. [How to normalize the data](https://harvardmapcollection.github.io/tutorials/qgis/normalize)
 > Ensure your data is formatted in a way that can support the creation of meaningful data visualizations.
