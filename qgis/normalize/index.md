@@ -6,8 +6,8 @@
 This tutorial will cover how to turn counts into percents in QGIS.
 
 ## Normalization sample data
-Download the sample data, [tenure by census tract in Cambridge, MA](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge-tenure-counts.geojson). 
-- **Tip:** Right-click anywhere on the page and select `Save As`.
+Download the sample data, [tenure by census tract in Cambridge, MA](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/cambridge-tenure-counts.geojson). 
+
 
 ## Normalization steps
 

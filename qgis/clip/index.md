@@ -14,8 +14,7 @@ Clipping is a way of cropping GIS data to a certain extent.
 
 In this tutorial you will clip a shapefile of all census tracts in the United States to create a new shapefile of *only* census tracts in Cambridge, Massachusetts. If you have been following the [tutorial series](https://harvardmapcollection.github.io/tutorials/census/census2agol/), you should already have the necessary data, otherwise you can download copies here. You will need:
 - U.S. census tracts, 2019 [Download](https://geodata.socialexplorer.com/collection/90937129-3414-434e-a880-e358308654b4) 
-- City of Cambridge, MA boundary [Download](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson)
-    - Tip: Right-click anywhere on the screen and select `Save As`.
+- City of Cambridge, MA boundary [Download](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/cambridge.geojson)
 
 
 ## Clip by attribute
@@ -53,8 +52,8 @@ Before we clip by geography, let's first isolate only census tracts in the state
 ## Clip by geography
 
 1. Set up your QGIS project so that the layer list contains:
-- Census tracts in the state of Massachusetts [Download](https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/ma-tracts-2019.geojson)
-- The boundary of the municipality of Cambridge [Download](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge.geojson)
+- Census tracts in the state of Massachusetts [Download](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/ma-tracts-2019.geojson)
+- The boundary of the municipality of Cambridge [Download](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/cambridge.geojson)
 
 2. Check to make sure your project looks something like this:
 ![QGIS document showing map of census tracts. On top of the census tracts is a polygon for the boundary of Cambridge, MA. These are the only two layers in the layer list.](media/3.png)

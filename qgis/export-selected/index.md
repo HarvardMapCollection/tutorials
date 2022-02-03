@@ -5,8 +5,7 @@ One helpful technique in GIS software is the ability to quickly create filtered 
 In this tutorial, we will start with a dataset of all 351 towns in Massachusetts, and create a new dataset that only shows the boundary of Cambridge, MA. 
 
 
-1. Download the example dataset by visiting [this page](https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/ma-towns.geojson) and clicking the `Download` button.
-![Screenshot of download button on Github](media/1.png)
+1. Download the [example dataset](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/ma-towns.geojson).
 
 2. Add the downloaded .geojson to a new QGIS project by following the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/).
 

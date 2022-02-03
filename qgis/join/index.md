@@ -39,7 +39,7 @@ _Map of weekly Massachusetts COVID data spreadsheet from January 26, 2022, after
 
 ## How do joins work?
 
-In this tutorial, we will walk step-by-step through performing a join in QGIS. This tutorial is part of a series called the [census data to ArcGIS Online starter pack](https://harvardmapcollection.github.io/tutorials/census/census2agol/), but you can also use this guide separately to learn about joins.
+In this tutorial, we will walk step-by-step through performing a join in QGIS. This tutorial is part of a series called the [Preparing census data for ArcGIS Online](https://harvardmapcollection.github.io/tutorials/census/census2agol/), but you can also use this guide separately to learn about joins.
 
 Before we dive in to step-by-step instructions, however, let's go over the basic concept of **how joins work**.
 
@@ -50,12 +50,11 @@ For instance, when we joined the COVID spreadsheet to the Massachusetts municipa
 ## Join sample data
 
 >If you don't already have the tutorial data, you can either:
-1. Follow the [census data to ArcGIS Online starter pack series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to obtain them.
+1. Follow the [Preparing census data for ArcGIS Online series](https://harvardmapcollection.github.io/tutorials/census/census2agol/) to obtain them.
 2. Download them here
 > 
-**Tip:** Right-click anywhere on the screen and select `Save As`:
-- [Census tracts in Cambridge, MA](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/cambridge-tracts.geojson).
-- [Tenure statistics .CSV](https://raw.githubusercontent.com/HarvardMapCollection/tutorials/main/sample-data/tenure-2019.csv)
+- [Census tracts in Cambridge, MA](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/cambridge-tracts.geojson).
+- [Tenure statistics .CSV](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/tenure-2019.csv)
 Refer to the tenure[codebook](https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/tenure-2019-codebook.txt) to make sense of the statistical files' structure.
 
 ## Join steps
