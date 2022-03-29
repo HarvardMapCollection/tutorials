@@ -138,7 +138,7 @@ You are now ready to move on to the next skill, [How to join data in QGIS](https
 17. Select `Submit`.
 > You will need to create a free login in order to checkout. You can create one in a new tab if you don't want to lose your data selection.
 
-You are now ready to move on to the next skill, [How to join data in QGIS](https://harvardmapcollection.github.io/tutorials/qgis/join).
+You are now ready to move on to the next skill, [How to focus the data](https://harvardmapcollection.github.io/tutorials/qgis/clip).
 
 ### Tips
 
