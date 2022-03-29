@@ -35,11 +35,6 @@ The steps in this tutorial series will work for any U.S. census data, such as ag
 ![Screenshot of final map, showing renter occupied units in Somerville and Cambridge](media/1.png)
 _Example of the tenure data we will work with, uploaded to ArcGIS Online._
 
-## Do I need data?
-Sometimes, you don't need to download census data in order to make use of it for your research. Many tools, like [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex), allow you to visualize the data directly in the browser, and even export rendered maps.
-
-To help decide if you need to budget time for learning how to download and manipulate geospatial data, check out our [How to decide if I need geospatial data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/) guide.
-
 ## Obtaining via Social Explorer
 
 1. Visit your institution's Social Explorer. Here is the [link for Harvard's Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex).
@@ -49,11 +44,11 @@ To help decide if you need to budget time for learning how to download and manip
 3. On the Social Explorer landing page, select `Tables` from the left-hand menu.
 ![Screenshot of Tables button on Social Explorer](media/17.png)
 
-4. Since the housing variable is not collected in the full count every ten years, we need to refer the the more detailed surveys collected of _sample_ populations on a rolling basis, called the **American Community Survey (ACS)**. Select `American Community Surveys (5-Year Estimates)`.
+4. Since the housing variable is not collected in the full count every ten years, we need to refer the more detailed surveys collected of _sample_ populations on a rolling basis, called the **American Community Survey (ACS)**. Select `American Community Surveys (5-Year Estimates)`.
 
 5. Click `Begin Report` next to the 2015-2019 estimates.
 
-6. Under **Select a Geographic Type** choose `Census Tract` from the dropdown menu.
+6. Under **Select a Geographic Type** choose `140...Census Tract` from the dropdown menu.
 
 7. Under **Select a State** choose `Massachusetts` from the dropdown menu.
 
