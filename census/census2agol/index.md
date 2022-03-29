@@ -8,7 +8,7 @@ This tutorial series will equip you with the skills needed to work with United S
 > While ArcGIS Online [AGOL] can handle many tasks, you will first need a desktop software like QGIS to perform some of the data edits required to work with census data in AGOL.
 
 2. [How to get the data](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
-> To get usable files for mapping, you must download a table with statistics _and_ a GIS boundary file. These files can be obtained from a few different sources.
+> To get usable files for mapping, you must download two files: (1) a table with statistics and (2) a GIS boundary file. These files can be obtained from a few different sources.
 
 3. [How to focus the data](https://harvardmapcollection.github.io/tutorials/qgis/clip)
 > To control the size and look of mapping files, it's helpful to know how to clip them to focused areas of interest.
