@@ -21,6 +21,8 @@ Because we are clipping census tracts data to the extent of Cambridge, Massachus
 
 Before we clip by geography, let's first isolate only census tracts in the state of Massachsuetts. This will make our data much easier to work with, and will make the clipping processes run faster.
 
+### Open the files
+
 1. Open [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/). 
 
 2. Add the census tracts file titled `TRACT_2019_US_SL140_Coast_Clipped.shp` to QGIS. 
@@ -72,28 +74,30 @@ Before we clip by geography, let's first isolate only census tracts in the state
 </details>
 <br>
 
-3. Open the dataset's attribute table by right-clicking the tracts layer in the layer list, and selecting `Open Attribute Table`.
+### Filter by attribute
+
+1. Open the dataset's attribute table by right-clicking the tracts layer in the layer list, and selecting `Open Attribute Table`.
 > Filter the table to only show records that have a [state FIPS code](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696) of 25, the Massachusetts state FIPS code. 
 
-4. In the bottom-right hand corner click `Show All Features`. 
+2. In the bottom-right hand corner click `Show All Features`. 
 
-5. Select `Field Filter → STATEFP`.
+3. Select `Field Filter → STATEFP`.
 
-6. In the search box to the right of `STATEFP` type in `25`. 
+4. In the search box to the right of `STATEFP` type in `25`. 
 
-7. Press the `enter key`. It will take a long time to return results because there are so many records to search through. 
+5. Press the `enter key`. It will take a long time to return results because there are so many records to search through. 
 
-8. Highlight all of the records in the table by clicking to the left of a row to highlight it, then holding the shift key, and selecting the rest. 
+6. Highlight all of the records in the table by clicking to the left of a row to highlight it, then holding the shift key, and selecting the rest. 
 > Any feature you have selected will appear yellow on the map to indicate it is highlighted. All of Massachusetts should be highlighted. 
 ![Select all function in QGIS attribute table](media/1.gif)
 
-9. To save just the Massachusetts tracts as a new file, right click on the tracts layer in the layer list and select `Export → Save Selected Features As`.
+7. To save just the Massachusetts tracts as a new file, right click on the tracts layer in the layer list and select `Export → Save Selected Features As`.
 
-10. You can accept all defaults, but you need to save the dataset somewhere you will remember by clicking the ellipses (…) button next to file name and naming the file. After you enter a file name, your path should look something like this ...Downloads/Massachusetts-tracts.geojson.
+8. You can accept all defaults, but you need to save the dataset somewhere you will remember by clicking the ellipses (…) button next to file name and naming the file. After you enter a file name, your path should look something like this ...Downloads/Massachusetts-tracts.geojson.
 
-11. Select `OK`.
+9. Select `OK`.
 
-12. Your new dataset will be automatically added to the map. You can free up space by removing the original nation-wide tracts dataset. Do this by right-clicking the U.S. Tracts layer and selecting `Remove layer`.
+10. Your new dataset will be automatically added to the map. You can free up space by removing the original nation-wide tracts dataset. Do this by right-clicking the U.S. Tracts layer and selecting `Remove layer`.
 
 
 ## Clip by geography
