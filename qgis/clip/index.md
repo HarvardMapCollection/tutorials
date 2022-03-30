@@ -71,6 +71,7 @@ Before we clip by geography, let's first isolate only census tracts in the state
   
   </p>
 </details>
+<br>
 
 
 To learn how to add vector files to a desktop GIS program, follow [these steps](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/). 
