@@ -139,7 +139,7 @@ In this example we will explain why a simple clip may fall short for your purpos
 
 ![Screenshot of building data intersecting with city boundary](media/ts-clip1.png)
 
-The image above pictures two datasets: (1) all of the buildings in Cambridge, MA, and (2) the border or outline of the city of Cambridge. 
+The image above pictures two datasets: (1) buildings and (2) the border or outline of the city of Cambridge. 
 
 ![Screenshot of buildings getting cut off halfway with a simple clip](media/ts-clip2.png)
 
