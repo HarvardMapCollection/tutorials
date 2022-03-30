@@ -93,7 +93,7 @@ Before we clip by geography, let's first isolate only census tracts in the state
 
 7. To save just the Massachusetts tracts as a new file, right click on the tracts layer in the layer list and select `Export → Save Selected Features As`.
 
-8. You can accept all defaults, but you need to save the dataset somewhere you will remember by clicking the ellipses (…) button next to file name and naming the file. After you enter a file name, your path should look something like this ...Downloads/Massachusetts-tracts.geojson.
+8. You can accept all defaults, but you need to save the dataset somewhere you will remember by clicking the ellipses (…) button next to file name and naming the file. After you enter a file name, your path should look something like this ...Downloads/ma-tracts-2019.geojson.
 > QGIS may default to other vector file formats, such as geopackage (.gpkg) or shapefile (.shp). Any of these formats will work for storing vector data.
 
 9. Select `OK`.
@@ -131,7 +131,20 @@ Before we clip by geography, let's first isolate only census tracts in the state
 ![Screenshot of new, clipped layer in QGIS only showing census tracts in Cambridge](media/4.png)
 >**Tip:** Any geoprocessing functions can fail if data layers are set in different coordinate reference systems. If you suspect this might be a problem, you can follow the steps in [this tutorial](https://harvardmapcollection.github.io/tutorials/qgis/change-crs/). 
 
-## Optional: Troubleshooting clipping
+## Troubleshooting clipping
+
+To clip by geography, like we just did, is definitely the most straightforward way to clip one dataset by a geographic extent. This method can be a bit crude sometimes, however, and you may need to take other approaches for a more refined result.
+
+In this example we will explain why a simple clip may fall short for your purposes. 
+
+![Screenshot of building data intersecting with city boundary](media/ts-clip1.png)
+
+The image above pictures two datasets: (1) all of the buildings in Cambridge, MA, and (2) the border or outline of the city of Cambridge. 
+
+![Screenshot of buildings getting cut off halfway with a simple clip](media/ts-clip1.png)
+
+![Screenshot of extract by location, which preserves the full version](media/ts-clip1.png)
+
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
 There are minor problems with the clip output due to discrepancies between the two original source datasets. Messy lines around the edges of the output could result in a distracting final map. The rest of the tutorial covers how you might troubleshoot this issue.
