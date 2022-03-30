@@ -133,7 +133,7 @@ Before we clip by geography, let's first isolate only census tracts in the state
 
 ## Troubleshooting clipping
 
-Clipping by geography is the most straightforward way to clip one dataset to a specific extent. This method can be a bit crude sometimes, however, and you may need to take other approaches for a more refined result.
+Clipping by geography is the most straightforward way to clip one dataset to a specific extent. This method, however, can be a bit crude sometimes, and you may need to take other approaches for a more refined result.
 
 In this example we will explain why a simple clip may fall short for your purposes. 
 
