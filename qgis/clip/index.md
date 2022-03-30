@@ -120,7 +120,7 @@ Before we clip by geography, let's first isolate only census tracts in the state
 - **Input:** Data you want to clip
 - **Output:** Clipping boundary (new extent you want to clip *by*)
 
-6. Under `Clipped` select the ellipes three dots icon, pick `Save to file`, and save the new clipped layer somewhere you will remember. You can title the file `Cambridge-tracts`, and save it as either a `shapefile` or `geoJSON`. 
+6. Under `Clipped` select the ellipse three dots icon, pick `Save to file`, and save the new clipped layer somewhere you will remember. You can title the file `Cambridge-tracts`, and save it as either a `shapefile` or `geoJSON`. 
 >**Tip:** We prefer [GeoJSON](https://geojson.org/) because it is an open standard, and is only one file instead of six. 
 
 7. Select `Save`.
