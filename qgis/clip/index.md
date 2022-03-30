@@ -152,7 +152,7 @@ Here, we have used the toolbox function `Extract by location`. This function let
 
 ![Screenshot of extraction options](media/ts-clip4.png)
 
-The image above pictures the extraction options. For instance, you can extract all data that falls within, intersects, contains, overlaps, and so on. 
+The image above pictures the extraction options. For instance, you can extract all data that falls within, intersects, contains, or overlaps the other dataset. 
 
 ### Extract by location 
 
