@@ -104,8 +104,8 @@ Before we clip by geography, let's first isolate only census tracts in the state
 ## Clip by geography
 
 1. Set up your QGIS project so that the layer list contains:
-- Census tracts in the state of Massachusetts [Download](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/ma-tracts-2019.geojson)
-- The boundary of the municipality of Cambridge [Download](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/cambridge.geojson)
+- Census tracts in the state of Massachusetts. This is the file we just made above. You can also [download it here](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/ma-tracts-2019.geojson) 
+- The boundary of the municipality of Cambridge. We haven't done anything with this data yet, and if you haven't yet downloaded it, you can [do so here](https://downgit.github.io/#/home?url=https://github.com/HarvardMapCollection/tutorials/blob/main/sample-data/cambridge.geojson)
 
 2. Check to make sure your project looks something like this:
 ![QGIS document showing map of census tracts. On top of the census tracts is a polygon for the boundary of Cambridge, MA. These are the only two layers in the layer list.](media/3.png)
