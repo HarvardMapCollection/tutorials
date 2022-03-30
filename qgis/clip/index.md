@@ -141,9 +141,19 @@ In this example we will explain why a simple clip may fall short for your purpos
 
 The image above pictures two datasets: (1) all of the buildings in Cambridge, MA, and (2) the border or outline of the city of Cambridge. 
 
-![Screenshot of buildings getting cut off halfway with a simple clip](media/ts-clip1.png)
+![Screenshot of buildings getting cut off halfway with a simple clip](media/ts-clip2.png)
 
-![Screenshot of extract by location, which preserves the full version](media/ts-clip1.png)
+When we run a simple clipping function, that process crudely crops one dataset by the other. Here we can see how there are some buildings which straddle the border of Cambridge and the next town over, Somerville. The features for those buildings are being cut off halfway. Sometimes a simple clip will work, but sometimes you may need to use other, more nuanced toolbox functions.
+
+
+![Screenshot of extract by location, which preserves the full version](media/ts-clip3.png)
+
+Here, we have used the toolbox function `Extract by location`. This function lets you specify *how* you want the data to be clipped. For instance, you can choose to extract all building features that fall *within* the boundary of Cambridge, as is pictured in the image above. 
+
+![Screenshot of extraction options](media/ts-clip4.png)
+
+The image above pictures the extraction options. For instance, you can extract all data that falls within, intersects, contains, overlaps, and so on. 
+
 
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
