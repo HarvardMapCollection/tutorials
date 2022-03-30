@@ -24,10 +24,10 @@ Before we clip by geography, let's first isolate only census tracts in the state
 1. Open [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/). 
 
 2. Add the census tracts file titled `TRACT_2019_US_SL140_Coast_Clipped.shp` to QGIS. 
-
 <details>
   <summary>How to add vector files to QGIS</summary>
-  <p>A predominant spatial data format is the **shapefile**. This is a format created for storing vector data.</p>
+  <br>
+  <p>A predominant spatial data format is the <strong>shapefile</strong>. This is a format created for storing vector data.</p>
   <p>Vector data consists of:
   <ul>
     <li>points (e.g. landmarks)</li>
@@ -38,7 +38,7 @@ Before we clip by geography, let's first isolate only census tracts in the state
   </p>
 <img src="media/open-vector1.jpeg" alt="Image showing an example of points, lines and polygons">
 
-<p>Since the advent of geospatial technology, **shapefiles** have been the most common format for storing vector information. Today, other file formats exist for storing vector information, such as the **geopackage (.gpkg)**, or **geoJSON (.geoJSON)**, but shapefiles are still widely used, and many of the datasets you will encounter will come in this format.</p>
+<p>Since the advent of geospatial technology, <strong>shapefiles</strong> have been the most common format for storing vector information. Today, other file formats exist for storing vector information, such as the <strong>geopackage (.gpkg)</strong>, or <strong>geoJSON (.geoJSON)</strong>, but shapefiles are still widely used, and many of the datasets you will encounter will come in this format.</p>
 
 <h2>Adding vector data to QGIS</h2>
 
@@ -68,13 +68,9 @@ Before we clip by geography, let's first isolate only census tracts in the state
 
 
 </ol>
-  
-  </p>
+
 </details>
 <br>
-
-
-To learn how to add vector files to a desktop GIS program, follow [these steps](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/). 
 
 3. Open the dataset's attribute table by right-clicking the tracts layer in the layer list, and selecting `Open Attribute Table`.
 > Filter the table to only show records that have a [state FIPS code](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696) of 25, the Massachusetts state FIPS code. 
