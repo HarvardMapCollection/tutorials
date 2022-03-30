@@ -133,7 +133,7 @@ Before we clip by geography, let's first isolate only census tracts in the state
 
 ## Troubleshooting clipping
 
-To clip by geography, like we just did, is definitely the most straightforward way to clip one dataset by a geographic extent. This method can be a bit crude sometimes, however, and you may need to take other approaches for a more refined result.
+Clipping by geography is the most straightforward way to clip one dataset to a specific extent. This method can be a bit crude sometimes, however, and you may need to take other approaches for a more refined result.
 
 In this example we will explain why a simple clip may fall short for your purposes. 
 
@@ -153,6 +153,14 @@ Here, we have used the toolbox function `Extract by location`. This function let
 ![Screenshot of extraction options](media/ts-clip4.png)
 
 The image above pictures the extraction options. For instance, you can extract all data that falls within, intersects, contains, overlaps, and so on. 
+
+### Extract by location 
+
+To use the **extract by location** tool, navigate to `Processing → Toolbox → Vector Selection →  Extract by Location`. 
+
+Under `Extract features from` select the dataset you want to clip.
+
+Under `By comparing features from` 
 
 
 
