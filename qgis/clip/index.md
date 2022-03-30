@@ -160,7 +160,7 @@ To use the **extract by location** tool, navigate to `Processing → Toolbox →
 
 Under `Extract features from` select the dataset you want to clip.
 
-Under `By comparing features from` 
+Under `By comparing features from` select the dataset you want to clip _by_ (the desired extent).
 
 
 
