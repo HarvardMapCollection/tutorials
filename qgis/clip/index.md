@@ -163,9 +163,31 @@ Under `Extract features from` select the dataset you want to clip.
 Under `By comparing features from` select the dataset you want to clip _by_ (the desired extent).
 
 
+### Troubleshooting the example tutorial data
+
+There are a number of issues with these datasets that require additional steps than those outlined in the simple clipping methodology described above. It is typical of most GIS projects that unanticipated problems will arise with your datasets. The problems in this example will likely not be identical to those you will encounter in the wild, but it is useful thinking through how you might problem solve GIS data issues.
+
+With regards to the example data, our problem is that while the tracts conceptually do line up with the city boundary of Cambridge, the data files come from two different sources, and the lines representing each are slightly off. This results in messy edges in our final clipped dataset. 
 
 ![Screenshot of messy outer borders of dataset in QGIS](media/8.png)
-There are minor problems with the clip output due to discrepancies between the two original source datasets. Messy lines around the edges of the output could result in a distracting final map. The rest of the tutorial covers how you might troubleshoot this issue.
+
+Messy lines around the edges of the output will result in a distracting final map. 
+
+To solve this problem we will have to run an `extract by location` to pull out all tracts that fall within the city boundary. The problem is that due to the way the borders overlap, is very hard to perform an extraction that gives us clean census tracts for Cambridge. For that reason, before we extract, we will create a buffer around the city of Cambridge boundary, to artificially inflate the boundary. That way, all the tracts will truly fall neatly within the boundary, making our extract function successful. 
+
+#### Problem
+
+![GIF of messy outer borders of dataset in QGIS](media/messy.gif)
+
+The two data sources have incongruent boundaries which result in an unclean looking clip.
+
+#### Solution steps
+
+1. Change coordinate system of data sources from degrees to 
+
+
+
+
 
 ### Create a buffer
 

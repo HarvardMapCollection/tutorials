@@ -3,9 +3,15 @@
 ## Getting started
 - [5 underrated techniques for map making](https://harvardmapcollection.github.io/tutorials/getting-started/5-techniques)
 
+
 ## Finding data
 - [How to search for local boundary files](https://harvardmapcollection.github.io/tutorials/data/local-boundaries)
 - [How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
+
+## Georeferencing
+- [How to georeference images in the HMC digital collections](https://harvardmapcollection.github.io/tutorials/allmaps/georeference)
+- [How to turn an image file into a .geoTIFF](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
+
 
 ## Census data
 - [Getting started with mapping census data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
