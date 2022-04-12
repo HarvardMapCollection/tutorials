@@ -49,7 +49,6 @@
 
 17. Zoom in to your area of interest using the zoom controls in the banner menu across the top of the program. As you zoom in, your georeferenced map should appear. 
 > Tip: it may take a second for the quality of the tiles to resolve.
-![Screenshot of Zoom controls in QGIS](media/9.png)
 ![GIF of zooming in on the map](media/zoom.gif)
 
 18. To adjust opacity of your map, right-click the map layer in the `Layer list` and select `Properties`.
