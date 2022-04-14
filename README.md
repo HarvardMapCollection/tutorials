@@ -10,7 +10,6 @@
 
 ## Georeferencing
 - [How to georeference images in the HMC digital collections](https://harvardmapcollection.github.io/tutorials/allmaps/georeference)
-- [How to turn an image file into a .geoTIFF](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
 
 
 ## Census data
