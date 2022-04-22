@@ -1,4 +1,4 @@
-# Preparing census data for ArcGIS Online
+# Preparing census data for digital mapping
 
 This tutorial series will equip you with the skills needed to work with United States census data in ArcGIS Online. 
 
