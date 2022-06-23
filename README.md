@@ -1,6 +1,6 @@
 # Tutorials 
 
-## Data 
+## Geospatial Data 
 
 ### Boundaries
 - [How to search for local boundary files](https://harvardmapcollection.github.io/tutorials/data/local-boundaries)
