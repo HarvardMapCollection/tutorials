@@ -34,20 +34,22 @@
 [QGIS 06 - Exporting only selected features](https://harvardmapcollection.github.io/tutorials/qgis/export-selected) This step-by-step tutorial will provide an example for filtering a dataset down based on some criteria, and exporting the results as a new GIS dataset.
 
 
-[QGIS 07 - Changing a dataset's coordinate reference system (CRS)](https://harvardmapcollection.github.io/tutorials/qgis/change-crs) This step-by-step tutorial and reference guide will cover the basics of coordinate reference systems(CRS), point out why they are important to know about when working on any mapping project in GIS software, and provide step-by-step instructions for changing the CRS when necessary.
+[QGIS 07 - Changing a dataset's coordinate reference system (CRS)](https://harvardmapcollection.github.io/tutorials/qgis/change-crs) This step-by-step tutorial and reference guide will cover the basics of coordinate reference systems (CRS), highlight their importance, and provide step-by-step instructions for changing a CRS when necessary.
 
 
 
-[QGIS 08 - Zooming to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer) This short two-step tutorial will cover a useful tool in QGIS, zooming to a layer. This tool is helpful to locate any given dataset within the larger context of a mapping project.
+[QGIS 08 - Zooming to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer) This short two-step tutorial covers a useful tool in QGIS, zooming to a layer. This tool is helpful to locate any given dataset within the larger context of a mapping project.
 
 
-[QGIS 09 - Clipping a dataset](https://harvardmapcollection.github.io/tutorials/qgis/clip) This step-by-step tutorial and reference guide will cover clipping -- why you might want to do it, steps to clip a dataset's geographical extent by another desired extent, and tips for troubleshooting data clipping.
+[QGIS 09 - Clipping a dataset](https://harvardmapcollection.github.io/tutorials/qgis/clip) This step-by-step tutorial and reference guide covers clipping -- why you might want to do it, steps to clip a dataset's geographical extent by another desired extent, and tips for troubleshooting data clipping.
 
 
 
+[QGIS 10 - Adjusting a layer's opacity ](https://harvardmapcollection.github.io/tutorials/qgis/adjust-opacity) This step-by-step tutorial points out where to find the controls to adjust a layer's opacity in QGIS.  
 
-[How to adjust opacity](https://harvardmapcollection.github.io/tutorials/qgis/adjust-opacity)
-[How to normalize data](https://harvardmapcollection.github.io/tutorials/qgis/normalize)
+
+
+[QGIS 11 - Normalizing a dataset](https://harvardmapcollection.github.io/tutorials/qgis/normalize) This step-by-step tutorial covers the concept of data normalization, and provides instructions for turning raw counts into percentages in QGIS. 
 
 
 ## ArcGIS Online
