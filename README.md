@@ -22,12 +22,17 @@
 
 [QGIS 02 - Adding a basemap](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/) This step-by-step tutorial describes how to add a basemap to a QGIS project as a reference layer while working on a mapping project.
 
-[QGIS 03 - Adding a vector dataset](https://harvardmapcollection.github.io/tutorials/qgis/open-vector) This step-by-step tutorial will discuss vector data (points, lines, and polygons), how they are relevant to GIS, and how to add these types of datasets to a QGIS mapping project. 
+[QGIS 03 - Adding a vector dataset](https://harvardmapcollection.github.io/tutorials/qgis/open-vector) This step-by-step tutorial will discuss vector data formats (points, lines, and polygons), how they are relevant to GIS, and how to add these types of datasets to a QGIS mapping project. 
 
 
-[How to add a spreadsheet](https://harvardmapcollection.github.io/tutorials/qgis/add-csv)
-[How to georeference](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
-[How to join data tables](https://harvardmapcollection.github.io/tutorials/qgis/join)
+[QGIS 04 - How to add a spreadsheet](https://harvardmapcollection.github.io/tutorials/qgis/add-csv) This step-by-step tutorial will explain how to add a spreadsheet or table of data (.xlsx or .csv) to a QGIS project so that the contents of the file can become map data.
+
+
+[QGIS 05 - How to join data tables](https://harvardmapcollection.github.io/tutorials/qgis/join) This step-by-step tutorial and reference guide will cover the reasons why table joins are performed in GIS projects, and provide instructions for performing them using QGIS. 
+
+
+
+
 [How to export selected features](https://harvardmapcollection.github.io/tutorials/qgis/export-selected)
 [How to change a dataset's CRS](https://harvardmapcollection.github.io/tutorials/qgis/change-crs)
 [How to zoom to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer)
