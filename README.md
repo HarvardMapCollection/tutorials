@@ -2,9 +2,6 @@
 
 ## Geospatial Data 
 
-### Boundaries
-- [How to search for local boundary files](https://harvardmapcollection.github.io/tutorials/data/local-boundaries)
-
 ### Census
 - [Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
 - [Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/census2agol/)
