@@ -3,6 +3,9 @@
 ## Geospatial Data 
 
 ### Census
+
+[Census 01 - Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/). This guide will cover the differences between browser-based data exploration tools for census data vs. data export tools, and why you might use one or the other.
+
 - [Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
 - [Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/)
 
