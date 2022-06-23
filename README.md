@@ -31,7 +31,7 @@
 [QGIS 05 - Performing a table join](https://harvardmapcollection.github.io/tutorials/qgis/join) This step-by-step tutorial and reference guide will cover the reasons why table joins are performed in GIS projects, and provide instructions for performing them using QGIS. 
 
 
-[QGIS 06 - Exporting only selected features](https://harvardmapcollection.github.io/tutorials/qgis/export-selected) This step-by-step tutorial will provide an example for filtering a dataset down based on some criteria, and exporting the results as a new GIS dataset.
+[QGIS 06 - Exporting only selected features](https://harvardmapcollection.github.io/tutorials/qgis/export-selected) This step-by-step tutorial will provide an example for filtering a dataset down based on some criteria, and exporting the results to a new GIS dataset.
 
 
 [QGIS 07 - Changing the coordinate reference system (CRS)](https://harvardmapcollection.github.io/tutorials/qgis/change-crs) This step-by-step tutorial and reference guide will cover the basics of coordinate reference systems (CRS), highlight their importance, and provide step-by-step instructions for changing a CRS when necessary.
