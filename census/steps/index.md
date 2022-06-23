@@ -11,10 +11,10 @@ This step-by-step tutorial will cover how to download QGIS, a free mapping softw
 This step-by-step tutorial will cover where to acquire the two types of census files you will need to make a map: (1) a table with statistics and (2) a GIS boundary file. 
 
 [Lesson 03 - Performing a table join](https://harvardmapcollection.github.io/tutorials/qgis/join)
-This step-by-step tutorial will cover how to perform a table join to link the mapping file together with the statistical file -- a step necessary to make a map.  
+This step-by-step tutorial will cover how to perform a table join linking the mapping file together with the statistical file -- a step necessary to make a map.  
 
 [Lesson 04 - Filtering and clipping the data](https://harvardmapcollection.github.io/tutorials/qgis/clip)
-This step-by-step tutorial will outline a number of options for filtering data, both by geography and by attribute, to control for both large file sizes and map design. 
+This step-by-step tutorial will outline a number of options for filtering data, both by geography and by attribute. 
 
 
 [Lesson 05 - Normalizing the data](https://harvardmapcollection.github.io/tutorials/qgis/normalize)
