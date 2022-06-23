@@ -1,7 +1,14 @@
 # Tutorials
 
-## Finding data
+## Data 
+
+### Boundaries
 - [How to search for local boundary files](https://harvardmapcollection.github.io/tutorials/data/local-boundaries)
+
+### Census
+- [Do I need to download data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
+
+### OpenStreetMap
 - [How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
 
 ## Georeferencing

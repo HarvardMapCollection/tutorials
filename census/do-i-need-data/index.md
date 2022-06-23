@@ -1,4 +1,4 @@
-# How to Decide If I Need Geospatial Data
+# Do I need to download census data?
 
 Deciding whether you need to download and process geospatial data is a good first step for your mapping project.
 
