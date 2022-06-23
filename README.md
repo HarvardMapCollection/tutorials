@@ -38,7 +38,7 @@
 
 
 
-[QGIS 08 - Zooming to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer) This short two-step tutorial covers a useful tool in QGIS, zooming to a layer. This tool is helpful to locate any given dataset within the larger context of a mapping project.
+[QGIS 08 - Zooming to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer) This short two-step tutorial covers a useful tool in QGIS, zooming to a layer. This tool is helpful to locate any given dataset within the larger context of the mapping project.
 
 
 [QGIS 09 - Clipping a dataset](https://harvardmapcollection.github.io/tutorials/qgis/clip) This step-by-step tutorial and reference guide covers clipping -- why you might want to do it, steps to clip a dataset's geographical extent by another desired extent, and tips for troubleshooting data clipping.
