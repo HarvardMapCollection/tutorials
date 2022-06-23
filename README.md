@@ -10,7 +10,7 @@
 
 
 ### OpenStreetMap
-[OSM 01 - How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
+[OSM 01 - How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/) This guide will cover how to export OSM cartography feature data such as waterways, transport, places of interest, land use, and buildings for a given region of the world. 
 
 ## Georeferencing
 - [Georeference our collections in the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference)
