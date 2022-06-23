@@ -18,10 +18,10 @@ This step-by-step tutorial will outline a number of options for filtering data, 
 
 
 [Lesson 05 - Normalizing the data](https://harvardmapcollection.github.io/tutorials/qgis/normalize)
-This step-by-step tutorial will describe the process for converting census data made available as raw counts to more mappable percentages.
+This step-by-step tutorial will describe the process for converting census counts to percentages, often more suitable for mapping.
 
 [Lesson 06 - Styling the data](https://harvardmapcollection.github.io/tutorials/census/steps/style)
-This reference guide will point towards resources for cartography, map design, and further help.
+This reference guide will point towards next steps for map design, cartography, and the QGIS print layout. 
 
 
 ## More help
