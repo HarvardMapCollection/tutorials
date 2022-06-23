@@ -1,4 +1,4 @@
-# Working with census data for digital mapping
+# Census data for digital mapping
 
 This tutorial series will equip you with the skills needed to use United States census data to create a digital map.
 
