@@ -12,8 +12,8 @@
 - [How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
 
 ## Georeferencing
-- [Georeference our collections in the browser with Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference)
-- [Georeference any map image using QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
+- [Georeference our collections in the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference)
+- [Georeference any map image using desktop program QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
 
 
 ## Census data
