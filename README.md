@@ -4,7 +4,7 @@
 
 ### Census
 - [Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
-- [Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/census2agol/)
+- [Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/)
 
 
 ### OpenStreetMap
