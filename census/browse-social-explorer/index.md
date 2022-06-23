@@ -1,7 +1,7 @@
-# How to Explore Data with Social Explorer
+# How to explore census data online with Social Explorer
 
 This tutorial will walk through the following [Social Explorer](http://nrs.harvard.edu/urn-3:hul.eresource:socialex) tasks:
-- Filtering census viusalizations by demographic variables of interest
+- Changing the map by picking a demographic variable
 - Adding or uploading additional datasets for comparison
 - Exporting census visualizations as rendered map .png files
 

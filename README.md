@@ -7,6 +7,7 @@
 
 ### Census
 - [Do I need to download data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
+- [How to explore census data online with Social Explorer](https://harvardmapcollection.github.io/tutorials/census/browse-social-explorer/)
 
 ### OpenStreetMap
 - [How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
@@ -17,7 +18,6 @@
 
 
 ## Census data
-- [Getting started with mapping census data](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
 - [How to explore data with Social Explorer](https://harvardmapcollection.github.io/tutorials/census/browse-social-explorer/)
 - [Preparing census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/census2agol/)
 - [How to obtain census data for GIS mapping](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
