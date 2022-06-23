@@ -5,10 +5,10 @@ This tutorial series will equip you with the skills needed to use United States 
 ## Lessons
 
 1. [How to get the software](https://harvardmapcollection.github.io/tutorials/qgis/download/)
-You will need a desktop software GIS software to perform some of the necessary data edits you will make to the census data. In this tutorial we will use the free software, QGIS. 
+You will need a desktop software GIS software to perform the necessary data edits to the census data. In this tutorial we will use the free software, QGIS. 
 
 2. [How to get the data](https://harvardmapcollection.github.io/tutorials/census/obtaining-census-data/)
-To get usable files for mapping, you must download two files: (1) a table with statistics and (2) a GIS boundary file. These files can be obtained from a few different sources.
+To get usable files for mapping, you must download two files: (1) a table with statistics and (2) a GIS boundary file. These files can be obtained from a few sources.
 
 3. [How to join the data](https://harvardmapcollection.github.io/tutorials/qgis/join)
 To create usable mapping files, you will need to know how to join mapping shape data to statistical files.

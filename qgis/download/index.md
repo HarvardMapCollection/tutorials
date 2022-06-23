@@ -12,7 +12,7 @@ QGIS is a free and open source desktop GIS software used to create, edit, visual
 
 ## Warning
 
-If you get an error message that Apple can't check the app for malicious software, you can [follow these instructions](https://support.apple.com/guide/mac-help/apple-cant-check-app-for-malicious-software-mchleab3a043/mac), by right-clicking the application and selecting `Open`. QGIS is a trustworthy application.
+If you get an error message that Apple can't check the app for malicious software, you can [follow these instructions](https://support.apple.com/guide/mac-help/apple-cant-check-app-for-malicious-software-mchleab3a043/mac), by right-clicking the application and selecting `Open`. 
 
 ## Tips
 
