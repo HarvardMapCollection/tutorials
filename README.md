@@ -4,10 +4,9 @@
 
 ### Census
 
-[Census 01 - Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/). This guide will cover the differences between browser-based data exploration tools for census data vs. data export tools, and why you might use one or the other.
+[Census 01 - Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/). This guide will cover the differences between browser-based data exploration tools vs. data export tools for census data, and why you might choose one over the other.
 
-- [Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/)
-- [Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/)
+[Census 02 - Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/). If you need to download census data, this guide covers start-to-finish the steps for aquiring, downloading, and cleaning up data to prepare a map. It leaves off with pointers towards map styling. 
 
 
 ### OpenStreetMap
