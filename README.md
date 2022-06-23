@@ -6,15 +6,15 @@
 
 [Census 01 - Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/) This guide will cover the differences between browser-based data exploration tools vs. data export tools for census data, and why you might choose one over the other.
 
-[Census 02 - Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/) If you need to download census data, this guide covers start-to-finish the steps for aquiring, downloading, and cleaning up data to prepare a map. It leaves off with pointers towards map styling. 
+[Census 02 - Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/) This multi-part series of step-by-step tutorials covers start-to-finish the processes for aquiring, downloading, and cleaning up census data to prepare for mapping. By the end you will be ready to style your map. 
 
 
 ### OpenStreetMap
-[OSM 01 - How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/) This guide will cover how to export OSM cartography feature data such as waterways, transport, places of interest, land use, and buildings for a given region of the world. 
+[OSM 01 - How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/) This step-by-step tutorial will cover how to export OSM cartography feature data such as waterways, transport, places of interest, land use, and buildings for a given region of the world. 
 
 ## Georeferencing
-- [Georeference our collections in the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference)
-- [Georeference any map image using desktop program QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
+[Georeferencing 01 - In the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference)
+[Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference)
 
 
 
