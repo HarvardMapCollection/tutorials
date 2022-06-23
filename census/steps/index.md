@@ -20,7 +20,7 @@ To control the size and aesthetic of the mapping files, it's helpful to know how
 5. [How to normalize the data](https://harvardmapcollection.github.io/tutorials/qgis/normalize)
 Ensure your data is formatted in a way that can support the creation of meaningful data visualizations.
 
-6. [How to style the map](https://harvardmapcollection.github.io/tutorials/agol/style)
+6. [How to style the map](https://harvardmapcollection.github.io/tutorials/census/steps/style)
 Now that you have reliable, usable map data, you can use it to create a map.
 
 
