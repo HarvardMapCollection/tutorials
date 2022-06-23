@@ -1,4 +1,4 @@
-# How to Extract OpenStreetMap Data Layers
+# Extracting OpenStreetMap Data Layers
 
 As a GIS user, you may encounter scenarios where data about a place's built and natural environment is challenging to find.
 
