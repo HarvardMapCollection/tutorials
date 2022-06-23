@@ -53,8 +53,10 @@
 
 
 ## ArcGIS Online
-[How to configure public sharing](https://harvardmapcollection.github.io/tutorials/agol/share)
-[How to configure a StoryMap](https://canvas.harvard.edu/courses/77693/pages/storymaps)
+[ArcGIS Online 01 - How to configure public sharing](https://harvardmapcollection.github.io/tutorials/agol/share) This reference guide provides tips for a common problem when trying to publish maps created in ArcGIS Online. 
+
+
+[How to configure a StoryMap](https://canvas.harvard.edu/courses/77693/pages/storymaps) This series of videos on the Harvard Map Collection instructional `Canvas` page walks through setting up a StoryMap and configuring popular widgets. 
 
 
 
