@@ -1,0 +1,134 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+@font-face {
+    font-family: 'loraregular';
+    src: url('./fonts/lora-regular/lora-regular-webfont.woff2') format('woff2'),
+         url('./fonts/lora-regular/lora-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'truenobold';
+    src: url('./fonts/truenobold/truenobd-webfont.woff2') format('woff2'),
+         url('./fonts/truenobold/truenobd-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'truenosemibold';
+    src: url('./fonts/trueno-semibold/truenosbd-webfont.woff2') format('woff2'),
+         url('./fonts/trueno-semibold/truenosbd-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'loraitalic';
+    src: url('./fonts/lora-italic/lora-italic-webfont.woff2') format('woff2'),
+         url('./fonts/lora-italic/lora-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.wrapper{
+    width: 1060px;
+}
+
+section{
+    width:630px ;
+}
+
+
+html { height: 100%; }
+
+body {
+    font-family: 'loraregular';
+    line-height: 32px;
+    font-size: 19px;
+    color: #414141;
+}
+
+p{
+    font-family: 'loraregular';
+    line-height: 32px;
+    font-size: 19px;
+    color: #414141;
+}
+
+h1{
+    font-family: 'truenobold';
+    color: #1E1E1E;
+    line-height: 74px;
+    font-size: 60px;
+    margin:0;
+}
+
+h2{
+    font-family: 'truenobold';
+    color: #1E1E1E;
+    font-size: 32px;
+    text-transform: uppercase;
+    line-height: 42px;
+    letter-spacing: 2.4px;
+  }
+  
+  h3{
+    font-family: 'truenobold';
+    color: #1E1E1E;
+    font-size: 20px;
+    text-transform: uppercase;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+  }
+
+  h4{
+    font-family: 'truenosemibold';
+    color: #1E1E1E;
+    font-size: 20px;
+    text-transform: uppercase;
+    line-height: 30px;
+    letter-spacing: 2.14px;
+  }
+  
+  h5{
+    font-family: 'truenosemibold';
+    color: #1E1E1E;
+    font-size: 19px;
+    line-height: 29px;
+  }
+  
+  h6{
+    font-family: 'truenosemibold';
+    color: #1E1E1E;
+    font-size: 16px;
+    line-height: 28px;
+  }
+
+  a {
+    color: #0579B8;
+    font-family: "truenobold";
+    padding: 2px;
+    text-decoration: none;
+  }
+
+
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: #cee0ef  ;
+  text-decoration-thickness: .2rem;
+  text-underline-offset: .15rem;
+}
+
