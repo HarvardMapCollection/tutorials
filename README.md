@@ -4,13 +4,13 @@
 
 ### Census
 
-[Census 01 - Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/). This guide will cover the differences between browser-based data exploration tools vs. data export tools for census data, and why you might choose one over the other.
+[Census 01 - Do I need to download census data?](https://harvardmapcollection.github.io/tutorials/census/do-i-need-data/) This guide will cover the differences between browser-based data exploration tools vs. data export tools for census data, and why you might choose one over the other.
 
-[Census 02 - Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/). If you need to download census data, this guide covers start-to-finish the steps for aquiring, downloading, and cleaning up data to prepare a map. It leaves off with pointers towards map styling. 
+[Census 02 - Steps to working with census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/) If you need to download census data, this guide covers start-to-finish the steps for aquiring, downloading, and cleaning up data to prepare a map. It leaves off with pointers towards map styling. 
 
 
 ### OpenStreetMap
-- [How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
+[OSM 01 - How to extract OpenStreetMap data layers](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/)
 
 ## Georeferencing
 - [Georeference our collections in the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference)
