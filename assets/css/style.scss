@@ -157,7 +157,11 @@ a:hover {
   }
 
   .wrapper{
-    max-width: 992px;
+    all: initial;
+}
+
+section{
+  all: initial;
 }
 
 
