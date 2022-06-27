@@ -133,3 +133,28 @@ a:hover {
   text-underline-offset: .15rem;
 }
 
+
+@media only screen and (max-width: 992px) {
+
+  h1{
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  h2{
+    font-size: 24px;
+    line-height: 31px;
+  }
+
+  body{
+    font-size: 17px;
+    line-height: 29px;
+  }
+
+  p{
+    font-size: 17px;
+    line-height: 29px;
+  }
+
+}
+
