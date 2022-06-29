@@ -8,7 +8,7 @@
 
 
 ### OpenStreetMap
-[OSM 01 - Extracting OpenStreetMap data](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/) This step-by-step tutorial will cover how to export OSM cartography feature data such as waterways, transport, places of interest, land use, and buildings for a given region of the world. 
+[OSM 01 - Extracting OpenStreetMap data](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/) This tutorial covers exporting OpenStreetMap (OSM) map features such as waterways, transport, places of interest, land use, and buildings for a given region of the world. 
 
 ## Georeferencing
 [Georeferencing 01 - In the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference) This step-by-step tutorial describes the process for georeferencing a map from the Harvard Libraries digital collections without having to download the map image file.
