@@ -11,9 +11,9 @@
 [OSM 01 - Extracting OpenStreetMap data](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/) This tutorial covers exporting OpenStreetMap (OSM) data including waterways, transport, points of interest, land use, and buildings. 
 
 ## Georeferencing
-[Georeferencing 01 - In the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference) This step-by-step tutorial describes the process for georeferencing a map from the Harvard Libraries digital collections without having to download the map image file.
+[Georeferencing 01 - In the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference) This tutorial outlines the process for georeferencing a map from directly from the Harvard Libraries digital collections.
 
-[Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference) This step-by-step tutorial outlines how to use the Georeferencer plugin for QGIS to georeference any map image file. 
+[Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference) This tutorial describes georeferencing a map image file (`.PNG`, `.JPEG`, or `.TIFF`) using the QGIS Georeferencer plugin. 
 
 
 
