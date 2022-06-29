@@ -4,7 +4,7 @@
 
 ### Census
 
-[Census 01 - Census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/) This multi-part series of step-by-step tutorials covers the processes for aquiring, downloading, and cleaning up census data to prepare for mapping. By the end you will be ready to style your map. 
+[Census 01 - Census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/) This multi-part tutorial series covers acquiring, downloading, and cleaning the census data you need to make a map. 
 
 
 ### OpenStreetMap
