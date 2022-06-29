@@ -13,7 +13,7 @@
 ## Georeferencing
 [Georeferencing 01 - In the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference) This tutorial outlines the process for georeferencing a map from directly from the Harvard Libraries digital collections.
 
-[Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference) This tutorial describes georeferencing a map image file (`.PNG`, `.JPEG`, or `.TIFF`) using the QGIS Georeferencer plugin. 
+[Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference) This tutorial describes georeferencing a map image file (`.PNG`, `.JPEG`, or `.TIFF`). 
 
 
 
