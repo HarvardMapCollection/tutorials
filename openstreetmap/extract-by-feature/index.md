@@ -3,7 +3,7 @@
 
 In the [previous OSM tutorial](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/), we learned how to extract a standard set of map features from [OpenStreetMap (OSM)](https://www.openstreetmap.org/) including waterways, buildings, general points of interest, and roads.
 
-In this tutorial, we will learn how to specify a specific *type* of feature, and extract data within a particular extent for only that type of feature.
+In this tutorial, we will learn how to specify by *type* of feature, and extract data within a particular extent for only that type of feature.
 
 No programming is required for this tutorial; we will use only a [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/) plugin called `QuickOSM`. 
 
