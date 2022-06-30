@@ -50,7 +50,7 @@ In this example, the contributor tagged the building correctly using the `shop` 
 In this example, however, the contributor used the `building` tag and entered `mall` as the value.
 ![Screenshot of OpenStreetMap on a mall tagged incorrectly using the building key](media/4.png)
 
-Idiosyncracies like this are important to note, because, as we will see, queries are constructed by supplying the key value pair to the extract tool. If a significant number of the features you are interested in have been tagged in a particular way, you will need to note that to build your query.
+Idiosyncracies like this are important to note, because, as we will see, queries are constructed by supplying the key value pair to the extract tool. If a significant number of the features you want are tagged differently than is outlined by the OSM standard, you will need to make note of that in your query building.
 
 ### Reverse search
 We suggest, therefore, visiting [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=18/-6.22574/106.81122) as a user and inspecting the attributes of a selection of features which are representative of the features you intend to extract. You can inspect the attributes by right-clicking an area, selecting `Query features`, and clicking on the feature you are interested in. Note how the data is structured for building your extract query. 
