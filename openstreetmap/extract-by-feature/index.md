@@ -91,3 +91,13 @@ location: **Jakarta**
 
 If a significant number of features have been tagged in different ways, you can export them separately and then later [merge the shapefiles](https://guides.library.duke.edu/QGIS/Merge) to create one "complete" layer. 
 
+It may be hard to see on the map, but the key: `building`, value: `mall` query returned a not insignificant number of malls. 
+
+![Screenshot of query using building and mall key value pairs and results on the map](media/8.png)
+
+Here is the attribute table for the results of this query, showing that it returned 32 records of malls. 
+
+![Screenshot of attribute table of query using building and mall key value pairs](media/8.png)
+
+
+7. To save the results as a new data layer you can use in any GIS program, right-click the layer in the layer list, select `Export`. Choose `Save features as` and save the data someplace logical, naming the file and selecting `geoJSON` as the filetype. 
