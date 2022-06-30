@@ -1,7 +1,7 @@
 
 # Extract OpenStreetMap Data by Feature
 
-In the [previous OSM tutorial](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/), we learned how to extract a standard set of map features including waterways, buildings, general points of interest and roads from OpenStreetMap (OSM).
+In the [previous OSM tutorial](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/), we learned how to extract a standard set of map features from OpenStreetMap (OSM) including waterways, buildings, general points of interest, and roads.
 
 In this tutorial, we will learn how to specify a specific *type* of feature, and extract data within a particular extent of only that type of feature.
 
