@@ -10,7 +10,7 @@
 ### OpenStreetMap
 [OSM 01 - Extracting OpenStreetMap data](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/) This tutorial covers exporting OpenStreetMap (OSM) data including waterways, transport, points of interest, land use, and buildings. 
 
-[OSM 02 - Extracting OpenStreetMap data by featyre](https://harvardmapcollection.github.io/tutorials/openstreetmap/extract-by-feature/) This tutorial covers exporting OpenStreetMap (OSM) data by a specified feature, such as restaurants, bathrooms, cafes, wastebaskets, and so on. 
+[OSM 02 - Extracting OpenStreetMap data by feature](https://harvardmapcollection.github.io/tutorials/openstreetmap/extract-by-feature/) This tutorial covers exporting OpenStreetMap (OSM) data by a specified feature, such as restaurants, bathrooms, cafes, wastebaskets, and so on. 
 
 ## Georeferencing
 [Georeferencing 01 - In the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference) This tutorial outlines the process for georeferencing a map from directly from the Harvard Libraries digital collections.
