@@ -100,4 +100,4 @@ Here is the attribute table for the results of this query, showing that it has r
 ![Screenshot of attribute table of query using building and mall key value pairs](media/8.png)
 
 
-7. To save the results as a new data layer you can use in any GIS program, right-click the layer in the layer list, select `Export`. Choose `Save features as` and save the data someplace logical, naming the file and selecting `geoJSON` as the filetype. 
+7. To save the results as a new data layer, right-click the layer in the layer list, select `Export`. Choose `Save features as` and save the data someplace logical, naming the file and selecting `geoJSON` as the filetype. 
