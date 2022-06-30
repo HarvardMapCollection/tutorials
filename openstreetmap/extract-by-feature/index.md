@@ -11,5 +11,7 @@ The list of *types* of features you can export from OSM is impressive; you can v
 
 ![Scrolling through the OSM Map Features wiki to show hundreds of tags including beer gardens, baby hatches, public showers, and more](media/1.gif)
 
+It must be stated that because OpenStreetMap data is user contributed (think of OSM as the wikipedia of maps), you can expect the data exports to be incomplete. The level of completeness depends on the happenstance of who added information for the types of features you are seeking. Still, in cases where no other known data source exists, OSM extracts can be a good place to start. 
+
 > In OpenStreetMap, all of the fields are optional, and it's OK to leave a field blank if you are unsure.
 Let's pretend that you have local knowledge of this cafe, and you know its name.
