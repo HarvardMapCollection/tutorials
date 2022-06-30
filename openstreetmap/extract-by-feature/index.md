@@ -39,7 +39,7 @@ For these reasons, before using an export tool like the `QuickOSM` QGIS plugin w
 The first step is to consult the [OpenStreetMap Map Features Wiki](https://wiki.openstreetmap.org/wiki/Map_features) and identify how a feature is *supposed* to be tagged. For instance, if we are looking for shopping malls, we can find that the suggested key, value pair is `shop`, and `mall`, respectively.
 
 ![Screenshot of shopping mall key/value pair in OSM wiki documentation](media/2.png)
-> Recommended key, value pair for tagging shopping mall features in OSM.
+> The recommended key, value pair for tagging shopping mall features in OSM is `shop`, and `mall`, respectively.
 
 In practice, however, features can be tagged in all sorts of idiosyncratic ways. 
 
