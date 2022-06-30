@@ -25,7 +25,7 @@ To best understand the data you will be exporting, it is helpful to consider how
 ![OpenStreetMap editor showing a map interface and a menu with text entry boxes](media/1.png)
 > The OSM editor.
 
-There are standards for how data should be entered and tagged, but beyond basic geometry, qualitative information about each feature is optional. That means, for instance, in some cases a restaurant may have a tag with the kind of ethnic cuisine, and other times the `cuisine` key field will have a blank or null value.
+There are standards for how data should be entered and tagged, but beyond basic geometry, qualitative information about each feature is optional. That means, for instance, in some cases a restaurant may be tagged with the specific kind of ethnic cuisine, while other times the `cuisine` key field might have a blank or null value.
 
 There are suggested ways to enter or tag data, but people don't always enter the full extent of information you might be looking for.
 
