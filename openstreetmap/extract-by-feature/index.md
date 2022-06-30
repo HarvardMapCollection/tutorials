@@ -51,6 +51,7 @@ In this example, however, the user contributer used the `building` tag and enter
 
 Idiosyncracies like this are important to note, because, as we will see, queries are constructed by supplying the key value pair to the extract tool. If a significant number of the features you are interested in have been tagged in a particular way, you will need to note that to build your query.
 
+### Reverse search
 We suggest, therefore, visiting [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=18/-6.22574/106.81122) as a user and inspecting the attributes of a selection of features which are representative of the features you intend to extract. You can inspect the attributes by right-clicking an area, selecting `Query features`, and clicking on the feature you are interested in. Note how the data is structured for building your extract query. 
 
 
@@ -58,4 +59,21 @@ We suggest, therefore, visiting [OpenStreetMap (OSM)](https://www.openstreetmap.
 
 1. Download [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/) if you haven't already.
 
-2. 
+2. In the main (top, horizontal) QGIS menu, select `Plugins`, then `Manage and Install Plugins`.
+
+3. Search for `QuickOSM` and install the plugin.
+
+4. Once installed, the plugin will appear uner the `Vector` menu in the main QGIS menu. Select `Vector`, then `QuickOSM`, then `QuickOSM`.
+
+There are more advanced ways to build queries using this tool, but we are going to stick with the `QuickQuery`, which requires only the `key`, `value`, and `location`.
+
+![Screenshot of the QuickQuery wizard in the QuickOSM plugin showing text inputs for key, value, and location](media/5.png)
+
+5. Input the following values:
+> key: **shop**
+value: **mall**
+location: **Jakarta**
+
+![Screenshot of export](media/6.png)
+
+![Zoomed in screenshot of export, two malls zoomed in](media/7.png)
