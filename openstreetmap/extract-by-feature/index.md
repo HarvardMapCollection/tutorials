@@ -95,7 +95,7 @@ It may be hard to see on this map below, but the key: `building`, value: `mall` 
 
 ![Screenshot of query using building and mall key value pairs and results on the map](media/8.png)
 
-Here is the attribute table for the results of this query, showing that it returned 32 records of malls. 
+Here is the attribute table for the results of this query, showing that it has returned thirty-two instances of malls in Jakarta.
 
 ![Screenshot of attribute table of query using building and mall key value pairs](media/8.png)
 
