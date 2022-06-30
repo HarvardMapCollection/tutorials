@@ -27,14 +27,15 @@ To best understand the data you will be exporting, it is helpful to consider how
 
 There are standards for how data should be entered and tagged, but beyond basic geometry, qualitative information about each feature is optional. That means, for instance, in some cases a restaurant may be tagged with the specific kind of ethnic cuisine, while other times the `cuisine` key field might have a blank or null value.
 
-There are suggested ways to enter or tag data, but people don't always enter the full extent of information you might be looking for.
-
 ![Example of tagging by amenity](media/2.gif)
 > Example of tagging using the **amenity** key.
 
+OSM defines standard ways for entering feature data, but sometimes people enter data incompletely or incorrectly.
+
+
 ## Query tips
 
-For these reasons, before using an export tool like the `QuickOSM` QGIS plugin we will use in this tutorial, it is helpful to do some research about how the features in question have been tagged in the area you are looking for. 
+For this reason, before using an export tool like the `QuickOSM` QGIS plugin we will use in this tutorial, it is helpful to do some research about how the features in question have been tagged in the area you are looking for. 
 
 The first step is to consult the [OpenStreetMap Map Features Wiki](https://wiki.openstreetmap.org/wiki/Map_features) and identify how a feature is *supposed* to be tagged. For instance, if we are looking for shopping malls, we can find that the suggested key, value pair is `shop`, and `mall`, respectively.
 
