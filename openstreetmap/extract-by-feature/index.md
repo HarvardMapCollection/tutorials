@@ -94,4 +94,4 @@ Here is the attribute table for the results of this query, showing that it has r
 
 ![Screenshot of attribute table of query using building and mall key value pairs](media/9.png)
 
-To save the results as a new data layer, right-click the layer in the layer list, select `Export`. Choose `Save features as` and save the data someplace logical, naming the file and selecting `geoJSON` as the filetype. 
+To save the results as a new data layer, right-click the layer in the layer list and select `Export`. Choose `Save features as` and save the data someplace logical, naming the file and selecting `geoJSON` as the filetype. 
