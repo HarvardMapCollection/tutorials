@@ -20,8 +20,12 @@ It must be stated that because OpenStreetMap data is user contributed (think of 
 
 ## How it works
 
-> In OpenStreetMap, all of the fields are optional, and it's OK to leave a field blank if you are unsure.
-Let's pretend that you have local knowledge of this cafe, and you know its name.
+To best understand the data you will be exporting, it is helpful to consider how the data is created. After making an account, any [OpenStreetMap (OSM)](https://www.openstreetmap.org/) user can open the OSM editor and add features (points, lines and polygons) for phenomena in the world. 
+
+![OpenStreetMap editor showing a map interface and a menu with text entry boxes](media/1.png)
+> The OSM editor.
+
+There are standards for how data should be entered and tagged, but beyond basic geometry, qualitative information about each feature is optional. That means, for instance, in some cases a restaurant may have a tag with the kind of ethnic cuisine, and other times the `cuisine` type field will have a blank or null value. 
 
 ## How to export data
 
