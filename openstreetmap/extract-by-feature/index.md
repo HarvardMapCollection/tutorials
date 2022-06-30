@@ -16,7 +16,7 @@ The list of *types* of features you can export from OSM is impressive; you can v
 
 ## Limitations
 
-It must be stated that because OpenStreetMap data is user contributed (think of OSM as the wikipedia of maps), you can expect the data exports to be incomplete. The level of completeness depends on the happenstance of who added information for the types of features you are seeking. Still, in cases where no other known data source exists, OSM extracts can be a good place to start. 
+It must be stated that because OpenStreetMap data is user contributed (think of OSM as the Wikipedia of maps), you can expect the data exports to be incomplete. The level of completeness depends on the happenstance of who added information for the types of features you are seeking. Still, in cases where no other known data source exists, OSM extracts can be a good place to start. 
 
 ## How it works
 
