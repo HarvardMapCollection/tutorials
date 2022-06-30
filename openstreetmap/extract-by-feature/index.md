@@ -63,7 +63,7 @@ We suggest, therefore, visiting [OpenStreetMap (OSM)](https://www.openstreetmap.
 
 3. Search for `QuickOSM` and install the plugin.
 
-4. Once installed, the plugin will appear uner the `Vector` menu in the main QGIS menu. Select `Vector`, then `QuickOSM`, then `QuickOSM`.
+4. Once installed, the plugin will appear under the `Vector` menu in the main QGIS menu. Select `Vector`, then `QuickOSM`, then `QuickOSM`.
 
 There are more advanced ways to build queries using this tool, but we are going to stick with the `QuickQuery`, which requires only the `key`, `value`, and `location`.
 
