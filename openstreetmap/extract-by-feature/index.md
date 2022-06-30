@@ -74,6 +74,20 @@ There are more advanced ways to build queries using this tool, but we are going 
 value: **mall**
 location: **Jakarta**
 
+6. Select `Run query`
+
+The tool will automatically render all available features as data layers in your QGIS document. Here we can see that there is both a point and polygon layer for malls.
+
 ![Screenshot of export](media/6.png)
 
 ![Zoomed in screenshot of export, two malls zoomed in](media/7.png)
+
+If your query is returning no features, while it is possible that no features of that type have been contributed in the area you are searching, it is also highly likely you may need to construct your query different. We suggest using researching the tagging methods, as outlined in the [reverse search](https://harvardmapcollection.github.io/tutorials/openstreetmap/extract-by-feature/#reverse-search) section above and trying different queries based on that.
+
+> Alternate search
+key: **building**
+value: **mall**
+location: **Jakarta** 
+
+If a significant number of features have been tagged in different ways, you can export them separately and then later [merge the shapefiles](https://guides.library.duke.edu/QGIS/Merge) to create one "complete" layer. 
+
