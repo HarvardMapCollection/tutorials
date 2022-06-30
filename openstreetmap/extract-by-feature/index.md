@@ -91,7 +91,7 @@ location: **Jakarta**
 
 If a significant number of features have alternate tagging, you can export them separately and then later [merge the shapefiles](https://guides.library.duke.edu/QGIS/Merge) together to create one "complete" layer. 
 
-It may be hard to see on the map, but the key: `building`, value: `mall` query returned a not insignificant number of malls. 
+It may be hard to see on this map below, but the key: `building`, value: `mall` query returned a not insignificant number of malls. 
 
 ![Screenshot of query using building and mall key value pairs and results on the map](media/8.png)
 
