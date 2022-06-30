@@ -54,6 +54,8 @@ Idiosyncracies like this are important to note, because, as we will see, queries
 We suggest, therefore, visiting [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=18/-6.22574/106.81122) as a user and inspecting the attributes of a selection of features which are representative of the features you intend to extract. You can inspect the attributes by right-clicking an area, selecting `Query features`, and clicking on the feature you are interested in. Note how the data is structured for building your extract query. 
 
 
-
 ## How to export data
 
+1. Download [QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/) if you haven't already.
+
+2. 
