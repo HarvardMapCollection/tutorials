@@ -44,10 +44,10 @@ The first step is to consult the [OpenStreetMap Map Features Wiki](https://wiki.
 
 In practice, however, features can be tagged in all sorts of idiosyncratic ways. 
 
-In this example, the user contributer tagged the building correctly using the `shop` key with the `mall` value.
+In this example, the contributor tagged the building correctly using the `shop` key with the `mall` value.
 ![Screenshot of OpenStreetMap on a mall tagged correctly using the shop key](media/3.png)
 
-In this example, however, the user contributer used the `building` tag and entered `mall` as the value.
+In this example, however, the contributor used the `building` tag and entered `mall` as the value.
 ![Screenshot of OpenStreetMap on a mall tagged incorrectly using the building key](media/4.png)
 
 Idiosyncracies like this are important to note, because, as we will see, queries are constructed by supplying the key value pair to the extract tool. If a significant number of the features you are interested in have been tagged in a particular way, you will need to note that to build your query.
