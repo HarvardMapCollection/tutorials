@@ -20,7 +20,7 @@ It must be stated that because OpenStreetMap data is user contributed (think of 
 
 ## How it works
 
-To best understand the data you will be exporting, it is helpful to consider how the data is created. After making an account, any [OpenStreetMap (OSM)](https://www.openstreetmap.org/) user can open the OSM editor and add features (points, lines and polygons) for phenomena in the world. 
+To best understand the data you will be exporting, it is helpful to consider how it is created. After making an account, any [OpenStreetMap (OSM)](https://www.openstreetmap.org/) user can open the OSM editor and add features (points, lines and polygons) for phenomena in the world. 
 
 ![OpenStreetMap editor showing a map interface and a menu with text entry boxes](media/1.png)
 > The OSM editor.
