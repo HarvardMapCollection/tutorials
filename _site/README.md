@@ -1,116 +1,64 @@
-# The Minimal theme
+# Tutorials 
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+## Geospatial Data 
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+### Census
 
-![Thumbnail of Minimal](thumbnail.png)
+[Census 01 - Census data for digital mapping](https://harvardmapcollection.github.io/tutorials/census/steps/) This multi-part tutorial series walks through important steps for mapping with census data including acquiring, downloading, and cleaning census data. 
 
-## Usage
 
-To use the Minimal theme:
+### OpenStreetMap
+[OSM 01 - Extracting OpenStreetMap data](https://harvardmapcollection.github.io/tutorials/openstreetmap/how-to-extract-openstreetmap-data-layers/) This tutorial covers exporting OpenStreetMap (OSM) data including waterways, transport, points of interest, land use, and buildings. 
 
-1. Add the following to your site's `_config.yml`:
+## Georeferencing
+[Georeferencing 01 - In the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference) This tutorial outlines the process for georeferencing a map from directly from the Harvard Libraries digital collections.
 
-    ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+[Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference) This tutorial describes georeferencing a map image file (`.PNG`, `.JPEG`, or `.TIFF`). 
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
 
-## Customizing
+## QGIS
+[QGIS 01 - Downloading QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/) This tutorial provides instructions and tips for downloading QGIS, a free desktop software for processing, analysing, and visualizing map data. 
 
-### Configuration variables
+[QGIS 02 - Adding a basemap to a mapping project](https://harvardmapcollection.github.io/tutorials/qgis/add-a-basemap/) This step-by-step tutorial describes how to add a basemap to a QGIS project as a reference layer while working on a mapping project.
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
+[QGIS 03 - Adding a vector dataset to a mapping project](https://harvardmapcollection.github.io/tutorials/qgis/open-vector) This step-by-step tutorial will discuss vector data formats (points, lines, and polygons), how they are relevant to GIS, and how to add these types of datasets to a QGIS mapping project. 
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
 
-Additionally, you may choose to set the following optional variables:
+[QGIS 04 - Adding a spreadsheet to a mapping project](https://harvardmapcollection.github.io/tutorials/qgis/add-csv) This step-by-step tutorial will explain how to add a spreadsheet or table of data (.xlsx or .csv) to a QGIS project so that the contents of the file can become map data.
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
 
-### Stylesheet
+[QGIS 05 - Performing a table join](https://harvardmapcollection.github.io/tutorials/qgis/join) This step-by-step tutorial and reference guide will cover the reasons why table joins are performed in GIS projects, and provide instructions for performing them using QGIS. 
 
-If you'd like to add your own custom styles:
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+[QGIS 06 - Exporting only selected features](https://harvardmapcollection.github.io/tutorials/qgis/export-selected) This step-by-step tutorial will provide an example for filtering a dataset down based on some criteria, and exporting the results to a new GIS dataset.
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+[QGIS 07 - Changing the coordinate reference system (CRS)](https://harvardmapcollection.github.io/tutorials/qgis/change-crs) This step-by-step tutorial and reference guide will cover the basics of coordinate reference systems (CRS), highlight their importance, and provide step-by-step instructions for changing a CRS when necessary.
 
-### Layouts
 
-If you'd like to change the theme's HTML layout:
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
+[QGIS 08 - Zooming to a layer](https://harvardmapcollection.github.io/tutorials/qgis/zoom-to-layer) This short two-step tutorial covers a useful tool in QGIS, zooming to a layer. This tool is helpful to locate any given dataset within the larger context of the mapping project.
 
-### Customizing Google Analytics code
 
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+[QGIS 09 - Clipping a dataset](https://harvardmapcollection.github.io/tutorials/qgis/clip) This step-by-step tutorial and reference guide covers clipping -- why you might want to do it, steps to clip a dataset's geographical extent by another desired extent, and tips for troubleshooting data clipping.
 
-### Overriding GitHub-generated URLs
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
 
-1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+[QGIS 10 - Adjusting a layer's opacity ](https://harvardmapcollection.github.io/tutorials/qgis/adjust-opacity) This step-by-step tutorial points out where to find the controls to adjust a layer's opacity in QGIS.  
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
 
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
-## Roadmap
+[QGIS 11 - Normalizing a dataset](https://harvardmapcollection.github.io/tutorials/qgis/normalize) This step-by-step tutorial covers the concept of data normalization, and provides instructions for turning raw counts into percentages in QGIS. 
 
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
 
-## Project philosophy
+## ArcGIS Online
+[ArcGIS Online 01 - How to configure public sharing](https://harvardmapcollection.github.io/tutorials/agol/share) This reference guide provides tips for a common problem when trying to publish maps created in ArcGIS Online. 
 
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
-## Contributing
+[ArcGIS Online 02 - How to configure a StoryMap](https://canvas.harvard.edu/courses/77693/pages/storymaps) This series of videos on the Harvard Map Collection instructional `Canvas` page walks through setting up a StoryMap and configuring popular widgets. 
 
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-### Previewing the theme locally
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
