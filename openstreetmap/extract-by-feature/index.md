@@ -64,7 +64,7 @@ We suggest, therefore, visiting [OpenStreetMap (OSM)](https://www.openstreetmap.
 3. Search for `QuickOSM` and install the plugin.
 
 4. Once installed, the plugin will appear under the `Vector` menu in the main QGIS menu. Select `Vector`, then `QuickOSM`, then `QuickOSM`.
-There are more advanced ways to build queries using this tool, but we are going to stick with the `QuickQuery`, which requires only the `key`, `value`, and `location`.
+> There are more advanced ways to build queries using this tool, but we are going to stick with the `QuickQuery`, which requires only the `key`, `value`, and `location`.
 ![Screenshot of the QuickQuery wizard in the QuickOSM plugin showing text inputs for key, value, and location](media/5.png)
 5. Input the following values:
 > key: **shop**
@@ -74,9 +74,13 @@ location: **Jakarta**
 6. Select `Run query`
 
 The tool will automatically render all available features as data layers in your QGIS document. Here we can see that there is both a point and polygon layer for malls.
+
 ![Screenshot of export](media/6.png)
+
 ![Zoomed in screenshot of export, two malls zoomed in](media/7.png)
+
 If your query is returning no features, while it is possible that no features of that type have been contributed in the area you are searching, it is also highly likely you may need to construct your query differently. We suggest researching how your desired features have been tagged in OpenStreetMap, as outlined in the [reverse search](https://harvardmapcollection.github.io/tutorials/openstreetmap/extract-by-feature/#reverse-search) section above, and trying different queries where appropriate.
+
 > Example alternate query
 key: **building**
 value: **mall**
@@ -88,5 +92,7 @@ It may be hard to see on this map below, but the key: `building`, value: `mall` 
 ![Screenshot of query using building and mall key value pairs and results on the map](media/8.png)
 
 Here is the attribute table for the results of this query, showing that it has returned thirty-two instances of malls in Jakarta.
+
 ![Screenshot of attribute table of query using building and mall key value pairs](media/8.png)
-7. To save the results as a new data layer, right-click the layer in the layer list, select `Export`. Choose `Save features as` and save the data someplace logical, naming the file and selecting `geoJSON` as the filetype. 
+
+To save the results as a new data layer, right-click the layer in the layer list, select `Export`. Choose `Save features as` and save the data someplace logical, naming the file and selecting `geoJSON` as the filetype. 
