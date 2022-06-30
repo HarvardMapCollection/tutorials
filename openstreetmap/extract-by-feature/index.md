@@ -76,7 +76,6 @@ location: **Jakarta**
 The tool will automatically render all available features as data layers in your QGIS document. Here we can see that there is both a point and polygon layer for malls.
 
 ![Screenshot of export](media/6.png)
-
 ![Zoomed in screenshot of export, two malls zoomed in](media/7.png)
 
 If your query is returning no features, while it is possible that no features of that type have been contributed in the area you are searching, it is also highly likely you may need to construct your query differently. We suggest researching how your desired features have been tagged in OpenStreetMap, as outlined in the [reverse search](https://harvardmapcollection.github.io/tutorials/openstreetmap/extract-by-feature/#reverse-search) section above, and trying different queries where appropriate.
