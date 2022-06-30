@@ -12,7 +12,7 @@ No programming is required for this tutorial; we will use only a [QGIS](https://
 The list of *types* of features you can export from OSM is impressive; you can view the full list on the [OpenStreetMap Map Features Wiki](https://wiki.openstreetmap.org/wiki/Map_features).
 
 ![Scrolling through the OSM Map Features wiki to show hundreds of tags including beer gardens, baby hatches, public showers, and more](media/1.gif)
->List of exportable features from OSM.
+>[List of exportable features](https://wiki.openstreetmap.org/wiki/Map_features) from OSM.
 
 ## Limitations
 
