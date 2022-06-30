@@ -68,7 +68,6 @@ We suggest, therefore, visiting [OpenStreetMap (OSM)](https://www.openstreetmap.
 There are more advanced ways to build queries using this tool, but we are going to stick with the `QuickQuery`, which requires only the `key`, `value`, and `location`.
 
 ![Screenshot of the QuickQuery wizard in the QuickOSM plugin showing text inputs for key, value, and location](media/5.png)
-
 5. Input the following values:
 > key: **shop**
 value: **mall**
@@ -98,6 +97,4 @@ It may be hard to see on this map below, but the key: `building`, value: `mall` 
 Here is the attribute table for the results of this query, showing that it has returned thirty-two instances of malls in Jakarta.
 
 ![Screenshot of attribute table of query using building and mall key value pairs](media/8.png)
-
-
 7. To save the results as a new data layer, right-click the layer in the layer list, select `Export`. Choose `Save features as` and save the data someplace logical, naming the file and selecting `geoJSON` as the filetype. 
