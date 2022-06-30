@@ -30,7 +30,7 @@ There are standards for how data should be entered and tagged, but beyond basic 
 There are suggested ways to enter or tag data, but people don't always enter the full extent of information you might be looking for.
 
 ![Example of tagging by amenity](media/2.gif)
-> Example of tagging by amenity.
+> Example of tagging using the **amenity** key.
 
 ## Query tips
 
