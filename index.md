@@ -12,15 +12,14 @@
 
 [OSM 02 - Extracting OpenStreetMap data by feature](https://harvardmapcollection.github.io/tutorials/openstreetmap/extract-by-feature/) This tutorial covers exporting OpenStreetMap (OSM) data by a specified feature, such as restaurants, bathrooms, cafes, malls, and so on. 
 
+### Research
+[Research 01 - DIY Metadata](https://harvardmapcollection.github.io/tutorials/data/DIY-metadata) This template provides suggestions for information to include when documenting self-authored GIS datasets.
+
+
 ## Georeferencing
 [Georeferencing 01 - In the browser using Allmaps](https://harvardmapcollection.github.io/tutorials/allmaps/georeference) This tutorial outlines the process for georeferencing a map from directly from the Harvard Libraries digital collections.
 
 [Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference) This tutorial describes georeferencing a map image file (`.PNG`, `.JPEG`, or `.TIFF`). 
-
-## Research
-
-[Research 01 - DIY Metadata](https://harvardmapcollection.github.io/tutorials/data/DIY-metadata) This template provides suggestions for information to include when documenting self-authored GIS datasets.
-
 
 
 ## QGIS
