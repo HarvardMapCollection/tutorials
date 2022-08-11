@@ -20,10 +20,10 @@ Incomplete context is *always* better than no context. If you don't know the ans
 ## Documentation elements
 
 ### Originator(s) 
-The name(s) of the organization(s) or individual(s) that developed the data set. 
+The name(s) of the organization(s) or individual(s) who developed the dataset. 
 
 ### Publication Date 
-The date when the data set is published or otherwise made available for release. 
+The date when the dataset is published or otherwise made available for release. 
 
 ### Calendar Date(s) of the Content
 The date, dates or date range describing the content of the dataset. 
@@ -36,7 +36,7 @@ The mode in which the geospatial data are represented.
 > Examples: "vector digital data" 
 
 ### Abstract
-A brief narrative description of the data set. 
+A brief narrative description of the dataset. 
 
 ### Motivations
 The reason why the dataset was developed or intentions for its use. 
@@ -65,7 +65,7 @@ How often you intend to update or maintain the data layers.
 > Examples: "annually", "never updated"
 
 ### Point of contact
-Contact information for an individual or organization that is knowledgeable about the data set [person/organization, e-mail, etc.]. 
+Contact information for an individual or organization that is knowledgeable about the dataset (person/organization, e-mail, etc.). 
 
 ### Access Constraints
 Restrictions on access to the data. 
