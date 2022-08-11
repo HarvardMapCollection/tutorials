@@ -17,6 +17,10 @@
 
 [Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference) This tutorial describes georeferencing a map image file (`.PNG`, `.JPEG`, or `.TIFF`). 
 
+## Research
+
+[Research 01 - DIY Metadata](https://harvardmapcollection.github.io/tutorials/data/DIY-metadata) This template provides suggestions for information to include when documenting self-authored GIS datasets.
+
 
 
 ## QGIS
