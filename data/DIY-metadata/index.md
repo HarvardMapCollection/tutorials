@@ -17,39 +17,56 @@ Incomplete context is *always* better than no context. If you don't know the ans
 
 ## Documentation elements
 
-**Originator(s):** the name(s) of the organization(s) or individual(s) that developed the data set. 
+### Originator(s) 
+The name(s) of the organization(s) or individual(s) that developed the data set. 
 
-**Publication Date:** the date when the data set is published or otherwise made available for release. 
+### Publication Date 
+The date when the data set is published or otherwise made available for release. 
 
-**Calendar Date(s) of the Content:** the date, dates or date range describing the content of the dataset. 
+### Calendar Date(s) of the Content
+The date, dates or date range describing the content of the dataset. 
 
-**Title:** a title for the dataset. 
+### Title
+A title for the dataset. 
 
-**Geospatial Data Presentation Form:** the mode in which the geospatial data are represented. 
+### Geospatial Data Presentation Form
+The mode in which the geospatial data are represented. 
 > Examples: "vector digital data" 
 
-**Abstract:** a brief narrative description of the data set. 
+### Abstract
+A brief narrative description of the data set. 
 
-**Motivations:** the reason why the dataset was developed or intentions for its use. 
+### Motivations
+The reason why the dataset was developed or intentions for its use. 
 If you created the data yourself, or augmented existing data, how does the work add value to the current data landscape. In other words, what are the project's successes?
 
-**Data sources:** If you obtained data from elsewhere and edited it, the source of the original datasets and date accessed.
+### Data sources
+If you obtained data from elsewhere and edited it, the source of the original datasets and date accessed.
 
-**Process steps and methods:** a sequential explanation of the step-by-step process for creating or editing the data.
+### Process steps and methods
+A sequential explanation of the step-by-step process for creating or editing the data.
 
-**Challenges:** challenging aspects of working with the data, or words-to-the-wise for someone else endeavoring to work with it. 
+### Challenges
+Challenging aspects of working with the data, or words-to-the-wise for someone else endeavoring to work with it. 
 
-**Relationships:** If there are multiple datasets in the project, processing scripts, or other resources, the filenames and how the materials relate to or were used with one another.
+### Relationships
+If there are multiple datasets in the project, processing scripts, or other resources, the filenames and how the materials relate to or were used with one another.
 
-**Data integrity:** If values are missing, or fields are blank, instructions for future users for making sense of possible reasons why.
+### Data integrity
+If values are missing, or fields are blank, instructions for future users for making sense of possible reasons why.
 
-**Codebooks:** If you cleaned data, deleted, renamed, mathematically calculated or inferred fields from other fields, the filename and link to a plain-text codebook with field name definitions, including units of measurement.
+### Codebooks
+If you cleaned data, deleted, renamed, mathematically calculated or inferred fields from other fields, the filename and link to a plain-text codebook with field name definitions, including units of measurement.
 
-**Maintenance and Update Frequency:** how often you intend to update or maintain the data layers. 
+### Maintenance and Update Frequency
+How often you intend to update or maintain the data layers. 
 > Examples: "annually", "never updated"
 
-**Point of contact:** contact information for an individual or organization that is knowledgeable about the data set [person/organization, e-mail, etc.]. 
+### Point of contact
+Contact information for an individual or organization that is knowledgeable about the data set [person/organization, e-mail, etc.]. 
 
-**Access Constraints:** restrictions on access to the data. 
+### Access Constraints
+Restrictions on access to the data. 
 
-**Use Constraints:** restrictions on the use of the data. 
+### Use Constraints
+Restrictions on the use of the data. 
