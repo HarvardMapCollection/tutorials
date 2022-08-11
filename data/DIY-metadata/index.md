@@ -1,4 +1,4 @@
-# DIY-metadata
+# DIY metadata
 
 Government portals, libraries, and other data repositories often use slightly different metadata standards for powering discovery of their data resources.
 
