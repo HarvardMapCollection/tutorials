@@ -28,7 +28,7 @@
 
 8. Continue to add two more control points, so that there are three control points in total.
 > Switch between the image and the basemap by right clicking on the layer in the 'Contents' pane and selecting 'Zoom to Layer'.
-* Control points can be added ![Screenshot of add ctrl points icon](media/add_cp.png) or deleted ![Screenshot of delete ctrl points icon](media/delete_cp.PNG) using the options available in the georeferencing toolbar. 
+* Control points can be added ![Screenshot of add ctrl points icon](media/add_cp.PNG) or deleted ![Screenshot of delete ctrl points icon](media/delete_cp.PNG) using the options available in the georeferencing toolbar. 
 * Select "Control Point Table" to see a table of links you have made.![Screenshot of add ctrl point table icon](media/open_cp_table.PNG)
     - Here, you can also add and delete control points, and even alter their geographic coordinates directly from within this table.
 
