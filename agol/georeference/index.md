@@ -16,12 +16,12 @@
 
 7. Now it is time to add control points. `Georeference → Add Control Points` ![Screenshot of add ctrl points icon](media/add_cp.PNG)
 > Adding control points creates a link between a real geographic location and a location present in the map image.
-1. Find a recognizable geographic location on the map image and click on it to add the first control point, thus creating Link 1.
+- Find a recognizable geographic location on the map image and click on it to add the first control point, thus creating Link 1.
     * For example, in a map of New York, you could use the tip of Manhattan as a control point. 
-2. Now, we want to link this control point to an actual lat/long value.
+- Now, we want to link this control point to an actual lat/long value.
     * right click on the **basemap** in the 'Contents' pane and select 'Zoom to Layer' to bring it into view.
     * Once you have found the same location on the basemap, simply click to add the corresponding control point, completing Link 1.
-3. Use the "Locate" tool in the upper left hand corner of the Georeferencing toolbar to help you find places. 
+- Use the "Locate" tool in the upper left hand corner of the Georeferencing toolbar to help you find places. 
     * For example, search "Manhattan" or "Manhattan, New York", and it will locate Manhattan on the basemap for you!
     * You can also type in XY coordinates into the Locate tool
 
