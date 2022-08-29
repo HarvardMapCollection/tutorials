@@ -3,7 +3,7 @@
 1. Open a new map ![Screenshot of new map icon](media/newmap.PNG)
  in ArcGIS Pro and select the basemap ![Screenshot of new map icon](media/basemap.PNG) of your choice `Map → Basemap → Open Street Map`
 
-2. Set the projection
+2. **Set the projection** by right clicking the basemap in the *Contents* pane and select **Properties** `Properties → Coordinate Systems`
 
 3. Open the image which needs to be georeferenced `Catalog → Folders → Add Folder Connection `
 > Right click on 'Folders' and navigate to the folder containing the map that needs to be georeferenced. Press 'OK' to add the folder as a connection.
