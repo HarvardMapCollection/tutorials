@@ -1,20 +1,18 @@
 # How to Georeference in ArcGIS PRO
 
-1. Open ArcGIS PRO and create a new project `New project → Map` ![Screenshot of new map icon](media/1.PNG)
+1. Open a new map in ArcGIS Pro and select the basemap of your choice `New project → Map → Basemap → Open Street Map` ![Screenshot of new map icon](media/1.PNG)
 
-2. Select the basemap of your choice `Map → Basemap → Open Street Map` ![Screenshot of basemap icon](media/basemap.PNG)
+2. Set the projection
 
-3. Set the projection
-
-4. Open the image which needs to be georeferenced `Catalog → Folders → Add Folder Connection `
+3. Open the image which needs to be georeferenced `Catalog → Folders → Add Folder Connection `
 > Right click on 'Folders' and navigate to the folder containing the map that needs to be georeferenced. Press 'OK' to add the folder as a connection.
 
-5. Drag the image from the 'Catalog' pane, into the 'Map' pane
+4. Drag the image from the 'Catalog' pane, into the 'Map' pane
 > Select 'OK' to 'Build Pyramids and Calculate Statistics'
 
-6. Open the georeferencing toolbar `Imagery → Georeference`![Screenshot of start georeferencing icon](media/georeference_button.PNG)
+5. Open the georeferencing toolbar `Imagery → Georeference`![Screenshot of start georeferencing icon](media/georeference_button.PNG)
 
-7. Now it is time to add control points. `Georeference → Add Control Points` ![Screenshot of add ctrl points icon](media/add_cp.PNG)
+6. Now it is time to add control points. `Georeference → Add Control Points` ![Screenshot of add ctrl points icon](media/add_cp.PNG)
 > Adding control points creates a link between a real geographic location and a location present in the map image.
 - Find a recognizable geographic location on the map image and click on it to add the first control point, thus creating Link 1.
     * For example, in a map of New York, you could use the tip of Manhattan as a control point. 
@@ -25,13 +23,13 @@
     * For example, search "Manhattan" or "Manhattan, New York", and it will locate Manhattan on the basemap for you!
     * You can also type in XY coordinates into the Locate tool
 
-8. Continue to add two more control points, so that there are three control points in total.
+7. Continue to add two more control points, so that there are three control points in total.
 > Switch between the image and the basemap by right clicking on the layer in the 'Contents' pane and selecting 'Zoom to Layer'.
 * Control points can be added ![Screenshot of add ctrl points icon](media/add_cp.PNG) or deleted ![Screenshot of delete ctrl points icon](media/delete_cp.PNG) using the options available in the georeferencing toolbar. 
 * Select "Control Point Table" to see a table of links you have made.![Screenshot of add ctrl point table icon](media/open_cp_table.PNG)
     - Here, you can also add and delete control points, and even alter their geographic coordinates directly from within this table.
 
-9. Now that the control points are completed, we are able to transform the map. `Georeference → Transformation → Similarity Polynomial`
+8. Now that the control points are completed, we are able to transform the map. `Georeference → Transformation → Similarity Polynomial`
 
-10. Your image has been georeferenced! 
+9. Your image has been georeferenced! 
 
