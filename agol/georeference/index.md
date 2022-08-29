@@ -1,6 +1,7 @@
 # How to Georeference in ArcGIS PRO
 
-1. Open a new map in ArcGIS Pro and select the basemap of your choice `New project → Map → Basemap → Open Street Map` ![Screenshot of new map icon](media/1.PNG)
+1. Open a new map![Screenshot of new map icon](media/newmap.PNG)
+ in ArcGIS Pro and select the basemap (media/basemap.PNG) of your choice `New project → Map → Basemap → Open Street Map` ![Screenshot of new map icon](media/1.PNG)
 
 2. Set the projection
 
