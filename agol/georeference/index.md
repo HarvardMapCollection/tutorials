@@ -12,8 +12,7 @@
 5. Drag the image from the 'Catalog' pane, into the 'Map' pane
 > Select 'OK' to 'Build Pyramids and Calculate Statistics'
 
-6. Open the georeferencing toolbar `Imagery → Georeference`
-![Screenshot of start georeferencing icon](media/georeference_button.PNG)
+6. Open the georeferencing toolbar `Imagery → Georeference`![Screenshot of start georeferencing icon](media/georeference_button.PNG)
 
 7. Now it is time to add control points. `Georeference → Add Control Points` ![Screenshot of add ctrl points icon](media/add_cp.PNG)
 > Adding control points creates a link between a real geographic location and a location present in the map image.
