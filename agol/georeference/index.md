@@ -1,7 +1,7 @@
 # How to Georeference in ArcGIS PRO
 
 1. Open a new map ![Screenshot of new map icon](media/newmap.PNG)
- in ArcGIS Pro and select the basemap ![Screenshot of new map icon](media/basemap.PNG) of your choice `Map → Basemap → Open Street Map`
+ in ArcGIS Pro and select the basemap ![Screenshot of new map icon](media/basemap.PNG) of your choice `Map → Basemap → Open Street Map` ![Screenshot of new map icon](media/basemap2.PNG)
 
 2. **Set the projection** by right clicking the basemap in the *Contents* pane and select **Properties** `Properties → Coordinate Systems`
 
