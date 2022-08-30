@@ -21,6 +21,8 @@
 
 [Georeferencing 02 -  With QGIS](https://harvardmapcollection.github.io/tutorials/qgis/georeference) This tutorial describes georeferencing a map image file (`.PNG`, `.JPEG`, or `.TIFF`). 
 
+[Georeferencing 03 - With ArcGIS PRO](https://harvardmapcollection.github.io/tutorials/agol/georeference) This tutorial goes through how to georeference a map image file in ArcGIS Pro.
+
 
 ## QGIS
 [QGIS 01 - Downloading QGIS](https://harvardmapcollection.github.io/tutorials/qgis/download/) This tutorial provides instructions and tips for downloading QGIS, a free desktop software for processing, analysing, and visualizing map data. 
@@ -64,6 +66,8 @@
 [ArcGIS Online 02 - How to configure a StoryMap](https://canvas.harvard.edu/courses/77693/pages/storymaps) This series of videos on the Harvard Map Collection instructional `Canvas` page walks through setting up a StoryMap and configuring popular widgets. 
 
 
+
+[ArcGIS Online 03 - How to Publish a Web Tile Layer](https://harvardmapcollection.github.io/tutorials/agol/tile-layer) This tutorial shows you how to upload a scanned, georeferenced map to ArcGIS Online.
 
 
 
