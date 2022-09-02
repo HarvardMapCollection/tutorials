@@ -37,3 +37,5 @@
 
 10. Your image has been georeferenced! 
 
+> Continue to [this guide](https://harvardmapcollection.github.io/tutorials/agol/tile-layer
+) to learn how to upload a georeferenced map to ArcGIS Online
