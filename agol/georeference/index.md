@@ -17,10 +17,10 @@
 6. Open the georeferencing toolbar `Imagery → Georeference`![Screenshot of start georeferencing icon](media/georeference_button.PNG)
 
 7. Add control points. `Georeference → Add Control Points` ![Screenshot of add ctrl points icon](media/add_cp.PNG)
-> Adding control points creates a link between a pixel in the map image and an actual XY coordinate.
-* Find a recognizable geographic location on the map image and click on it to add the first control point, thus creating Link 1. 
-    * Next, right click on the **basemap** in the 'Contents' pane and select 'Zoom to Layer' to bring it into view.
-    * Click on the corresponding location in the map image in order to complete Link 1.
+* Adding control points creates a link between a pixel in the map image and an actual XY coordinate.
+* Find a recognizable geographic location on the **map image** and click on it to add the first control point, thus creating Link 1. 
+    * Next, right click on the basemap in the 'Contents' pane and select 'Zoom to Layer' to bring it into view.
+    * Click on the corresponding location in the **basemap** in order to complete Link 1.
     > Tip: Use the "Locate" tool in the upper left hand corner of the Georeferencing toolbar to help you find places. 
     > *For example, search "Manhattan" or "Manhattan, New York", and it will locate Manhattan on the basemap for you!*
     > *You can also type in XY coordinates into the Locate tool*
