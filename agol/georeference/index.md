@@ -20,10 +20,11 @@
     * Adding control points creates a link between a pixel in the map image and an actual XY coordinate.
     * Find a recognizable geographic location on the **map image** and click on it to add the first control point, thus creating Link 1. 
         * Next, right click on the basemap in the 'Contents' pane and select 'Zoom to Layer' to bring it into view.
-        * Click on the corresponding location in the **basemap** in order to complete Link 1.
+        * Click on the corresponding location in the **basemap** in order to complete Link 1. 
+        ![gif of locate tool](media/locate_gif.gif)
         > Tip: Use the "Locate" tool in the upper left hand corner of the Georeferencing toolbar to help you find places. 
         > *For example, search "Manhattan" or "Manhattan, New York", and it will locate Manhattan on the basemap for you!*
-        > *You can also type in XY coordinates into the Locate tool*![gif of locate tool](media/locate_gif.gif)
+        > *You can also type in XY coordinates into the Locate tool*
 
 8. Continue to add two more control points, so that there are three control points in total.
     > Switch between the image and the basemap by right clicking on the layer in the 'Contents' pane and selecting 'Zoom to Layer'.
