@@ -23,7 +23,7 @@
         * Click on the corresponding location in the **basemap** in order to complete Link 1.
         > Tip: Use the "Locate" tool in the upper left hand corner of the Georeferencing toolbar to help you find places. 
         > *For example, search "Manhattan" or "Manhattan, New York", and it will locate Manhattan on the basemap for you!*
-        > *You can also type in XY coordinates into the Locate tool*
+        > *You can also type in XY coordinates into the Locate tool*![gif of locate tool](media/locate_gif.gif)
 
 8. Continue to add two more control points, so that there are three control points in total.
     > Switch between the image and the basemap by right clicking on the layer in the 'Contents' pane and selecting 'Zoom to Layer'.
