@@ -11,3 +11,5 @@ Color stuff goes here.
 ## CLASSIFICATION METHODS
 
 Classification stuff goes here.
+
+### How do I classify?
