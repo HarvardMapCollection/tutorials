@@ -76,7 +76,7 @@ _Example of the tenure data we will work with, uploaded to ArcGIS Online._
 17. Close out of the report screen by clicking the `X` in the upper-left corner next to **Create Report**.
 ![Screenshot of close button on Social Explorer](media/21.png)
 
-18. Now from the main menu, select `Geodata`.
+18. This should bring you back to the "explore tables" homepage. From the  menu on the left side of the page, select `Geodata`.
 
 19. Scroll down and select `U.S. Tract 1910-2019`.
 
