@@ -156,7 +156,8 @@ The image above pictures the extraction options. For instance, you can extract a
 
 ### Extract by location 
 
-To use the **extract by location** tool, navigate to `Processing → Toolbox → Vector Selection →  Extract by Location`. 
+To use the **extract by location** tool, navigate to `Processing → Toolbox → Vector Selection →  Extract by Location`. The processing tab is found in the main header, pictured below.
+![Screenshot of toolbar](media/processing.png)
 
 Under `Extract features from` select the dataset you want to clip.
 
