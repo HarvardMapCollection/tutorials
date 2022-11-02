@@ -90,4 +90,4 @@ Refer to the tenure[codebook](https://github.com/HarvardMapCollection/tutorials/
 
 13. Confirm the join worked by scrolling to the far-right of the attribute table and checking that fields `SE_A10060_001`, `SE_A10060_002`, and `SE_A10060_003` are populated with numerical data.
 
-14. **IMPORTANT!** Joins in the QGIS document are ephemeral and will not save unless exported. Right-click the census tracts layer, select `Export → Save Features As` and save the new joined dataset to preserve the join.
+14. **IMPORTANT!** Joins in the QGIS document are ephemeral and will not save unless exported. Right-click the census tracts layer, select `Export → Save Features As` and save the new joined dataset to preserve the join. Choose Esri Shapefile or GEOJson for the format, give your file a name in the next field, and then click "OK," leaving the other settings alone.
