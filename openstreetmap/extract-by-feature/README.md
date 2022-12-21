@@ -1,1 +1,0 @@
-The URL to this page is: harvardmapcollection.github.io/tutorials/openstreetmap/extract-by-feature
